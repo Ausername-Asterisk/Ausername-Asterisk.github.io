@@ -1,9 +1,8 @@
 title: Data Touches Everything 123
 author:
   name: Ken K. Hong
-  #email: -
-description:
-  A comprehensive repository uniting theory and practice in AI and Data Science.
+  email: -
+description: A comprehensive repository uniting theory and practice in AI and Data Science.
 
 minima:
   skin: classic  
