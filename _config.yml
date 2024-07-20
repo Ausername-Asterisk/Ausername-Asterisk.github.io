@@ -119,37 +119,38 @@ content:
                 <th style="border: 1px solid black; padding: 8px;">Implementation</th>
               </tr>
               <tr>
-                <td style="border: 1px solid black; padding: 8px;">**Convex & Nonconvex Optimization**</td>
+                <td style="border: 1px solid black; padding: 8px;"><strong>Convex & Nonconvex Optimization</strong></td>
                 <td style="border: 1px solid black; padding: 8px;">Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function.</td>
                 <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/1_Convex_%26_Nonconvex_Optimization_Github.ipynb">Python (numpy, scipy)</a></td>
               </tr>
               <tr>
-                <td style="border: 1px solid black; padding: 8px;">**Linear Programming**</td>
+                <td style="border: 1px solid black; padding: 8px;"><strong>Linear Programming</strong></td>
                 <td style="border: 1px solid black; padding: 8px;">Solution of common manufacturing production and electric power network problems using linear programming optimization techniques.</td>
                 <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/2_Linear_Programming_Github.ipynb">Python (numpy, cvxpy)</a></td>
               </tr>
               <tr>
-                <td style="border: 1px solid black; padding: 8px;">**Solving Linear Program Using Basic Feasible Solutions**</td>
+                <td style="border: 1px solid black; padding: 8px;"><strong>Solving Linear Program Using Basic Feasible Solutions</strong></td>
                 <td style="border: 1px solid black; padding: 8px;">Identification of all possible basic solutions and determination of the optimal solution among them.</td>
                 <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/3_Solving_Linear_Program_Using_Basic_Feasible_Solutions_Github.ipynb">Python (numpy)</a></td>
               </tr>
               <tr>
-                <td style="border: 1px solid black; padding: 8px;">**Solving Linear Program Using Simplex Method** ★</td>
+                <td style="border: 1px solid black; padding: 8px;"><strong>Solving Linear Program Using Simplex Method</strong> ★</td>
                 <td style="border: 1px solid black; padding: 8px;">Implementation of the simplex method from scratch to solve linear programming problems.</td>
                 <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/4_Solving_Linear_Program_Using_Simplex_Method_Github.ipynb">Python (numpy)</a></td>
               </tr>
               <tr>
-                <td style="border: 1px solid black; padding: 8px;">**Cutting Stock Problem With Column Generation** ★</td>
+                <td style="border: 1px solid black; padding: 8px;"><strong>Cutting Stock Problem With Column Generation</strong> ★</td>
                 <td style="border: 1px solid black; padding: 8px;">Solution of the cutting stock problem using column generation, applied to solve the pricing problem.</td>
                 <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/5_Cutting_Stock_Problem_with_Column_Generation_Github.ipynb">Python (numpy, cvxpy)</a></td>
               </tr>
               <tr>
-                <td style="border: 1px solid black; padding: 8px;">**Location Optimization Using SOCP**</td>
+                <td style="border: 1px solid black; padding: 8px;"><strong>Location Optimization Using SOCP</strong></td>
                 <td style="border: 1px solid black; padding: 8px;">Application of second-order cone programming to identify optimal locations for optimization problems.</td>
                 <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/6_Location_Optimization_Using_SOCP_Github.ipynb">Python (numpy, cvxpy)</a></td>
               </tr>
             </table>
           </div>
+
 
 
   - title: A Little More About Me
