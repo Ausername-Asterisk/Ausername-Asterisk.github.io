@@ -83,7 +83,7 @@ This graduate-level machine learning course delved deeply into essential methodo
 | Anomaly Detection                    |  CUSUM for Distribution Shift Detection                                                             | Python (numpy) |
 | Feature Selection & Random Forest    |  Fine Tuning Machine Learning Models for CART Random Forest and One Class SVM       [(Random Forests, Leo Breiman)](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)                   | Python (numpy, sklearn) |
 |  Nonlinear Regression                |  Locally Weighted Linear Regression with Bias Variance Tradeoff and Hyperparameter Fine Tuning       | Python (numpy) |
-| Machine Learning Project  ★            |   Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California. <br>Data Sources:    [ Federal Reserve Economic Data](https://fred.stlouisfed.org)   \| [National Weather Service](https://www.weather.gov/)   \| [U.S. Energy Information Administration (EIA)](https://www.eia.gov/)  | Python (matplotlib, seaborn, numpy, sklearn)|
+| Machine Learning Project  ★            |   Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California. <br>Data Sources:    [ Federal Reserve Economic Data](https://fred.stlouisfed.org)   \| [National Weather Service](https://www.weather.gov/)   \| [U.S. Energy Information Administration (EIA)](https://www.eia.gov/)  | [Python (matplotlib, seaborn, numpy, sklearn)](https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb)|
 
 
 
@@ -199,7 +199,7 @@ Deep learning, a specialized branch of machine learning, focuses on extracting i
 This repository will be continually updated as I progress in my studies and research. A new reinforcement learning section will be particularly expanded in 2025, with detailed explanations and practical implementations of various reinforcement learning techniques.
 
    
-![NASA](https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/cf0985c669ecba9d20896a4cb224710cd15a4475/img/NASA.jpg)
+![NASA](https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/c452c3234c025585567226e2d52913a1c29009f4/files/NASA.jpg)
 
 
  
