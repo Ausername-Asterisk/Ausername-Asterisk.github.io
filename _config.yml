@@ -105,10 +105,52 @@ content:
         sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        description: |
+          # This will include new lines to allow paragraphs
+          I started this project as a way of learning <mark>React</mark> and it has since grown into a fully fledged app. 
+          I have learned many skills through this and I’m very proud of having this in my portfolio. 
+          If you don't have a project as awesome as this, I would advise you to make one.
+        
+          <div style="font-size: 18px;">
+            <table style="width:100%; border-collapse: collapse;">
+              <tr>
+                <th style="border: 1px solid black; padding: 8px;">Feature</th>
+                <th style="border: 1px solid black; padding: 8px;">Description</th>
+                <th style="border: 1px solid black; padding: 8px;">Implementation</th>
+              </tr>
+              <tr>
+                <td style="border: 1px solid black; padding: 8px;">**Convex & Nonconvex Optimization**</td>
+                <td style="border: 1px solid black; padding: 8px;">Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function.</td>
+                <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/1_Convex_%26_Nonconvex_Optimization_Github.ipynb">Python (numpy, scipy)</a></td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid black; padding: 8px;">**Linear Programming**</td>
+                <td style="border: 1px solid black; padding: 8px;">Solution of common manufacturing production and electric power network problems using linear programming optimization techniques.</td>
+                <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/2_Linear_Programming_Github.ipynb">Python (numpy, cvxpy)</a></td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid black; padding: 8px;">**Solving Linear Program Using Basic Feasible Solutions**</td>
+                <td style="border: 1px solid black; padding: 8px;">Identification of all possible basic solutions and determination of the optimal solution among them.</td>
+                <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/3_Solving_Linear_Program_Using_Basic_Feasible_Solutions_Github.ipynb">Python (numpy)</a></td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid black; padding: 8px;">**Solving Linear Program Using Simplex Method** ★</td>
+                <td style="border: 1px solid black; padding: 8px;">Implementation of the simplex method from scratch to solve linear programming problems.</td>
+                <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/4_Solving_Linear_Program_Using_Simplex_Method_Github.ipynb">Python (numpy)</a></td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid black; padding: 8px;">**Cutting Stock Problem With Column Generation** ★</td>
+                <td style="border: 1px solid black; padding: 8px;">Solution of the cutting stock problem using column generation, applied to solve the pricing problem.</td>
+                <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/5_Cutting_Stock_Problem_with_Column_Generation_Github.ipynb">Python (numpy, cvxpy)</a></td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid black; padding: 8px;">**Location Optimization Using SOCP**</td>
+                <td style="border: 1px solid black; padding: 8px;">Application of second-order cone programming to identify optimal locations for optimization problems.</td>
+                <td style="border: 1px solid black; padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/6_Location_Optimization_Using_SOCP_Github.ipynb">Python (numpy, cvxpy)</a></td>
+              </tr>
+            </table>
+          </div>
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
