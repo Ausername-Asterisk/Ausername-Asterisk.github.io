@@ -59,13 +59,13 @@ about_content: | # this will include new lines to allow paragraphs
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. Upcoming studies in Fall 2024 will focus on neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
 
 content:        
-  - title: Experience # Title for the section
+  - title: Optimization Course # Title for the section
     layout: list # Type of content section (list/text)
     content:
     - layout: left
-      title: Harvard University
-      caption: 2010 - 2013
-      sub_title: BSc Computer Science
+      title: Optimization
+      caption: 2023 - 2023
+      sub_title: Georgia Tech
       quote: >
       description: |
         <div style="font-size: 14px;">
@@ -131,21 +131,19 @@ content:
         - Module 21-23: Convex and Conic Programming
         - Module 24: Semi-Definite Programming
         - Module 25-30: Discrete Optimization
-        
         <br> <!-- Adds two empty lines -->
-        
         **Additional Resources:**
         - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
         - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
         - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
 
-  - title: Education # Title for the section
+  - title: Machine Learning # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Machine Learning
+        caption: 2024 - 2024
+        sub_title: Georgia Tech
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -226,28 +224,31 @@ content:
           </div>
             <br> <!-- Adds two empty lines -->
             **Topic Learned:**
-            - Module 1: Introduction
-            - Module 2: Illustration of Optimization Process
-            - Module 3: Mathematical Concepts Review
-            - Module 4: Convexity
-            - Module 5: Outcomes of Optimization
-            - Module 6: Optimality Certificates
-            - Module 7-8: Unconstrained Optimization
-            - Module 9-10: Linear Optimization Modeling
-            - Module 11-12: Advanced Linear Optimization
-            - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
-            - Module 15-16: Simplex Method and Further Development
-            - Module 17-18: Advanced Optimization Techniques
-            - Module 19-20: Nonlinear Optimization Modeling
-            - Module 21-23: Convex and Conic Programming
-            - Module 24: Semi-Definite Programming
-            - Module 25-30: Discrete Optimization
+            - Module 1: Clustering and K-means
+            - Module 2: Spectral Clustering
+            - Module 3: Dimensionality Reduction and PCA
+            - Module 4: Nonlinear Dimensionality Reduction
+            - Module 5: Density Estimation
+            - Module 6: Gaussian Mixture Model and EM Algorithm
+            - Module 7: Basics of Optimization Theory
+            - Module 8: Classification: Naïve Bayes and Logistic Regression
+            - Module 9: Support Vector Machine (SVM), Neural Networks
+            - Module 10: Feature Selection
+            - Module 11: Anomaly Detection
+            - Module 12: Boosting Algorithms and AdaBoost
+            - Module 13: Random Forest
+            - Module 14: Bias-Variance Tradeoff, Cross-Validation, Kernel Methods, Reinforcement Learning
+            - Module 15: Intro to Reinforcement Learning
             <br> <!-- Adds two empty lines -->
             **Additional Resources:**
-            - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
-            - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
-            - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
-          
+            - [ The Elements of Statistical Learning  ★](https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en)
+            - [ A Mathematical Introduction to Data Science by Yuan Yao  ★](https://www.math.pku.edu.cn/teachers/yaoy/reference/book05.pdf)
+            - [Pattern Recognition and Machine Learning](https://www.google.com/books/edition/Pattern_Recognition_and_Machine_Learning/kOXDtAEACAAJ?hl=en)
+            - [Foundations of Machine Learning](https://www.google.com/books/edition/Foundations_of_Machine_Learning_second_e/V2B9DwAAQBAJ?hl=en)
+            - [An Introduction to Statistical Learning](https://www.statlearning.com/)
+            - [Collaborative filtering  (recommender systems)](https://en.wikipedia.org/wiki/Collaborative_filtering)
+            - [Fairness and machine learning](https://fairmlbook.org/)
+
    
   - title: High-Dimensional Data Analysis Course # Title for the section
     layout: list # Type of content section (list/text)
@@ -341,28 +342,48 @@ content:
           </div>
             <br> <!-- Adds two empty lines -->
             **Topic Learned:**
-            - Module 1: Introduction
-            - Module 2: Illustration of Optimization Process
-            - Module 3: Mathematical Concepts Review
-            - Module 4: Convexity
-            - Module 5: Outcomes of Optimization
-            - Module 6: Optimality Certificates
-            - Module 7-8: Unconstrained Optimization
-            - Module 9-10: Linear Optimization Modeling
-            - Module 11-12: Advanced Linear Optimization
-            - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
-            - Module 15-16: Simplex Method and Further Development
-            - Module 17-18: Advanced Optimization Techniques
-            - Module 19-20: Nonlinear Optimization Modeling
-            - Module 21-23: Convex and Conic Programming
-            - Module 24: Semi-Definite Programming
-            - Module 25-30: Discrete Optimization
+            - Module 1: Functional Data Analysis
+              - Linear Regression, Splines, BSplines , Smoothing Splines, Kernel Smoothers, FPCA
+            
+            - Module 2: Image Analysis
+              - Image Filtering and Convolution, Image Transformation & Edge Detection, Image segmentation
+            
+            - Module 3: Tensor Data Analysis
+              - Tensor Preliminaries, Tensor Decomposition, Tensor Applications 
+            
+            - Module 4: Optimization I
+              - First order methods, Second order methods
+            
+            - Module 5: Optimization II
+              - Proximal Gradient Descent, Coordinate Descent, ALM and ADMM
+            
+            - Module 6: Regularization
+              - Ridge Regression & LASSO, Adaptive LASSO, Grouped LASSO, Elastic Net
+            
+            - Module 7: Regularization Applications
+              - Compressive Sensing, Matrix Completion, Robust PCA,
+              - Smooth-Sparse Decomposition, RKHS Ridge Kernel Regression
             <br> <!-- Adds two empty lines -->
             **Additional Resources:**
-            - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
-            - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
-            - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
+            - [ High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma  ★](https://book-wright-ma.github.io/)
 
+  - title: Deep Learning # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Deep Learning
+        caption: 2024 - 2024
+        sub_title: Georgia Tech
+        quote: >
+           
+        description: | # this will include new lines to allow paragraphs
+            Deep learning, a specialized branch of machine learning, focuses on extracting intricate hierarchical representations from raw data. Central to this field is artificial neural networks, which have revolutionized data processing across various domains such as image analysis, natural language processing, and decision-making tasks. This course delves into fundamental principles, mathematical foundations, and practical implementation of deep learning. Topics include optimization techniques like gradient descent and backpropagation, foundational neural network modules such as linear and convolutional layers, and advanced architectures like recurrent neural networks and convolutional neural networks. Through hands-on programming assignments using PyTorch, participants will learn to construct and optimize neural networks, apply them to real-world applications, choose appropriate models for diverse problems, and understand ongoing research challenges in the field.
+
+            <br> <!-- Adds two empty lines -->
+            **Additional Resources:**
+            - [ Attention Is All You Need ★](https://arxiv.org/abs/1706.03762)
+            - [Dive into Deep Learning  ](https://d2l.ai/)
+            
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
