@@ -28,6 +28,6 @@ This graduate-level optimization course covered essential concepts, models, and 
 
 Practical skills were developed in formulating and solving complex optimization problems using Python-based tools. This experience enhanced proficiency in optimization theory, computational methods, and their applications in modern data analytics.
 
-| Topics  | Description | Implementation(Private) | 
+| Topics  | Description | Implementation \br (Private) | 
 | :---: | :--- | :---: | 
 | Convex & Nonconvex Optimization | Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function. | [Python (numpy, scipy)] |
