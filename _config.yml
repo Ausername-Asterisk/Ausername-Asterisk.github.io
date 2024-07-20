@@ -131,7 +131,9 @@ content:
         - Module 21-23: Convex and Conic Programming
         - Module 24: Semi-Definite Programming
         - Module 25-30: Discrete Optimization
+        
         <br> <!-- Adds two empty lines -->
+        
         **Additional Resources:**
         - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
         - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
