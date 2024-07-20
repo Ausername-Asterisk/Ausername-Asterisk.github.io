@@ -13,7 +13,7 @@ This repository serves as a comprehensive record of my academic journey and a pl
 - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. Upcoming studies in Fall 2024 will focus on neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
 
 
-
+   <br>  
 
 ## Table of contents
 - [About](#about)
@@ -25,12 +25,14 @@ This repository serves as a comprehensive record of my academic journey and a pl
 - [Additional Resources](#additional-resources)
 - [Future Update](#future-update)
 
+   <br>  
+   
 ## Optimization Course at Georgia Tech
 This graduate-level optimization course covered essential concepts, models, and algorithms in depth. Beginning with foundational principles and mathematical underpinnings, the curriculum progressed through linear optimization techniques, including advanced topics such as the simplex method and duality theory. Subsequent modules explored nonlinear and convex conic optimization, broadening understanding beyond linear models. Additionally, the course included a study of integer optimization, providing insights into integrating integer decision variables into optimization frameworks.
 
 Practical skills were developed in formulating and solving complex optimization problems using Python-based tools. This experience enhanced proficiency in optimization theory, computational methods, and their applications in modern data analytics.
 
-| Topics  | Description | Implementation <br> (Private Repository)           | 
+| Topics  | Description | Implementation <br> (Private)           | 
 | :---:| :--- | :---: | 
 | Convex & Nonconvex Optimization | Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function. | Python (numpy, scipy) |
 | Linear Programming | Solution of common manufacturing production and electric power network problems using linear programming optimization techniques. | Python (numpy, cvxpy) |
@@ -62,12 +64,14 @@ Practical skills were developed in formulating and solving complex optimization 
 - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
 - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
 - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
- 
+
+    <br>  
+    
 ## Machine Learning Course at Georgia Tech
 This graduate-level machine learning course delved deeply into essential methodologies, theories, and algorithms across various domains. Beginning with fundamental concepts in clustering, dimensionality reduction, and statistical modeling, the curriculum progressed to advanced techniques such as Gaussian mixture models, support vector machines (SVM), and ensemble methods like AdaBoost and random forests. Practical application was a key focus, with hands-on projects using Python for algorithm implementation and analysis of real-world datasets. The course provided a thorough understanding of machine learning principles, equipping participants with the skills to tackle intricate analytical problems, optimize model performance, and derive meaningful insights from data.
 
 
-| Topic                                | Description                                                                                           | Implementation    <br> (Private Repository)                                                                                    |
+| Topic                                | Description                                                                                           | Implementation    <br> (Private)                                                                                    |
 |:-------------------------------------:|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
 |  Clustering and K-means               | Image Compression using K means Algorithm  | Python (numpy) |
 | Clustering and K-means               | Evaluation of K means and K median Clustering on MNIST Dataset |Python (numpy)|
@@ -119,13 +123,14 @@ This graduate-level machine learning course delved deeply into essential methodo
 - [Statistical Learning with Python](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
 - [CS229: Machine Learning — Andrew Ng](https://cs229.stanford.edu/)
 
-  
+     <br>  
+     
 ## High-Dimensional Data Analysis Course at Georgia Tech
 This graduate-level course in high-dimensional data analysis is designed to equip professionals with essential skills in feature extraction and dimensionality reduction in statistical machine learning. The curriculum focuses on key topics such as functional data analysis, advanced image processing techniques, multilinear algebra, tensor analysis, and advanced regularization techniques for handling complex datasets. These foundational areas provide vital tools for effectively understanding and interpreting data, improving the extraction of meaningful features, and simplifying data analysis. Understanding these techniques prepares professionals to address challenges in image analysis, optimize predictive models to prevent errors, and gain useful insights across various data-driven fields.
 
 
 
-| Topic                                | Additional Readings                                                                                           | Implementation    <br> (Private Repository)                                                                                       |
+| Topic                                | Additional Readings                                                                                           | Implementation    <br> (Private)                                                                                       |
 |:-------------------------------------:|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
 | Linear Regression     <br>    Splines         <br>   BSplines       <br>    Smoothing Splines     <br>  Kernel Smoothers    <br>  FPCA                     | [1. The Elements of Statistical Learning Page 43-52, 139-161, 186-208](https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en)   <br> [2. Functional Data Analysis for Sparse Longitudinal Data](https://www.researchgate.net/publication/4741968_Functional_Data_Analysis_for_Sparse_Longitudinal_Data)  | Python (numpy) |
 |  Image Filtering and Convolution    <br>      Image Transformation  & Edge Detection  <br>   Image segmentation           |   [1. A Concise Introduction to Image Processing Using C++ Chapters 2, 3, 4](https://www.google.com/books/edition/A_Concise_Introduction_to_Image_Processi/fp7SBQAAQBAJ?hl=en)  | [Python (numpy)] |
@@ -166,16 +171,19 @@ This graduate-level course in high-dimensional data analysis is designed to equi
 **Additional Resources:**
 - [ High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma  ★](https://book-wright-ma.github.io/)
 
+   <br>  
 
 ## Deep Learning Course at Georgia Tech (To be updated in Fall 2024)
 Deep learning, a specialized branch of machine learning, focuses on extracting intricate hierarchical representations from raw data. Central to this field is artificial neural networks, which have revolutionized data processing across various domains such as image analysis, natural language processing, and decision-making tasks. This course delves into fundamental principles, mathematical foundations, and practical implementation of deep learning. Topics include optimization techniques like gradient descent and backpropagation, foundational neural network modules such as linear and convolutional layers, and advanced architectures like recurrent neural networks and convolutional neural networks. Through hands-on programming assignments using PyTorch, participants will learn to construct and optimize neural networks, apply them to real-world applications, choose appropriate models for diverse problems, and understand ongoing research challenges in the field.
+
 
 
 **Additional Resources:**
 - [ Attention Is All You Need ★](https://arxiv.org/abs/1706.03762)
 - [Dive into Deep Learning  ](https://d2l.ai/)
 
-  
+     <br>  
+     
 ## Additional Resources
 - [AI-Expert-Roadmap ★](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [Trustworthy Online Controlled Experiments (A/B Testing) ★](https://www.google.com/books/edition/Trustworthy_Online_Controlled_Experiment/NHjQDwAAQBAJ?hl=en)
@@ -186,6 +194,9 @@ Deep learning, a specialized branch of machine learning, focuses on extracting i
 - [Probabilistic Machine Learning — Philipp Hennig](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 - [Lil'Log](https://lilianweng.github.io/)
 
-
+   <br>  
+   
 ## Future Update
 This repository will be continually updated as I progress in my studies and research. A new reinforcement learning section will be particularly expanded in 2025, with detailed explanations and practical implementations of various reinforcement learning techniques.
+
+![NASA](https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/img/Background.jpg)
