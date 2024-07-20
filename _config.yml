@@ -73,32 +73,26 @@ content:
         
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-        +---------------------------+---------------+----------+---------------------------------------------------------------------------------------------------+
-        | Field                     | Example Value | Required | Description                                                                                       |
-        +---------------------------+---------------+----------+---------------------------------------------------------------------------------------------------+
-        | replicas                  | 5             |          | Number of team members led.                                                                        |
-        | selector                  |               |          | Key responsibilities in the company.                                                              |
-        |   matchLabels             |               |          | Identifies specific skills or roles.                                                              |
-        |     app                   | Networking    |          | Main focus area in the company.                                                                   |
-        | template                  |               |          | Details about the projects handled.                                                               |
-        |   metadata                |               |          | Additional metadata or notes.                                                                     |
-        |     labels                |               |          | Key achievements and technologies used.                                                           |
-        |       app                 | Connectivity  |          | Specific accomplishments in ensuring company connectivity.                                        |
-        |   spec                    |               |          | Specification of duties and roles.                                                                |
-        |     containers            |               |          | List of tools and technologies used.                                                              |
-        |         name              | The Boring Co.|          | Company name.                                                                                     |
-        |         image             | Not a flamethrower |     | Example product or project.                                                                      |
-        |         ports             |               |          | Channels or methods of communication used.                                                        |
-        |             containerPort | 8080          |          | Primary communication port or medium used.                                                        |
-        +---------------------------+---------------+----------+---------------------------------------------------------------------------------------------------+
+  content:
+    - layout: left
+      title: Harvard University
+      caption: 2010 - 2013
+      sub_title: BSc Computer Science
+      quote: >
+        Solving 21st century problems by digging holes and making game-changing products like the *not a flamethrower*
+      description: |
+        Here are some notable alumni and their details:
+  
+        - name: John Doe
+          age: 30
+          occupation: Software Engineer
+        - name: Jane Smith
+          age: 25
+          occupation: Data Scientist
+        - name: Emily Johnson
+          age: 40
+          occupation: Product Manager
+
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
