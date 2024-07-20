@@ -200,6 +200,6 @@ This repository will be continually updated as I progress in my studies and rese
 
 <br> 
 
-![NASA](https://raw.githubusercontent.com/Ausername-Asterisk/Ausername-Asterisk.github.io/81c3c641c2ba6619129c35183777cb6c328551bb/files/NASA.jpg)
+![NASA](https://raw.githubusercontent.com/Ausername-Asterisk/Ausername-Asterisk.github.io/main/assets/images/NASA.jpg)
 
 <br> 
