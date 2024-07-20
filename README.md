@@ -69,9 +69,9 @@ This graduate-level machine learning course delved deeply into essential methodo
 
 | Topic                                | Description                                                                                           | Implementation    <br> (Private)                                                                                       |
 |:-------------------------------------|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
-| - Clustering and K-means               | Image Compression using K means Algorithm  | Python (numpy) |
-| - Clustering and K-means               | Evaluation of K means and K median Clustering on MNIST Dataset |Python (numpy)|
-| - Spectral Clustering                  |  Political Blogosphere Analysis Using Spectral Clustering  [(Spectral Clustering, Ulrike von Luxburg)](https://arxiv.org/abs/0711.0189)                                           | Python (numpy) |
+|  Clustering and K-means               | Image Compression using K means Algorithm  | Python (numpy) |
+| Clustering and K-means               | Evaluation of K means and K median Clustering on MNIST Dataset |Python (numpy)|
+|  Spectral Clustering                  |  Political Blogosphere Analysis Using Spectral Clustering  [(Spectral Clustering, Ulrike von Luxburg)](https://arxiv.org/abs/0711.0189)                                           | Python (numpy) |
 | Dimensionality Reduction and PCA     |  Eigenface Generation and Analysis using PCA on the Olivetti Faces Dataset                          | Python (numpy)|
 | Nonlinear Dimensionality Reduction  ★ |   ISOMAP Algorithm Implementation and Visualization for Facial Image Analysis [(ISOMAP Paper)](https://www.science.org/doi/10.1126/science.290.5500.2319)                        | Python (numpy)|
 | Density Estimation                   |  Analyzing Brain Structure and Categorical Labels Data Distribution                                  | Python (matplotlib, seaborn)|
