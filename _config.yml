@@ -284,7 +284,52 @@ content:
             </tbody>
           </table>
           </div>
-          
+        additional_info: | # this will include new lines to allow paragraphs
+          <div style="font-size: 14px;">
+          <strong>Topic Learned:</strong>
+          <ul>
+            <li><strong>Module 1:</strong> Functional Data Analysis
+              <ul>
+                <li>Linear Regression, Splines, BSplines, Smoothing Splines, Kernel Smoothers, FPCA</li>
+              </ul>
+            </li>
+            <li><strong>Module 2:</strong> Image Analysis
+              <ul>
+                <li>Image Filtering and Convolution, Image Transformation & Edge Detection, Image segmentation</li>
+              </ul>
+            </li>
+            <li><strong>Module 3:</strong> Tensor Data Analysis
+              <ul>
+                <li>Tensor Preliminaries, Tensor Decomposition, Tensor Applications</li>
+              </ul>
+            </li>
+            <li><strong>Module 4:</strong> Optimization I
+              <ul>
+                <li>First order methods, Second order methods</li>
+              </ul>
+            </li>
+            <li><strong>Module 5:</strong> Optimization II
+              <ul>
+                <li>Proximal Gradient Descent, Coordinate Descent, ALM and ADMM</li>
+              </ul>
+            </li>
+            <li><strong>Module 6:</strong> Regularization
+              <ul>
+                <li>Ridge Regression & LASSO, Adaptive LASSO, Grouped LASSO, Elastic Net</li>
+              </ul>
+            </li>
+            <li><strong>Module 7:</strong> Regularization Applications
+              <ul>
+                <li>Compressive Sensing, Matrix Completion, Robust PCA, Smooth-Sparse Decomposition, RKHS Ridge Kernel Regression</li>
+              </ul>
+            </li>
+          </ul>
+  
+          <strong>Additional Resources:</strong>
+          <ul>
+            <li><a href="https://book-wright-ma.github.io/">High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma ★</a></li>
+          </ul>
+          </div>
 
   - title: A Little More About Me
     layout: text
