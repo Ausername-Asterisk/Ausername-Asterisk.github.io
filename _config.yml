@@ -80,18 +80,15 @@ content:
       sub_title: BSc Computer Science
       quote: >
         Solving 21st century problems by digging holes and making game-changing products like the *not a flamethrower*
-      description: |
-        Here are some notable alumni and their details:
-  
-        - name: John Doe
-          age: 30
-          occupation: Software Engineer
-        - name: Jane Smith
-          age: 25
-          occupation: Data Scientist
-        - name: Emily Johnson
-          age: 40
-          occupation: Product Manager
+      description: | # this will include new lines to allow paragraphs
+        I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+        | Feature        | Description                                  |
+        | -------------- | -------------------------------------------- |
+        | User Interface | A modern and intuitive UI built with React   |
+        | Performance    | Optimized for speed and efficiency           |
+        | Scalability    | Easily scalable to handle more users         |
+        | Security       | Implemented robust security measures         |
 
         
   - title: Education # Title for the section
