@@ -193,23 +193,16 @@ content:
             </tbody>
           </table>
           </div>
-
-  - title: Projects # Title for the section
+          
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+      - layout: left
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
           This section covers advanced topics in machine learning with additional readings and implementations.
@@ -291,6 +284,7 @@ content:
             </tbody>
           </table>
           </div>
+          
 
   - title: A Little More About Me
     layout: text
