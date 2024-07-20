@@ -58,6 +58,8 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. Upcoming studies in Fall 2024 will focus on neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
 
+    - **Reinforcement Learning:** To be updated in 2025
+
 content:        
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
