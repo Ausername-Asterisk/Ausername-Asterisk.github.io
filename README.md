@@ -1,3 +1,5 @@
+# Data Touches Everything
+
 ## About
 
 This repository serves as a comprehensive record of my academic journey and a platform for organizing my knowledge and goals in AI and Data Science as I pursue my Data Analystic and Data Science master's degree at Georgia Tech, guided by the [Artificial Intelligence Roadmap](https://i.am.ai/roadmap/#note). With a strong foundation in essential components that underlie modern data science methodologies, key areas include:
