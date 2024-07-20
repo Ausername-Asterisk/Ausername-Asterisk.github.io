@@ -222,29 +222,29 @@ content:
             </tbody>
           </table>
           </div>
-        <br> <!-- Adds two empty lines -->
-        **Topic Learned:**
-        - Module 1: Introduction
-        - Module 2: Illustration of Optimization Process
-        - Module 3: Mathematical Concepts Review
-        - Module 4: Convexity
-        - Module 5: Outcomes of Optimization
-        - Module 6: Optimality Certificates
-        - Module 7-8: Unconstrained Optimization
-        - Module 9-10: Linear Optimization Modeling
-        - Module 11-12: Advanced Linear Optimization
-        - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
-        - Module 15-16: Simplex Method and Further Development
-        - Module 17-18: Advanced Optimization Techniques
-        - Module 19-20: Nonlinear Optimization Modeling
-        - Module 21-23: Convex and Conic Programming
-        - Module 24: Semi-Definite Programming
-        - Module 25-30: Discrete Optimization
-        <br> <!-- Adds two empty lines -->
-        **Additional Resources:**
-        - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
-        - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
-        - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
+            <br> <!-- Adds two empty lines -->
+            **Topic Learned:**
+            - Module 1: Introduction
+            - Module 2: Illustration of Optimization Process
+            - Module 3: Mathematical Concepts Review
+            - Module 4: Convexity
+            - Module 5: Outcomes of Optimization
+            - Module 6: Optimality Certificates
+            - Module 7-8: Unconstrained Optimization
+            - Module 9-10: Linear Optimization Modeling
+            - Module 11-12: Advanced Linear Optimization
+            - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
+            - Module 15-16: Simplex Method and Further Development
+            - Module 17-18: Advanced Optimization Techniques
+            - Module 19-20: Nonlinear Optimization Modeling
+            - Module 21-23: Convex and Conic Programming
+            - Module 24: Semi-Definite Programming
+            - Module 25-30: Discrete Optimization
+            <br> <!-- Adds two empty lines -->
+            **Additional Resources:**
+            - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
+            - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
+            - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
           
    
   - title: High-Dimensional Data Analysis Course # Title for the section
@@ -337,29 +337,29 @@ content:
             </tbody>
           </table>
           </div>
-        <br> <!-- Adds two empty lines -->
-        **Topic Learned:**
-        - Module 1: Introduction
-        - Module 2: Illustration of Optimization Process
-        - Module 3: Mathematical Concepts Review
-        - Module 4: Convexity
-        - Module 5: Outcomes of Optimization
-        - Module 6: Optimality Certificates
-        - Module 7-8: Unconstrained Optimization
-        - Module 9-10: Linear Optimization Modeling
-        - Module 11-12: Advanced Linear Optimization
-        - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
-        - Module 15-16: Simplex Method and Further Development
-        - Module 17-18: Advanced Optimization Techniques
-        - Module 19-20: Nonlinear Optimization Modeling
-        - Module 21-23: Convex and Conic Programming
-        - Module 24: Semi-Definite Programming
-        - Module 25-30: Discrete Optimization
-        <br> <!-- Adds two empty lines -->
-        **Additional Resources:**
-        - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
-        - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
-        - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
+            <br> <!-- Adds two empty lines -->
+            **Topic Learned:**
+            - Module 1: Introduction
+            - Module 2: Illustration of Optimization Process
+            - Module 3: Mathematical Concepts Review
+            - Module 4: Convexity
+            - Module 5: Outcomes of Optimization
+            - Module 6: Optimality Certificates
+            - Module 7-8: Unconstrained Optimization
+            - Module 9-10: Linear Optimization Modeling
+            - Module 11-12: Advanced Linear Optimization
+            - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
+            - Module 15-16: Simplex Method and Further Development
+            - Module 17-18: Advanced Optimization Techniques
+            - Module 19-20: Nonlinear Optimization Modeling
+            - Module 21-23: Convex and Conic Programming
+            - Module 24: Semi-Definite Programming
+            - Module 25-30: Discrete Optimization
+            <br> <!-- Adds two empty lines -->
+            **Additional Resources:**
+            - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
+            - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
+            - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
 
   - title: A Little More About Me
     layout: text
