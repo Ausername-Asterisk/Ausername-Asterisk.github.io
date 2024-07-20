@@ -198,5 +198,8 @@ Deep learning, a specialized branch of machine learning, focuses on extracting i
 ## Future Update
 This repository will be continually updated as I progress in my studies and research. A new reinforcement learning section will be particularly expanded in 2025, with detailed explanations and practical implementations of various reinforcement learning techniques.
 
-   
+<br> 
 
+![NASA](https://raw.githubusercontent.com/Ausername-Asterisk/Ausername-Asterisk.github.io/81c3c641c2ba6619129c35183777cb6c328551bb/files/NASA.jpg)
+
+<br> 
