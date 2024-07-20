@@ -284,7 +284,6 @@ content:
             </tbody>
           </table>
           </div>
-        additional_info: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
           <strong>Topic Learned:</strong>
           <ul>
