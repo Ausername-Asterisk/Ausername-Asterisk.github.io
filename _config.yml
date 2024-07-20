@@ -69,9 +69,15 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+        description: |
+      | Topics  | Description | Implementation | 
+      | :---: | :--- | :---: | 
+      | Convex & Nonconvex Optimization | Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function. | [Python (numpy, scipy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/1_Convex_%26_Nonconvex_Optimization_Github.ipynb) |
+      | Linear Programming | Solution of common manufacturing production and electric power network problems using linear programming optimization techniques. | [Python (numpy, cvxpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/2_Linear_Programming_Github.ipynb) |
+      | Solving Linear Program Using Basic Feasible Solutions | Identification of all possible basic solutions and determination of the optimal solution among them. | [Python (numpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/3_Solving_Linear_Program_Using_Basic_Feasible_Solutions_Github.ipynb) |
+      | Solving Linear Program Using Simplex Method ★ | Implementation of the simplex method from scratch to solve linear programming problems. | [Python (numpy) ](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/4_Solving_Linear_Program_Using_Simplex_Method_Github.ipynb) |
+      | Cutting Stock Problem With Column Generation ★ | Solution of the cutting stock problem using column generation, applied to solve the pricing problem. | [Python (numpy, cvxpy)  ](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/5_Cutting_Stock_Problem_with_Column_Generation_Github.ipynb) |
+      | Location Optimization Using SOCP | Application of second-order cone programming to identify optimal locations for optimization problems. | [Python (numpy, cvxpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/6_Location_Optimization_Using_SOCP_Github.ipynb) |
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
