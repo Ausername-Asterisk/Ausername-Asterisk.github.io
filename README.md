@@ -31,7 +31,7 @@ This graduate-level optimization course covered essential concepts, models, and 
 Practical skills were developed in formulating and solving complex optimization problems using Python-based tools. This experience enhanced proficiency in optimization theory, computational methods, and their applications in modern data analytics.
 
 | Topics  | Description | Implementation <br> (Private)           | 
-| :---: | :--- | :---: | 
+| :--- | :--- | :---: | 
 | Convex & Nonconvex Optimization | Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function. | Python (numpy, scipy) |
 | Linear Programming | Solution of common manufacturing production and electric power network problems using linear programming optimization techniques. | Python (numpy, cvxpy) |
 | Solving Linear Program Using Basic Feasible Solutions | Identification of all possible basic solutions and determination of the optimal solution among them. | Python (numpy)|
@@ -68,7 +68,7 @@ This graduate-level machine learning course delved deeply into essential methodo
 
 
 | Topic                                | Description                                                                                           | Implementation    <br> (Private)                                                                                       |
-|:-------------------------------------:|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
+|:-------------------------------------|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
 | Clustering and K-means               | Image Compression using K means Algorithm  | Python (numpy) |
 | Clustering and K-means               | Evaluation of K means and K median Clustering on MNIST Dataset |Python (numpy)|
 | Spectral Clustering                  |  Political Blogosphere Analysis Using Spectral Clustering  [(Spectral Clustering, Ulrike von Luxburg)](https://arxiv.org/abs/0711.0189)                                           | Python (numpy) |
@@ -126,7 +126,7 @@ This graduate-level course in high-dimensional data analysis is designed to equi
 
 
 | Topic                                | Additional Readings                                                                                           | Implementation    <br> (Private)                                                                                       |
-|:-------------------------------------:|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
+|:-------------------------------------|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
 | Linear Regression     <br>    Splines         <br>   BSplines       <br>    Smoothing Splines     <br>  Kernel Smoothers    <br>  FPCA                     | [1. The Elements of Statistical Learning Page 43-52, 139-161, 186-208](https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en)   <br> [2. Functional Data Analysis for Sparse Longitudinal Data](https://www.researchgate.net/publication/4741968_Functional_Data_Analysis_for_Sparse_Longitudinal_Data)  | Python (numpy) |
 |  Image Filtering and Convolution    <br>      Image Transformation  & Edge Detection  <br>   Image segmentation           |   [1. A Concise Introduction to Image Processing Using C++ Chapters 2, 3, 4](https://www.google.com/books/edition/A_Concise_Introduction_to_Image_Processi/fp7SBQAAQBAJ?hl=en)  | [Python (numpy)] |
 | Tensor Preliminaries      <br>  Tensor Decomposition      <br>  Tensor  Applications I      <br>   Tensor  Applications II      <br>    Tensor  Applications III     | [1. Tensor Decompositions and Applications 455-480](https://www.jstor.org/stable/25662308?seq=1#metadata_info_tab_contents)  <br>    [2. Structured Point Cloud Data Analysis via Regularized Tensor Regression for Process Modeling and Optimization](https://arxiv.org/abs/1807.10278)<br>  [3. Image-Based Prognostics Using Penalized Tensor Regression](https://arxiv.org/abs/1706.03423)  <br>  [4. Tensor decompositions for feature extraction and classification of high dimensional datasets](https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets)   | [Python (numpy)] |
