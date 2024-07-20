@@ -80,21 +80,51 @@ content:
       sub_title: BSc Computer Science
       quote: >
       description: |
-        # This will include new lines to allow paragraphs
-        I started this project as a way of learning <mark>React</mark> and it has since grown into a fully fledged app. 
-        I have learned many skills through this and I’m very proud of having this in my portfolio. 
-        If you don't have a project as awesome as this, I would advise you to make one.
-      
-        | Feature                                     | Description                                                                                               | Implementation                                              |
-        |---------------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-        | **Convex & Nonconvex Optimization**         | Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function. | [Python (numpy, scipy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/1_Convex_%26_Nonconvex_Optimization_Github.ipynb) |
-        | **Linear Programming**                      | Solution of common manufacturing production and electric power network problems using linear programming optimization techniques. | [Python (numpy, cvxpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/2_Linear_Programming_Github.ipynb) |
-        | **Solving Linear Program Using Basic Feasible Solutions** | Identification of all possible basic solutions and determination of the optimal solution among them. | [Python (numpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/3_Solving_Linear_Program_Using_Basic_Feasible_Solutions_Github.ipynb) |
-        | **Solving Linear Program Using Simplex Method** ★ | Implementation of the simplex method from scratch to solve linear programming problems. | [Python (numpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/4_Solving_Linear_Program_Using_Simplex_Method_Github.ipynb) |
-        | **Cutting Stock Problem With Column Generation** ★ | Solution of the cutting stock problem using column generation, applied to solve the pricing problem. | [Python (numpy, cvxpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/5_Cutting_Stock_Problem_with_Column_Generation_Github.ipynb) |
-        | **Location Optimization Using SOCP**         | Application of second-order cone programming to identify optimal locations for optimization problems. | [Python (numpy, cvxpy)](https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/6_Location_Optimization_Using_SOCP_Github.ipynb) |
+        <div style="font-size: 14px;">
+        This section covers various optimization techniques and their implementations. Each topic includes a link to a Python implementation for further exploration.
 
-
+        <table style="border-collapse: collapse; width: 100%;">
+          <thead>
+            <tr style="border-bottom: 2px solid black;">
+              <th style="padding: 8px; text-align: left;">Topic</th>
+              <th style="padding: 8px; text-align: left;">Description</th>
+              <th style="padding: 8px; text-align: left;">Implementation <br> (Private)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Convex & Nonconvex Optimization</td>
+              <td style="padding: 8px;">Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function.</td>
+              <td style="padding: 8px;">Python (numpy, scipy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Linear Programming</td>
+              <td style="padding: 8px;">Solution of common manufacturing production and electric power network problems using linear programming optimization techniques.</td>
+              <td style="padding: 8px;">Python (numpy, cvxpy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Solving Linear Program Using Basic Feasible Solutions</td>
+              <td style="padding: 8px;">Identification of all possible basic solutions and determination of the optimal solution among them.</td>
+              <td style="padding: 8px;">Python (numpy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Solving Linear Program Using Simplex Method ★</td>
+              <td style="padding: 8px;">Implementation of the simplex method from scratch to solve linear programming problems.</td>
+              <td style="padding: 8px;">Python (numpy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Cutting Stock Problem With Column Generation ★</td>
+              <td style="padding: 8px;">Solution of the cutting stock problem using column generation, applied to solve the pricing problem.</td>
+              <td style="padding: 8px;">Python (numpy, cvxpy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Location Optimization Using SOCP</td>
+              <td style="padding: 8px;">Application of second-order cone programming to identify optimal locations for optimization problems.</td>
+              <td style="padding: 8px;">Python (numpy, cvxpy)</td>
+            </tr>
+          </tbody>
+        </table>
+        </div>
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
