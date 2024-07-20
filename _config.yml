@@ -9,7 +9,7 @@ version: 2
 name: Ken K. Hong
 title: 
 email: 
-website: https://www.linkedin.com/in/kkhong42/
+website: 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,7 +22,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/kkhong42/
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -59,6 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. Upcoming studies in Fall 2024 will focus on neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
 
     - **Reinforcement Learning:** To be updated in 2025
+
 
 content:        
   - title:  # Title for the section
