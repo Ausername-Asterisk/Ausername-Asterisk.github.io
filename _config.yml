@@ -113,15 +113,25 @@ content:
           </tbody>
         </table>
         </div>
-        <br><br> <!-- Adds two empty lines -->
-        <div style="font-size: 14px;">
-        <strong>Additional Resources:</strong>
-        <ul>
-          <li><a href="https://stanford.edu/~boyd/cvxbook/">Convex Optimization – Boyd and Vandenberghe ★</a></li>
-          <li><a href="https://aaa.princeton.edu/orf363">ORF363 Computing and Optimization</a></li>
-          <li><a href="https://aaa.princeton.edu/orf523">ORF523 Convex and Conic Optimization</a></li>
-        </ul>
-        </div>
+        <br> <!-- Adds two empty lines -->
+        **Topic Learned:**
+        - Module 1: Introduction
+        - Module 2: Illustration of Optimization Process
+        - Module 3: Mathematical Concepts Review
+        - Module 4: Convexity
+        - Module 5: Outcomes of Optimization
+        - Module 6: Optimality Certificates
+        - Module 7-8: Unconstrained Optimization
+        - Module 9-10: Linear Optimization Modeling
+        - Module 11-12: Advanced Linear Optimization
+        - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
+        - Module 15-16: Simplex Method and Further Development
+        - Module 17-18: Advanced Optimization Techniques
+        - Module 19-20: Nonlinear Optimization Modeling
+        - Module 21-23: Convex and Conic Programming
+        - Module 24: Semi-Definite Programming
+        - Module 25-30: Discrete Optimization
+        <br> <!-- Adds two empty lines -->
         **Additional Resources:**
         - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
         - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
@@ -212,30 +222,30 @@ content:
             </tbody>
           </table>
           </div>
-          <br><br> <!-- Adds two empty lines -->
-          <div style="font-size: 14px;">
-          <strong>Books:</strong>
-          <ul>
-            <li><a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">The Elements of Statistical Learning ★</a></li>
-            <li><a href="https://www.math.pku.edu.cn/teachers/yaoy/reference/book05.pdf">A Mathematical Introduction to Data Science by Yuan Yao ★</a></li>
-            <li><a href="https://www.google.com/books/edition/Pattern_Recognition_and_Machine_Learning/kOXDtAEACAAJ?hl=en">Pattern Recognition and Machine Learning</a></li>
-            <li><a href="https://www.google.com/books/edition/Foundations_of_Machine_Learning_second_e/V2B9DwAAQBAJ?hl=en">Foundations of Machine Learning</a></li>
-            <li><a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Collaborative_filtering">Collaborative filtering (recommender systems)</a></li>
-            <li><a href="https://fairmlbook.org/">Fairness and machine learning</a></li>
-          </ul>
-  
-          <br><br> <!-- Adds two empty lines -->
-  
-          <strong>Additional Resources:</strong>
-          <ul>
-            <li><a href="https://users.cs.duke.edu/~cynthia/teaching.html">Intuition for the Algorithms of Machine Learning — Cynthia Rudin ★</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC">Statistical Machine Learning — Ulrike von Luxburg ★</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS">Mathematics for Machine Learning — Ulrike von Luxburg</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ">Statistical Learning with Python — Trevor Hastie, Robert Tibshirani</a></li>
-            <li><a href="https://cs229.stanford.edu/">CS229: Machine Learning — Andrew Ng</a></li>
-          </ul>
-          </div>
+        <br> <!-- Adds two empty lines -->
+        **Topic Learned:**
+        - Module 1: Introduction
+        - Module 2: Illustration of Optimization Process
+        - Module 3: Mathematical Concepts Review
+        - Module 4: Convexity
+        - Module 5: Outcomes of Optimization
+        - Module 6: Optimality Certificates
+        - Module 7-8: Unconstrained Optimization
+        - Module 9-10: Linear Optimization Modeling
+        - Module 11-12: Advanced Linear Optimization
+        - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
+        - Module 15-16: Simplex Method and Further Development
+        - Module 17-18: Advanced Optimization Techniques
+        - Module 19-20: Nonlinear Optimization Modeling
+        - Module 21-23: Convex and Conic Programming
+        - Module 24: Semi-Definite Programming
+        - Module 25-30: Discrete Optimization
+        <br> <!-- Adds two empty lines -->
+        **Additional Resources:**
+        - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
+        - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
+        - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
+          
    
   - title: High-Dimensional Data Analysis Course # Title for the section
     layout: list # Type of content section (list/text)
@@ -327,52 +337,29 @@ content:
             </tbody>
           </table>
           </div>
-          <br><br>
-          <div style="font-size: 14px;">
-          <strong>Topic Learned:</strong>
-          <ul>
-            <li><strong>Module 1:</strong> Functional Data Analysis
-              <ul>
-                <li>Linear Regression, Splines, BSplines, Smoothing Splines, Kernel Smoothers, FPCA</li>
-              </ul>
-            </li>
-            <li><strong>Module 2:</strong> Image Analysis
-              <ul>
-                <li>Image Filtering and Convolution, Image Transformation & Edge Detection, Image segmentation</li>
-              </ul>
-            </li>
-            <li><strong>Module 3:</strong> Tensor Data Analysis
-              <ul>
-                <li>Tensor Preliminaries, Tensor Decomposition, Tensor Applications</li>
-              </ul>
-            </li>
-            <li><strong>Module 4:</strong> Optimization I
-              <ul>
-                <li>First order methods, Second order methods</li>
-              </ul>
-            </li>
-            <li><strong>Module 5:</strong> Optimization II
-              <ul>
-                <li>Proximal Gradient Descent, Coordinate Descent, ALM and ADMM</li>
-              </ul>
-            </li>
-            <li><strong>Module 6:</strong> Regularization
-              <ul>
-                <li>Ridge Regression & LASSO, Adaptive LASSO, Grouped LASSO, Elastic Net</li>
-              </ul>
-            </li>
-            <li><strong>Module 7:</strong> Regularization Applications
-              <ul>
-                <li>Compressive Sensing, Matrix Completion, Robust PCA, Smooth-Sparse Decomposition, RKHS Ridge Kernel Regression</li>
-              </ul>
-            </li>
-          </ul>
-          <br><br>
-          <strong>Additional Resources:</strong>
-          <ul>
-            <li><a href="https://book-wright-ma.github.io/">High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma ★</a></li>
-          </ul>
-          </div>
+        <br> <!-- Adds two empty lines -->
+        **Topic Learned:**
+        - Module 1: Introduction
+        - Module 2: Illustration of Optimization Process
+        - Module 3: Mathematical Concepts Review
+        - Module 4: Convexity
+        - Module 5: Outcomes of Optimization
+        - Module 6: Optimality Certificates
+        - Module 7-8: Unconstrained Optimization
+        - Module 9-10: Linear Optimization Modeling
+        - Module 11-12: Advanced Linear Optimization
+        - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
+        - Module 15-16: Simplex Method and Further Development
+        - Module 17-18: Advanced Optimization Techniques
+        - Module 19-20: Nonlinear Optimization Modeling
+        - Module 21-23: Convex and Conic Programming
+        - Module 24: Semi-Definite Programming
+        - Module 25-30: Discrete Optimization
+        <br> <!-- Adds two empty lines -->
+        **Additional Resources:**
+        - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
+        - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
+        - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
 
   - title: A Little More About Me
     layout: text
