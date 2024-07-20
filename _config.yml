@@ -93,7 +93,7 @@ content:
             <tr style="border-bottom: 2px solid black;">
               <th style="padding: 8px; text-align: left;">Topic</th>
               <th style="padding: 8px; text-align: left;">Description</th>
-              <th style="padding: 8px; text-align: left;">Implementation <br> (Private)</th>
+              <th style="padding: 8px; text-align: center;">Implementation <br> (Private)</th>
             </tr>
           </thead>
           <tbody>
@@ -174,7 +174,7 @@ content:
               <tr style="border-bottom: 2px solid black; text-align: center;">
                 <th style="padding: 8px;">Topic</th>
                 <th style="padding: 8px;">Description</th>
-                <th style="padding: 8px;">Implementation <br> (Private)</th>
+                <th style="padding: 8px; text-align: center;">Implementation <br> (Private)</th>
               </tr>
             </thead>
             <tbody>
@@ -289,7 +289,7 @@ content:
               <tr style="border-bottom: 2px solid black; text-align: center;">
                 <th style="padding: 8px;">Topic</th>
                 <th style="padding: 8px;">Additional Readings</th>
-                <th style="padding: 8px;">Implementation <br> (Private)</th>
+                <th style="padding: 8px; text-align: center;">Implementation <br> (Private)</th>
               </tr>
             </thead>
             <tbody>
@@ -390,7 +390,7 @@ content:
             **Additional Resources:**
             - [ High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma  ★](https://book-wright-ma.github.io/)
 
-  - title: Deep Learning {#deep-learning} # Title for the section
+  - title: Deep Learning # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
