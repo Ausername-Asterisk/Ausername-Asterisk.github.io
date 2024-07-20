@@ -4,7 +4,11 @@ author:
   email: -
 description: A comprehensive repository uniting theory and practice in AI and Data Science.
 
+header_pages:
+#  - about.md
+
 minima:
   skin: classic  
+
 
 theme: minima
