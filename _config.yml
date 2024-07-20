@@ -107,6 +107,15 @@ content:
           </tbody>
         </table>
         </div>
+        <br><br> <!-- Adds two empty lines -->
+        <div style="font-size: 14px;">
+        <strong>Additional Resources:</strong>
+        <ul>
+          <li><a href="https://stanford.edu/~boyd/cvxbook/">Convex Optimization – Boyd and Vandenberghe ★</a></li>
+          <li><a href="https://aaa.princeton.edu/orf363">ORF363 Computing and Optimization</a></li>
+          <li><a href="https://aaa.princeton.edu/orf523">ORF523 Convex and Conic Optimization</a></li>
+        </ul>
+        </div>
         
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -193,14 +202,38 @@ content:
             </tbody>
           </table>
           </div>
-          
-  - title: Education # Title for the section
+          <br><br> <!-- Adds two empty lines -->
+          <div style="font-size: 14px;">
+          <strong>Books:</strong>
+          <ul>
+            <li><a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">The Elements of Statistical Learning ★</a></li>
+            <li><a href="https://www.math.pku.edu.cn/teachers/yaoy/reference/book05.pdf">A Mathematical Introduction to Data Science by Yuan Yao ★</a></li>
+            <li><a href="https://www.google.com/books/edition/Pattern_Recognition_and_Machine_Learning/kOXDtAEACAAJ?hl=en">Pattern Recognition and Machine Learning</a></li>
+            <li><a href="https://www.google.com/books/edition/Foundations_of_Machine_Learning_second_e/V2B9DwAAQBAJ?hl=en">Foundations of Machine Learning</a></li>
+            <li><a href="https://www.statlearning.com/">An Introduction to Statistical Learning</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Collaborative_filtering">Collaborative filtering (recommender systems)</a></li>
+            <li><a href="https://fairmlbook.org/">Fairness and machine learning</a></li>
+          </ul>
+  
+          <br><br> <!-- Adds two empty lines -->
+  
+          <strong>Additional Resources:</strong>
+          <ul>
+            <li><a href="https://users.cs.duke.edu/~cynthia/teaching.html">Intuition for the Algorithms of Machine Learning — Cynthia Rudin ★</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC">Statistical Machine Learning — Ulrike von Luxburg ★</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS">Mathematics for Machine Learning — Ulrike von Luxburg</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ">Statistical Learning with Python — Trevor Hastie, Robert Tibshirani</a></li>
+            <li><a href="https://cs229.stanford.edu/">CS229: Machine Learning — Andrew Ng</a></li>
+          </ul>
+          </div>
+   
+  - title: High-Dimensional Data Analysis Course # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: High-Dimensional Data Analysis
+        caption: 2024 - 2024
+        sub_title: Georgia Tech
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -324,7 +357,7 @@ content:
               </ul>
             </li>
           </ul>
-  
+          <br><br>
           <strong>Additional Resources:</strong>
           <ul>
             <li><a href="https://book-wright-ma.github.io/">High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma ★</a></li>
