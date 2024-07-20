@@ -21,7 +21,7 @@ This repository serves as a comprehensive record of my academic journey and a pl
 - [Machine Learning](#machine-learning-course-at-georgia-tech)
 - [High-Dimensional Data Analysis](#high-dimensional-data-analysis-course-at-georgia-tech)
 - [Deep Learning (Fall 2024)](#deep-learning-course-at-georgia-tech-to-be-updated-in-fall-2024)
-- [Additional Resources](#additional-resources)
+- [Further Reading](#further-reading)
 - [Future Update](#future-update)
 
 
@@ -167,7 +167,7 @@ This graduate-level course in high-dimensional data analysis is designed to equi
 
 
 
-**Additional Resources:**
+**Further Reading:**
 - [ High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma  ★](https://book-wright-ma.github.io/)
 
  
