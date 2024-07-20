@@ -390,7 +390,7 @@ content:
             **Additional Resources:**
             - [ High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma  ★](https://book-wright-ma.github.io/)
 
-  - title: Deep Learning # Title for the section
+  - title: Deep Learning {#deep-learning} # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
