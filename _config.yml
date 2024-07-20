@@ -274,7 +274,7 @@ content:
             - [Fairness and machine learning](https://fairmlbook.org/)
 
    
-  - title: High-Dimensional Data Analysis Course # Title for the section
+  - title: High-Dimensional Data Analysis # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
