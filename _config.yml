@@ -122,7 +122,11 @@ content:
           <li><a href="https://aaa.princeton.edu/orf523">ORF523 Convex and Conic Optimization</a></li>
         </ul>
         </div>
-        
+        **Additional Resources:**
+        - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
+        - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
+        - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
