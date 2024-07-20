@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. Upcoming studies in Fall 2024 will focus on neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
 
 content:        
-  - title: Table of Contents # Title for the section
+  - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -68,8 +68,13 @@ content:
         sub_title: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            **Table of Contents**
-            - [Deep Learning](#deep-learning)
+            - [Table of Contents](#table-of-contents)
+            - [Optimization](#optimization)
+            - [Machine Learning](#machine-learning)
+            - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
+            - [Deep Learning (Fall 2024)](#deep-learning)
+            - [Supplementary Information](#supplementary-information)
+            - [Future Update](#future-update)
             
   - title: Optimization Course # Title for the section
     layout: list # Type of content section (list/text)
@@ -403,7 +408,7 @@ content:
             - [ Attention Is All You Need ★](https://arxiv.org/abs/1706.03762)
             - [Dive into Deep Learning  ](https://d2l.ai/)
             
-  - title: A Little More About Me
+  - title: Supplementary Information
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
