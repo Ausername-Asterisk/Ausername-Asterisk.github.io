@@ -119,7 +119,7 @@ This graduate-level machine learning course delved deeply into essential methodo
 - [ Intuition for the Algorithms of Machine Learning — Cynthia Rudin  ★](https://users.cs.duke.edu/~cynthia/teaching.html)
 - [ Statistical Machine Learning — Ulrike von Luxburg  ★](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
 - [Mathematics for Machine Learning — Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
-- [Statistical Learning with Python](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
+- [Statistical Learning with Python — Trevor Hastie, Robert Tibshirani](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
 - [CS229: Machine Learning — Andrew Ng](https://cs229.stanford.edu/)
 
 
