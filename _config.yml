@@ -52,25 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: |
-        
+content:        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -135,60 +117,180 @@ content:
         sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: |
-          # This will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>React</mark> and it has since grown into a fully fledged app. 
-          I have learned many skills through this and I’m very proud of having this in my portfolio. 
-          If you don't have a project as awesome as this, I would advise you to make one.
-        
+        description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
-          This section covers various optimization techniques and their implementations. Each topic includes a link to a Python implementation for further exploration.
+          This section highlights various machine learning techniques and their implementations. Each topic includes relevant links and a brief description.
   
           <table style="border-collapse: collapse; width: 100%;">
             <thead>
-              <tr style="border-bottom: 2px solid black;">
-                <th style="padding: 8px; text-align: left;">Topic</th>
-                <th style="padding: 8px; text-align: left;">Description</th>
-                <th style="padding: 8px; text-align: left;">Implementation</th>
+              <tr style="border-bottom: 2px solid black; text-align: center;">
+                <th style="padding: 8px;">Topic</th>
+                <th style="padding: 8px;">Description</th>
+                <th style="padding: 8px;">Implementation <br> (Private)</th>
               </tr>
             </thead>
             <tbody>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Convex & Nonconvex Optimization</td>
-                <td style="padding: 8px;">Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function.</td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/1_Convex_%26_Nonconvex_Optimization_Github.ipynb">Python (numpy, scipy)</a></td>
+                <td style="padding: 8px;">Clustering and K-means</td>
+                <td style="padding: 8px;">Image Compression using K means Algorithm</td>
+                <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Linear Programming</td>
-                <td style="padding: 8px;">Solution of common manufacturing production and electric power network problems using linear programming optimization techniques.</td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/2_Linear_Programming_Github.ipynb">Python (numpy, cvxpy)</a></td>
+                <td style="padding: 8px;">Clustering and K-means</td>
+                <td style="padding: 8px;">Evaluation of K means and K median Clustering on MNIST Dataset</td>
+                <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Solving Linear Program Using Basic Feasible Solutions</td>
-                <td style="padding: 8px;">Identification of all possible basic solutions and determination of the optimal solution among them.</td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/3_Solving_Linear_Program_Using_Basic_Feasible_Solutions_Github.ipynb">Python (numpy)</a></td>
+                <td style="padding: 8px;">Spectral Clustering</td>
+                <td style="padding: 8px;">Political Blogosphere Analysis Using Spectral Clustering <a href="https://arxiv.org/abs/0711.0189">(Spectral Clustering, Ulrike von Luxburg)</a></td>
+                <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Solving Linear Program Using Simplex Method ★</td>
-                <td style="padding: 8px;">Implementation of the simplex method from scratch to solve linear programming problems.</td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/4_Solving_Linear_Program_Using_Simplex_Method_Github.ipynb">Python (numpy)</a></td>
+                <td style="padding: 8px;">Dimensionality Reduction and PCA</td>
+                <td style="padding: 8px;">Eigenface Generation and Analysis using PCA on the Olivetti Faces Dataset</td>
+                <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Cutting Stock Problem With Column Generation ★</td>
-                <td style="padding: 8px;">Solution of the cutting stock problem using column generation, applied to solve the pricing problem.</td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/5_Cutting_Stock_Problem_with_Column_Generation_Github.ipynb">Python (numpy, cvxpy)</a></td>
+                <td style="padding: 8px;">Nonlinear Dimensionality Reduction ★</td>
+                <td style="padding: 8px;">ISOMAP Algorithm Implementation and Visualization for Facial Image Analysis <a href="https://www.science.org/doi/10.1126/science.290.5500.2319">(ISOMAP Paper)</a></td>
+                <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Location Optimization Using SOCP</td>
-                <td style="padding: 8px;">Application of second-order cone programming to identify optimal locations for optimization problems.</td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/KKH-DataTouchesEverything/blob/main/1.%20Optimization/6_Location_Optimization_Using_SOCP_Github.ipynb">Python (numpy, cvxpy)</a></td>
+                <td style="padding: 8px;">Density Estimation</td>
+                <td style="padding: 8px;">Analyzing Brain Structure and Categorical Labels Data Distribution</td>
+                <td style="padding: 8px;">Python (matplotlib, seaborn)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Gaussian Mixture Model and EM Algorithm</td>
+                <td style="padding: 8px;">Image Classification with Gaussian Mixture Models using EM</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Classification ★</td>
+                <td style="padding: 8px;">Comparing ML Classifiers: Model Performance & Decision Boundaries <a href="https://scikit-learn.org/stable/supervised_learning.html">(sklearn Documentation)</a></td>
+                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/8_Comparing_ML_Classifiers_Model_Performance_%26_Decision_Boundaries_Github.ipynb">sklearn demo</a></td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Anomaly Detection</td>
+                <td style="padding: 8px;">CUSUM for Distribution Shift Detection</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Feature Selection & Random Forest</td>
+                <td style="padding: 8px;">Fine Tuning Machine Learning Models for CART Random Forest and One Class SVM <a href="https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf">(Random Forests, Leo Breiman)</a></td>
+                <td style="padding: 8px;">Python (numpy, sklearn)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Nonlinear Regression</td>
+                <td style="padding: 8px;">Locally Weighted Linear Regression with Bias Variance Tradeoff and Hyperparameter Fine Tuning</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Machine Learning Project ★</td>
+                <td style="padding: 8px;">Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California. <br> Data Sources: <a href="https://fred.stlouisfed.org">Federal Reserve Economic Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration (EIA)</a></td>
+                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb">ML Project (matplotlib, seaborn, numpy, sklearn)</a></td>
               </tr>
             </tbody>
           </table>
           </div>
 
-
-
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          <div style="font-size: 14px;">
+          This section covers advanced topics in machine learning with additional readings and implementations.
+  
+          <table style="border-collapse: collapse; width: 100%;">
+            <thead>
+              <tr style="border-bottom: 2px solid black; text-align: center;">
+                <th style="padding: 8px;">Topic</th>
+                <th style="padding: 8px;">Additional Readings</th>
+                <th style="padding: 8px;">Implementation <br> (Private)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Linear Regression <br> Splines <br> BSplines <br> Smoothing Splines <br> Kernel Smoothers <br> FPCA</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">1. The Elements of Statistical Learning Pages 43-52, 139-161, 186-208</a> <br>
+                  <a href="https://www.researchgate.net/publication/4741968_Functional_Data_Analysis_for_Sparse_Longitudinal_Data">2. Functional Data Analysis for Sparse Longitudinal Data</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Image Filtering and Convolution <br> Image Transformation & Edge Detection <br> Image segmentation</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/A_Concise_Introduction_to_Image_Processi/fp7SBQAAQBAJ?hl=en">1. A Concise Introduction to Image Processing Using C++ Chapters 2, 3, 4</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Tensor Preliminaries <br> Tensor Decomposition <br> Tensor Applications I <br> Tensor Applications II <br> Tensor Applications III</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.jstor.org/stable/25662308?seq=1#metadata_info_tab_contents">1. Tensor Decompositions and Applications 455-480</a> <br>
+                  <a href="https://arxiv.org/abs/1807.10278">2. Structured Point Cloud Data Analysis via Regularized Tensor Regression for Process Modeling and Optimization</a> <br>
+                  <a href="https://arxiv.org/abs/1706.03423">3. Image-Based Prognostics Using Penalized Tensor Regression</a> <br>
+                  <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">4. Tensor decompositions for feature extraction and classification of high dimensional datasets</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Optimization: First order methods <br> Optimization: Second order methods</td>
+                <td style="padding: 8px;">
+                  <a href="https://stanford.edu/~boyd/cvxbook/">1. Convex Optimization Pages 1-11, 21-35, 67-79, 457-475 and 484-487</a> <br>
+                  <a href="https://www.google.com/books/edition/Numerical_Methods_for_Least_Squares_Prob/aQD1LLYz6tkC?hl=en">2. Numerical Methods for Least Squares Problems Ch 9</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Proximal Gradient Descent <br> Coordinate Descent <br> ALM and ADMM</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/Optimization_for_Machine_Learning/JPQx7s2L1A8C?hl=en">1. Optimization for Machine Learning Page 27-34</a> <br>
+                  <a href="https://www.google.com/books/edition/Distributed_Optimization_and_Statistical/8MjgLpJ0_4YC?hl=en">2. Distributed Optimization and Statistical Learning Via the Alternating Direction Method of Multipliers Page 1-24</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Ridge Regression & LASSO <br> NNG <br> Adaptive LASSO <br> Grouped LASSO <br> Elastic Net</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">1. The Elements of Statistical Learning Page 61-73</a> <br>
+                  <a href="https://www.researchgate.net/publication/4742238_The_adaptive_LASSO_ad_its_oracle_properties">2. The adaptive LASSO and its oracle properties</a> <br>
+                  <a href="https://www.researchgate.net/publication/243776325_Better_Subset_Regression_Using_the_Nonnegative_Garrote">3. Better Subset Regression Using the Nonnegative Garrote</a> <br>
+                  <a href="https://www.researchgate.net/publication/4993325_Model_Selection_and_Estimation_in_Regression_With_Grouped_Variables">4. Model Selection and Estimation in Regression With Grouped Variables</a> <br>
+                  <a href="https://www.researchgate.net/publication/227604843_Zou_H_Hastie_T_Regularization_and_variable_selection_via_the_elastic_net_J_R_Statist_Soc_B_2005672301-20">5. Regularization and variable selection via the elastic net</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Compressive Sensing <br> Matrix Completion <br> Robust PCA <br> Smooth-Sparse Decomposition <br> RKHS Ridge Kernel Regression</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.researchgate.net/publication/3322018_Wakin_MB_An_introduction_to_compressive_sampling_IEEE_Signal_Process_Mag_252_21-30">1. An introduction to compressive sampling</a> <br>
+                  <a href="https://www.researchgate.net/publication/220133672_A_Singular_Value_Thresholding_Algorithm_for_Matrix_Completion">2. A Singular Value Thresholding Algorithm for Matrix Completion</a> <br>
+                  <a href="https://www.researchgate.net/publication/227101649_Exact_Matrix_Completion_via_Convex_Optimization">3. Exact Matrix Completion via Convex Optimization</a> <br>
+                  <a href="https://www.researchgate.net/publication/221618324_Robust_Principal_Component_Analysis_Exact_Recovery_of_Corrupted_Low-Rank_Matrices_via_Convex_Optimization">4. Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Matrices via Convex Optimization</a> <br>
+                  <a href="https://arxiv.org/abs/0912.3599">5. Robust Principal Component Analysis?</a> <br>
+                  <a href="https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/lecture4_introToRKHS.pdf">6. Introduction to RKHS, and some simple kernel algorithms</a> <br>
+                  <a href="https://www.researchgate.net/publication/283520589_Anomaly_Detection_in_Images_with_Smooth_Background_Via_Smooth-Sparse_Decomposition">7. Anomaly Detection in Images with Smooth Background Via Smooth-Sparse Decomposition</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+            </tbody>
+          </table>
+          </div>
 
   - title: A Little More About Me
     layout: text
