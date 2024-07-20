@@ -30,7 +30,7 @@ This graduate-level optimization course covered essential concepts, models, and 
 
 Practical skills were developed in formulating and solving complex optimization problems using Python-based tools. This experience enhanced proficiency in optimization theory, computational methods, and their applications in modern data analytics.
 
-| Topics  | Description | Implementation <br> (Private)           | 
+| Topics  | Description | Implementation <br> (Private Repository)           | 
 | :---:| :--- | :---: | 
 | Convex & Nonconvex Optimization | Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function. | Python (numpy, scipy) |
 | Linear Programming | Solution of common manufacturing production and electric power network problems using linear programming optimization techniques. | Python (numpy, cvxpy) |
@@ -67,7 +67,7 @@ Practical skills were developed in formulating and solving complex optimization 
 This graduate-level machine learning course delved deeply into essential methodologies, theories, and algorithms across various domains. Beginning with fundamental concepts in clustering, dimensionality reduction, and statistical modeling, the curriculum progressed to advanced techniques such as Gaussian mixture models, support vector machines (SVM), and ensemble methods like AdaBoost and random forests. Practical application was a key focus, with hands-on projects using Python for algorithm implementation and analysis of real-world datasets. The course provided a thorough understanding of machine learning principles, equipping participants with the skills to tackle intricate analytical problems, optimize model performance, and derive meaningful insights from data.
 
 
-| Topic                                | Description                                                                                           | Implementation    <br> (Private)                                                                                       |
+| Topic                                | Description                                                                                           | Implementation    <br> (Private Repository)                                                                                    |
 |:-------------------------------------:|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
 |  Clustering and K-means               | Image Compression using K means Algorithm  | Python (numpy) |
 | Clustering and K-means               | Evaluation of K means and K median Clustering on MNIST Dataset |Python (numpy)|
@@ -125,7 +125,7 @@ This graduate-level course in high-dimensional data analysis is designed to equi
 
 
 
-| Topic                                | Additional Readings                                                                                           | Implementation    <br> (Private)                                                                                       |
+| Topic                                | Additional Readings                                                                                           | Implementation    <br> (Private Repository)                                                                                       |
 |:-------------------------------------:|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
 | Linear Regression     <br>    Splines         <br>   BSplines       <br>    Smoothing Splines     <br>  Kernel Smoothers    <br>  FPCA                     | [1. The Elements of Statistical Learning Page 43-52, 139-161, 186-208](https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en)   <br> [2. Functional Data Analysis for Sparse Longitudinal Data](https://www.researchgate.net/publication/4741968_Functional_Data_Analysis_for_Sparse_Longitudinal_Data)  | Python (numpy) |
 |  Image Filtering and Convolution    <br>      Image Transformation  & Edge Detection  <br>   Image segmentation           |   [1. A Concise Introduction to Image Processing Using C++ Chapters 2, 3, 4](https://www.google.com/books/edition/A_Concise_Introduction_to_Image_Processi/fp7SBQAAQBAJ?hl=en)  | [Python (numpy)] |
