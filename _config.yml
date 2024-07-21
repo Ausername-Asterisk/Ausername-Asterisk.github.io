@@ -430,14 +430,20 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      
-      <br> <!-- Adds two empty lines -->
-      
-      [**Return to Table of Contents**](#top)
+      - [AI-Expert-Roadmap ★](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+      - [Trustworthy Online Controlled Experiments (A/B Testing) ★](https://www.google.com/books/edition/Trustworthy_Online_Controlled_Experiment/NHjQDwAAQBAJ?hl=en)
+      - [Github Ranking ](https://github.com/EvanLi/Github-Ranking)
+      - [Kaggle Competition ](https://www.kaggle.com/competitions)
+      - [Algorithms and Data Structures using Python ](https://runestone.academy/ns/books/published/pythonds3/index.html)
+      - [Machine Learning & Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+      - [Probabilistic Machine Learning — Philipp Hennig](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+      - [Lil'Log](https://lilianweng.github.io/)
+
+  - title: Future Update
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This repository will be continually updated as I progress in my studies and research. A new reinforcement learning section will be particularly expanded in 2025, with detailed explanations and practical implementations of various reinforcement learning techniques.
+      ![NASA](/images/NASA.jpg "NASA")
 
 # Footer
 footer_show_references: false
