@@ -471,7 +471,7 @@ content:
       
       <br>
       
-# Footer
+# Footer _includes/footer.html
 footer_show_references: true
 references_title: Life, I'm lovin' it.
 
