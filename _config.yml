@@ -72,7 +72,7 @@ content:
         sub_title: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            - [Table of Contents](#table-of-contents)
+            - [Table of Contents](#top)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
             - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
