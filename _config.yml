@@ -420,7 +420,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Deep Learning
+        title: Deep Learning (Fall 2024)
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: > 
