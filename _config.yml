@@ -450,11 +450,16 @@ content:
       - [Github Ranking ](https://github.com/EvanLi/Github-Ranking)
       - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
       - [SQL Style Guide](https://www.sqlstyle.guide/)
-      - [Algorithms and Data Structures using Python ](https://runestone.academy/ns/books/published/pythonds3/index.html)
+      - [Lil'Log](https://lilianweng.github.io/)
+      
+      <br> <!-- Adds two empty lines -->
+            
+      Courses:
       - [Machine Learning & Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
       - [Probabilistic Machine Learning — Philipp Hennig](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-      - [Lil'Log](https://lilianweng.github.io/)
+      - [Algorithms and Data Structures using Python ](https://runestone.academy/ns/books/published/pythonds3/index.html)
 
+      
   - title: Future Update
     layout: text
     content: | # this will include new lines to allow paragraphs
