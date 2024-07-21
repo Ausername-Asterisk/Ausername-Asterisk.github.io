@@ -469,7 +469,7 @@ footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: Ausername-Asterisk/modern-resume-theme
+remote_theme: Ausername-Asterisk/modern-theme
 
 sass:
   sass_dir: _sass
