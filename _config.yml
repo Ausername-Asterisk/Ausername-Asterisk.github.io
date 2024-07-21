@@ -472,8 +472,8 @@ content:
       <br>
       
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+references_title: Life, I'm lovin' it.
 
 # Build settings
 remote_theme: Ausername-Asterisk/modern-theme
