@@ -161,7 +161,7 @@ content:
         
         <br> <!-- Adds two empty lines -->
         
-        [**Return to Table of Contents**](#table-of-contents)
+        [**Return to Table of Contents**](#data-touches-everything)
 
   - title: Machine Learning # Title for the section
     layout: list # Type of content section (list/text)
@@ -279,7 +279,7 @@ content:
 
             <br> <!-- Adds two empty lines -->
         
-            [**Return to Table of Contents**](#table-of-contents)
+            [**Return to Table of Contents**](#data-touches-everything)
             
   - title: High-Dimensional Data Analysis # Title for the section
     layout: list # Type of content section (list/text)
@@ -402,7 +402,7 @@ content:
             
             <br> <!-- Adds two empty lines -->
         
-            [**Return to Table of Contents**](#table-of-contents)
+            [**Return to Table of Contents**](#data-touches-everything)
             
   - title: Deep Learning # Title for the section
     layout: list # Type of content section (list/text)
@@ -424,7 +424,7 @@ content:
             
             <br> <!-- Adds two empty lines -->
         
-            [**Return to Table of Contents**](#table-of-contents)
+            [**Return to Table of Contents**](#data-touches-everything)
             
   - title: Supplementary Information
     layout: text
@@ -437,7 +437,7 @@ content:
       
       <br> <!-- Adds two empty lines -->
       
-      [**Return to Table of Contents**](#table-of-contents)
+      [**Return to Table of Contents**](#data-touches-everything)
 
 # Footer
 footer_show_references: false
