@@ -87,10 +87,12 @@ content:
       title: Optimization
       caption: 2023 - 2023 
       sub_title: Georgia Tech
-      quote: >
+      quote: > quote
       description: |
         <div style="font-size: 14px;">
-        This section covers various optimization techniques and their implementations. Each topic includes a link to a Python implementation for further exploration.
+        This graduate-level optimization course covered essential concepts, models, and algorithms in depth. Beginning with foundational principles and mathematical underpinnings, the curriculum progressed through linear optimization techniques, including advanced topics such as the simplex method and duality theory. Subsequent modules explored nonlinear and convex conic optimization, broadening understanding beyond linear models. Additionally, the course included a study of integer optimization, providing insights into integrating integer decision variables into optimization frameworks.
+        Practical skills were developed in formulating and solving complex optimization problems using Python-based tools. This experience enhanced proficiency in optimization theory, computational methods, and their applications in modern data analytics.
+
 
         <table style="border-collapse: collapse; width: 100%;">
           <thead>
@@ -171,11 +173,10 @@ content:
         title: Machine Learning
         caption: 2024 - 2024
         sub_title: Georgia Tech
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        quote: > quote
         description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
-          This section highlights various machine learning techniques and their implementations. Each topic includes relevant links and a brief description.
+          This graduate-level machine learning course delved deeply into essential methodologies, theories, and algorithms across various domains. Beginning with fundamental concepts in clustering, dimensionality reduction, and statistical modeling, the curriculum progressed to advanced techniques such as Gaussian mixture models, support vector machines (SVM), and ensemble methods like AdaBoost and random forests. Practical application was a key focus, with hands-on projects using Python for algorithm implementation and analysis of real-world datasets. The course provided a thorough understanding of machine learning principles, equipping participants with the skills to tackle intricate analytical problems, optimize model performance, and derive meaningful insights from data.
   
           <table style="border-collapse: collapse; width: 100%;">
             <thead>
@@ -290,11 +291,11 @@ content:
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          quote
         description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
-          This section covers advanced topics in machine learning with additional readings and implementations.
-  
+          This graduate-level course in high-dimensional data analysis is designed to equip professionals with essential skills in feature extraction and dimensionality reduction in statistical machine learning. The curriculum focuses on key topics such as functional data analysis, advanced image processing techniques, multilinear algebra, tensor analysis, and advanced regularization techniques for handling complex datasets. These foundational areas provide vital tools for effectively understanding and interpreting data, improving the extraction of meaningful features, and simplifying data analysis. Understanding these techniques prepares professionals to address challenges in image analysis, optimize predictive models to prevent errors, and gain useful insights across various data-driven fields.
+
           <table style="border-collapse: collapse; width: 100%;">
             <thead>
               <tr style="border-bottom: 2px solid black; text-align: center;">
@@ -412,7 +413,7 @@ content:
         title: Deep Learning
         caption: 2024 - 2024
         sub_title: Georgia Tech
-        quote: >
+        quote: > quote
            
         description: | # this will include new lines to allow paragraphs
             Deep learning, a specialized branch of machine learning, focuses on extracting intricate hierarchical representations from raw data. Central to this field is artificial neural networks, which have revolutionized data processing across various domains such as image analysis, natural language processing, and decision-making tasks. This course delves into fundamental principles, mathematical foundations, and practical implementation of deep learning. Topics include optimization techniques like gradient descent and backpropagation, foundational neural network modules such as linear and convolutional layers, and advanced architectures like recurrent neural networks and convolutional neural networks. Through hands-on programming assignments using PyTorch, participants will learn to construct and optimize neural networks, apply them to real-world applications, choose appropriate models for diverse problems, and understand ongoing research challenges in the field.
