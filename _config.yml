@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Optimization:** Fundamental techniques crucial for developing machine learning algorithms, sample code implemented using Python.
 
-    - **Machine Learning Models:** Focus on algorithms suited for handling large datasets with low-dimensional features, encompassing foundational tasks such as regression, classification, clustering, and dimensionality reduction. Advanced ensemble methods like boosting and bagging are also explored for enhanced model performance.
+    - **Machine Learning:** Focus on algorithms suited for handling large datasets with low-dimensional features, encompassing foundational tasks such as regression, classification, clustering, and dimensionality reduction. Advanced ensemble methods like boosting and bagging are also explored for enhanced model performance.
 
     - **High-Dimensional Data Analysis:** Specialized methods for extracting informative features from datasets characterized by high dimensionality and limited samples. This includes advanced techniques in image processing, tensor analysis, and regularization.
 
@@ -88,7 +88,7 @@ content:
       caption: 2023 - 2023 
       sub_title: Georgia Tech
       quote: > 
-        quote
+        "Everything should be made as simple as possible, but not one bit simpler."
       description: |
         <div style="font-size: 14px;">
         This graduate-level optimization course covered essential concepts, models, and algorithms in depth. Beginning with foundational principles and mathematical underpinnings, the curriculum progressed through linear optimization techniques, including advanced topics such as the simplex method and duality theory. Subsequent modules explored nonlinear and convex conic optimization, broadening understanding beyond linear models. Additionally, the course included a study of integer optimization, providing insights into integrating integer decision variables into optimization frameworks.
@@ -175,7 +175,7 @@ content:
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: > 
-          quote
+          "In God we trust, all others bring data."
         description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
           This graduate-level machine learning course delved deeply into essential methodologies, theories, and algorithms across various domains. Beginning with fundamental concepts in clustering, dimensionality reduction, and statistical modeling, the curriculum progressed to advanced techniques such as Gaussian mixture models, support vector machines (SVM), and ensemble methods like AdaBoost and random forests. Practical application was a key focus, with hands-on projects using Python for algorithm implementation and analysis of real-world datasets. The course provided a thorough understanding of machine learning principles, equipping participants with the skills to tackle intricate analytical problems, optimize model performance, and derive meaningful insights from data.
@@ -302,7 +302,7 @@ content:
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: >
-          quote
+          "It is vain to do with more what can be done with less." 
         description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
           This graduate-level course in high-dimensional data analysis is designed to equip professionals with essential skills in feature extraction and dimensionality reduction in statistical machine learning. The curriculum focuses on key topics such as functional data analysis, advanced image processing techniques, multilinear algebra, tensor analysis, and advanced regularization techniques for handling complex datasets. These foundational areas provide vital tools for effectively understanding and interpreting data, improving the extraction of meaningful features, and simplifying data analysis. Understanding these techniques prepares professionals to address challenges in image analysis, optimize predictive models to prevent errors, and gain useful insights across various data-driven fields.
@@ -425,7 +425,7 @@ content:
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: > 
-            quote
+            "Attention is all you need." 
            
         description: | # this will include new lines to allow paragraphs
             Deep learning, a specialized branch of machine learning, focuses on extracting intricate hierarchical representations from raw data. Central to this field is artificial neural networks, which have revolutionized data processing across various domains such as image analysis, natural language processing, and decision-making tasks. This course delves into fundamental principles, mathematical foundations, and practical implementation of deep learning. Topics include optimization techniques like gradient descent and backpropagation, foundational neural network modules such as linear and convolutional layers, and advanced architectures like recurrent neural networks and convolutional neural networks. Through hands-on programming assignments using PyTorch, participants will learn to construct and optimize neural networks, apply them to real-world applications, choose appropriate models for diverse problems, and understand ongoing research challenges in the field.
