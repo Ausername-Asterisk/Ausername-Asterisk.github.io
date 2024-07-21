@@ -119,12 +119,12 @@ content:
               <td style="padding: 8px;">Python (numpy)</td>
             </tr>
             <tr style="border-bottom: 1px solid #ddd;">
-              <td style="padding: 8px;">Solving Linear Program Using Simplex Method ★</td>
+              <td style="padding: 8px;">Solving Linear Program Using Simplex Method </td>
               <td style="padding: 8px;">Implementation of the simplex method from scratch to solve linear programming problems.</td>
               <td style="padding: 8px;">Python (numpy)</td>
             </tr>
             <tr style="border-bottom: 1px solid #ddd;">
-              <td style="padding: 8px;">Cutting Stock Problem With Column Generation ★</td>
+              <td style="padding: 8px;">Cutting Stock Problem With Column Generation </td>
               <td style="padding: 8px;">Solution of the cutting stock problem using column generation, applied to solve the pricing problem.</td>
               <td style="padding: 8px;">Python (numpy, cvxpy)</td>
             </tr>
@@ -209,7 +209,7 @@ content:
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Nonlinear Dimensionality Reduction ★</td>
+                <td style="padding: 8px;">Nonlinear Dimensionality Reduction </td>
                 <td style="padding: 8px;">ISOMAP Algorithm Implementation and Visualization for Facial Image Analysis <a href="https://www.science.org/doi/10.1126/science.290.5500.2319">(ISOMAP Paper)</a></td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
