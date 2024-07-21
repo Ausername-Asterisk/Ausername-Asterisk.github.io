@@ -443,7 +443,7 @@ content:
   - title: Supplementary Information
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      The supplementary material provides additional information on the data science and AI topics:
       - [AI-Expert-Roadmap ★](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
       - [Trustworthy Online Controlled Experiments (A/B Testing) ★](https://www.google.com/books/edition/Trustworthy_Online_Controlled_Experiment/NHjQDwAAQBAJ?hl=en)
       - [Github Ranking ](https://github.com/EvanLi/Github-Ranking)
