@@ -224,7 +224,7 @@ content:
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Classification ★</td>
+                <td style="padding: 8px;">Classification</td>
                 <td style="padding: 8px;">Comparing ML Classifiers: Model Performance & Decision Boundaries <a href="https://scikit-learn.org/stable/supervised_learning.html">(sklearn Documentation)</a></td>
                 <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/8_Comparing_ML_Classifiers_Model_Performance_%26_Decision_Boundaries_Github.ipynb">sklearn demo ★</a></td>
               </tr>
@@ -244,7 +244,7 @@ content:
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
-                <td style="padding: 8px;">Machine Learning Project ★</td>
+                <td style="padding: 8px;">Machine Learning Project</td>
                 <td style="padding: 8px;">Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California. <br> Data Sources: <a href="https://fred.stlouisfed.org">Federal Reserve Economic Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration (EIA)</a></td>
                 <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb">ML Project (matplotlib, seaborn, numpy, sklearn) ★</a></td>
               </tr>
