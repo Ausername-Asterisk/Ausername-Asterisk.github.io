@@ -121,7 +121,7 @@ content:
             <tr style="border-bottom: 1px solid #ddd;">
               <td style="padding: 8px;">Solving Linear Program Using Simplex Method </td>
               <td style="padding: 8px;">Implementation of the simplex method from scratch to solve linear programming problems.</td>
-              <td style="padding: 8px;">Python (numpy)</td>
+              <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/4_Solving_Linear_Program_Using_Simplex_%26_Basic_Feasible_Solution_Methods_Github.ipynb">Simplex Method and Basic Feasible Solutions (numpy) ★</a></td>
             </tr>
             <tr style="border-bottom: 1px solid #ddd;">
               <td style="padding: 8px;">Cutting Stock Problem With Column Generation </td>
