@@ -297,7 +297,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: High-Dimensional Data Analysis
+        title: HDDA
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: >
@@ -420,7 +420,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Deep Learning (Fall 2024)
+        title: Deep Learning (Fall)
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: > 
