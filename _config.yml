@@ -371,8 +371,8 @@ content:
                 <td style="padding: 8px;">Compressive Sensing <br> Matrix Completion <br> Robust PCA <br> Smooth-Sparse Decomposition <br> RKHS Ridge Kernel Regression</td>
                 <td style="padding: 8px;">
                   <a href="https://www.researchgate.net/publication/3322018_Wakin_MB_An_introduction_to_compressive_sampling_IEEE_Signal_Process_Mag_252_21-30">1. An introduction to compressive sampling</a> <br>
-                  <a href="https://www.researchgate.net/publication/220133672_A_Singular_Value_Thresholding_Algorithm_for_Matrix_Completion">2. A Singular Value Thresholding Algorithm for Matrix Completion</a> <br>
-                  <a href="https://www.researchgate.net/publication/227101649_Exact_Matrix_Completion_via_Convex_Optimization">3. Exact Matrix Completion via Convex Optimization</a> <br>
+                  <a href="https://arxiv.org/abs/0810.3286">2. A Singular Value Thresholding Algorithm for Matrix Completion</a> <br>
+                  <a href="https://arxiv.org/abs/0805.4471">3. Exact Matrix Completion via Convex Optimization</a> <br>
                   <a href="https://www.researchgate.net/publication/221618324_Robust_Principal_Component_Analysis_Exact_Recovery_of_Corrupted_Low-Rank_Matrices_via_Convex_Optimization">4. Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Matrices via Convex Optimization</a> <br>
                   <a href="https://arxiv.org/abs/0912.3599">5. Robust Principal Component Analysis?</a> <br>
                   <a href="https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/lecture4_introToRKHS.pdf">6. Introduction to RKHS, and some simple kernel algorithms</a> <br>
