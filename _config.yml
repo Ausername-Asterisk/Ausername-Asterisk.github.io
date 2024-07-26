@@ -440,7 +440,7 @@ content:
               </thead>
               <tbody>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 1: Linear Classifiers and Gradient Descent</td>
+                  <td style="padding: 8px;">Linear Classifiers and Gradient Descent</td>
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 2 - 5</a><br>
                     <a href="https://www.nature.com/articles/nature14539">2. Deep learning</a><br>
@@ -449,7 +449,7 @@ content:
                   <td style="padding: 8px;">Python</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 2: Neural Networks</td>
+                  <td style="padding: 8px;"> Neural Networks</td>
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 6</a><br>
                     <a href="https://explained.ai/matrix-calculus/index.html">2. The Matrix Calculus You Need For Deep Learning</a><br>
@@ -458,7 +458,7 @@ content:
                   <td style="padding: 8px;">Python</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 3: Optimization of Deep Neural Networks</td>
+                  <td style="padding: 8px;"> Optimization of Deep Neural Networks</td>
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 7 - 8</a>
                   </td>
@@ -466,9 +466,9 @@ content:
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
-                    Lesson 4: Data Wrangling<br>
-                    Lesson 5: Convolution and Pooling Layers<br>
-                    Lesson 6: Convolutional Neural Network Architectures
+                     Data Wrangling<br>
+                     Convolution and Pooling Layers<br>
+                    Convolutional Neural Network Architectures
                   </td>
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 9</a><br>
@@ -479,8 +479,8 @@ content:
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
-                    Lesson 7: Visualization<br>
-                    Lesson 8: PyTorch and Scalable Training
+                     Visualization<br>
+                    PyTorch and Scalable Training
                   </td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1506.06579">1. Understanding Neural Networks Through Deep Visualization</a><br>
@@ -490,8 +490,8 @@ content:
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
-                    Lesson 9: Advanced Computer Vision Architectures<br>
-                    Lesson 10: Bias and Fairness
+                   Advanced Computer Vision Architectures<br>
+                     Bias and Fairness
                   </td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
@@ -500,8 +500,8 @@ content:
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
-                    Lesson 11: Introduction to Structured Representations<br>
-                    Lesson 12: Language Models
+                     Introduction to Structured Representations<br>
+                     Language Models
                   </td>
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 10</a>
@@ -509,7 +509,7 @@ content:
                   <td style="padding: 8px;">Python</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 13: Embeddings</td>
+                  <td style="padding: 8px;"> Embeddings</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1301.3781">1. Efficient Estimation of Word Representations in Vector Space</a><br>
                     <a href="https://arxiv.org/abs/1709.03856">2. StarSpace: Embed All The Things!</a><br>
@@ -518,7 +518,7 @@ content:
                   <td style="padding: 8px;">Python</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 14: Neural Attention Models</td>
+                  <td style="padding: 8px;"> Neural Attention Models</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1706.03762">1. Attention Is All You Need</a><br>
                     <a href="https://arxiv.org/abs/1810.04805">2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a><br>
@@ -528,26 +528,26 @@ content:
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
-                    Lesson 15: Neural Machine Translation<br>
-                    Lesson 16: Automated Speech Recognition (ASR)
+                     Neural Machine Translation<br>
+                     Automated Speech Recognition (ASR)
                   </td>
                   <td style="padding: 8px;">To be Updated</td>
                   <td style="padding: 8px;">Python</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 17: Deep Reinforcement Learning</td>
+                  <td style="padding: 8px;"> Deep Reinforcement Learning</td>
                   <td style="padding: 8px;">To be Updated</td>
                   <td style="padding: 8px;">Python</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 18: Unsupervised and Semi-Supervised Learning</td>
+                  <td style="padding: 8px;"> Unsupervised and Semi-Supervised Learning</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
                   </td>
                   <td style="padding: 8px;">Python</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;">Lesson 19: Generative Models</td>
+                  <td style="padding: 8px;"> Generative Models</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1606.05908">1. Tutorial on Variational Autoencoders</a><br>
                     <a href="https://arxiv.org/abs/1701.00160">2. Generative Adversarial Networks</a>
