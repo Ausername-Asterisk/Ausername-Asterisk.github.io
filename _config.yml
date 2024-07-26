@@ -558,14 +558,16 @@ content:
             </table>
             </div>
             <br> <!-- Adds two empty lines -->
-            # **Topic Learned(To be Updated):**
-        
+            
+# **Topic Learned(To be Updated):**    
+
             # <br> <!-- Adds two empty lines -->
             
             **Additional Resources:**
             - [Dive into Deep Learning  ](https://d2l.ai/)
             - [Deep Learning for Computer Vision  ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
             - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
+            - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
             - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
             
             <br> <!-- Adds two empty lines -->
