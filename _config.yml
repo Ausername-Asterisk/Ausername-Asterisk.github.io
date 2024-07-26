@@ -558,23 +558,14 @@ content:
             </table>
             </div>
             <br> <!-- Adds two empty lines -->
-            **Topic Learned(To be Updated):**
+            # **Topic Learned(To be Updated):**
         
-            <br> <!-- Adds two empty lines -->
-        
-            **Additional Resources:**
-            - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
-            - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
-            - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
-        
-            <br> <!-- Adds two empty lines -->
-        
-            [**Return to Table of Contents**](#top)
-            <br> <!-- Adds two empty lines -->
+            # <br> <!-- Adds two empty lines -->
             
             **Additional Resources:**
-            - [ Attention Is All You Need ](https://arxiv.org/abs/1706.03762)
             - [Dive into Deep Learning  ](https://d2l.ai/)
+            - [Deep Learning for Computer Vision  ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
+            - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
             - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
             
             <br> <!-- Adds two empty lines -->
