@@ -226,7 +226,7 @@ content:
               <tr style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Classification</td>
                 <td style="padding: 8px;">Comparing ML Classifiers: Model Performance & Decision Boundaries <a href="https://scikit-learn.org/stable/supervised_learning.html">(sklearn Documentation)</a></td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/8_Comparing_ML_Classifiers_Model_Performance_%26_Decision_Boundaries_Github.ipynb">sklearn demo ★</a></td>
+                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/8_Comparing_ML_Classifiers_Model_Performance_%26_Decision_Boundaries_Github.ipynb"> Comparing ML Classifiers: Model Performance & Decision Boundaries ★</a></td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Anomaly Detection</td>
