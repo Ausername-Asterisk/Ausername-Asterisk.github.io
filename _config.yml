@@ -561,7 +561,8 @@ content:
 
             <br> <!-- Adds two empty lines -->
             **Additional Resources:**
-            - [Dive into Deep Learning  ](https://d2l.ai/)
+            - [Dive into Deep Learning  ★ ](https://d2l.ai/)
+            - [Implementations of deep learning papers  ★ ](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
             - [Deep Learning for Computer Vision  ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
             - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
             - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
