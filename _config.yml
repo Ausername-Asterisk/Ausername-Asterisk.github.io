@@ -452,7 +452,7 @@ content:
                   <td style="padding: 8px;"> Neural Networks</td>
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 6</a><br>
-                    <a href="https://explained.ai/matrix-calculus/index.html">2. The Matrix Calculus You Need For Deep Learning</a><br>
+                    <a href="https://arxiv.org/abs/1802.01528">2. The Matrix Calculus You Need For Deep Learning ★</a><br>
                     <a href="https://arxiv.org/abs/1502.05767">3. Automatic differentiation in machine learning: a survey</a>
                   </td>
                   <td style="padding: 8px;">Python</td>
@@ -567,6 +567,7 @@ content:
             - [Deep Learning for Computer Vision  ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
             - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
             - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
+            - [Neural Networks: Zero to Hero  ](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
             - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
             
             <br> <!-- Adds two empty lines -->
