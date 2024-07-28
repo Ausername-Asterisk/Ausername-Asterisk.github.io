@@ -562,7 +562,8 @@ content:
 
             <br> <!-- Adds two empty lines -->
             **Additional Resources:**
-            - [Dive into Deep Learning  ★ ](https://d2l.ai/)
+            - [Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville ★ ](https://d2l.ai/)
+            - [Dive into Deep Learning  ★ ](https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en)
             - [Implementations of deep learning papers  ★ ](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
             - [Math for Deep Learning — Andreas Geiger  ★ ](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
             - [Deep Learning for Computer Vision  ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
