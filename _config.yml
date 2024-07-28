@@ -561,14 +561,20 @@ content:
             <br> <!-- Adds two empty lines -->
 
             <br> <!-- Adds two empty lines -->
-            **Additional Resources:**
+
+            
+            **Books:**
             - [Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville ★ ](https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en)
             - [Dive into Deep Learning  ★ ](https://d2l.ai/)
             - [Implementations of deep learning papers  ★ ](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
-            - [Math for Deep Learning — Andreas Geiger  ★ ](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
+            
+            <br> <!-- Adds two empty lines -->
+            
+            **Additional Resources:**
             - [Deep Learning for Computer Vision  ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
             - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
             - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
+            - [Math for Deep Learning — Andreas Geiger  ](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
             - [Neural Networks: Zero to Hero  ](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
             - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
             
