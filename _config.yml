@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **High-Dimensional Data Analysis:** Specialized methods for extracting informative features from datasets characterized by high dimensionality and limited samples. This includes advanced techniques in image processing, tensor analysis, and regularization.
 
-    - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. Upcoming studies in Fall 2024 will focus on neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
+    - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This section will focus on neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
 
     - **Reinforcement Learning:** To be updated in 2025
 
@@ -75,7 +75,7 @@ content:
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
             - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
-            - [Deep Learning (Fall 2024)](#deep-learning)
+            - [Deep Learning (ongoing)](#deep-learning)
             - [Supplementary Information](#supplementary-information)
             - [Future Update](#future-update)
             
@@ -421,7 +421,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Deep Learning (Fall)
+        title: Deep Learning (ongoing)
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: > 
