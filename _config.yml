@@ -336,7 +336,7 @@ content:
                   <a href="https://www.jstor.org/stable/25662308?seq=1#metadata_info_tab_contents">1. Tensor Decompositions and Applications 455-480</a> <br>
                   <a href="https://arxiv.org/abs/1807.10278">2. Structured Point Cloud Data Analysis via Regularized Tensor Regression for Process Modeling and Optimization</a> <br>
                   <a href="https://arxiv.org/abs/1706.03423">3. Image-Based Prognostics Using Penalized Tensor Regression</a> <br>
-                  <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">4. Tensor decompositions for feature extraction and classification of high dimensional datasets</a>
+                  <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">4. Tensor decompositions for feature extraction and classification of high dimensional datasets ★</a>
                 </td>
                 <td style="padding: 8px;">Python (numpy) <br>  <br>  Replicating Paper 4: Tensor Decompositions for Feature Extraction Using Python ★ </td>
               </tr>
@@ -371,7 +371,7 @@ content:
                 <td style="padding: 8px;">Compressive Sensing <br> Matrix Completion <br> Robust PCA <br> Smooth-Sparse Decomposition <br> RKHS Ridge Kernel Regression</td>
                 <td style="padding: 8px;">
                   <a href="https://www.researchgate.net/publication/3322018_Wakin_MB_An_introduction_to_compressive_sampling_IEEE_Signal_Process_Mag_252_21-30">1. An introduction to compressive sampling</a> <br>
-                  <a href="https://arxiv.org/abs/0810.3286">2. A Singular Value Thresholding Algorithm for Matrix Completion</a> <br>
+                  <a href="https://arxiv.org/abs/0810.3286">2. A Singular Value Thresholding Algorithm for Matrix Completion ★</a> <br>
                   <a href="https://arxiv.org/abs/0805.4471">3. Exact Matrix Completion via Convex Optimization</a> <br>
                   <a href="https://www.researchgate.net/publication/221618324_Robust_Principal_Component_Analysis_Exact_Recovery_of_Corrupted_Low-Rank_Matrices_via_Convex_Optimization">4. Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Matrices via Convex Optimization</a> <br>
                   <a href="https://arxiv.org/abs/0912.3599">5. Robust Principal Component Analysis?</a> <br>
