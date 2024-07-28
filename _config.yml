@@ -611,7 +611,8 @@ content:
       <br>
 
       # \![NASA](assets/images/NASA2.jpg "NASA")
-      ![ALT](assets/images/Alt2.jpeg "ALT")     
+      ![ALT](assets/images/Alt2.jpeg "ALT")    
+      
       <br>
       
 # Footer _includes/footer.html
