@@ -87,7 +87,7 @@ content:
       caption: 2023 - 2023 
       sub_title: Georgia Tech
       quote: > 
-        ". . . it is interesting to note that the original problem that started my research is still outstanding - namely the problem of planning or scheduling dynamically over time, particularly planning dynamically under uncertainty. If such a problem could be successfully solved it could eventually through better planning contribute to the well-being and stability of the world."
+        ". . . it is interesting to note that the original problem that started my research is still outstanding - namely the problem of planning or scheduling dynamically over time, particularly planning dynamically under uncertainty."
       description: |
         <div style="font-size: 14px;">
         This graduate-level optimization course covered essential concepts, models, and algorithms in depth. Beginning with foundational principles and mathematical underpinnings, the curriculum progressed through linear optimization techniques, including advanced topics such as the simplex method and duality theory. Subsequent modules explored nonlinear and convex conic optimization, broadening understanding beyond linear models. Additionally, the course included a study of integer optimization, providing insights into integrating integer decision variables into optimization frameworks.
