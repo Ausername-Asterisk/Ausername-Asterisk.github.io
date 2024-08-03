@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ken K. Hong
-title: Data Science & Analytics | MS in Computational Data Analytics (Data Science) Candidate @ Georgia Tech 
+title: Data Science & Analytics | MS in Computational Data Analytics (Data Science) Candidate @ Georgia Tech 👋 🙋‍♂
 email: 
 website: 
 
@@ -619,7 +619,7 @@ content:
       
 # Footer _includes/footer.html
 footer_show_references: true
-references_title: Life, I'm lovin' it.
+references_title: Life, I'm lovin' it. 👨‍🚀
 
 # Build settings
 remote_theme: Ausername-Asterisk/modern-theme
