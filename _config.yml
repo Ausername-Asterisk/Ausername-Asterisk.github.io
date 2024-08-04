@@ -338,7 +338,7 @@ content:
                   <a href="https://arxiv.org/abs/1706.03423">3. Image-Based Prognostics Using Penalized Tensor Regression</a> <br>
                   <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">4. Tensor decompositions for feature extraction and classification of high dimensional datasets ★</a>
                 </td>
-                <td style="padding: 8px;">Python (numpy) <br>  <br>  Replicating Paper 4: Tensor Decompositions for Feature Extraction Using Python ★ </td>
+                <td style="padding: 8px;">Python (numpy) <br>  <br>  Replicating Paper 4: Implementing Tensor Decomposition for Feature Extraction in Python ★ </td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Optimization: First order methods <br> Optimization: Second order methods</td>
@@ -378,7 +378,7 @@ content:
                   <a href="https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/lecture4_introToRKHS.pdf">6. Introduction to RKHS, and some simple kernel algorithms</a> <br>
                   <a href="https://www.researchgate.net/publication/283520589_Anomaly_Detection_in_Images_with_Smooth_Background_Via_Smooth-Sparse_Decomposition">7. Anomaly Detection in Images with Smooth Background Via Smooth-Sparse Decomposition</a>
                 </td>
-                <td style="padding: 8px;">Python (numpy) <br>   <br> Replicating Paper 2: Matrix Completion for Recommender Systems Using Python ★ </td>
+                <td style="padding: 8px;">Python (numpy) <br>   <br> Replicating Paper 2: SVT Algorithm for Efficient Sparse Matrix Recovery and Implementation in Python ★ </td>
               </tr>
             </tbody>
           </table>
