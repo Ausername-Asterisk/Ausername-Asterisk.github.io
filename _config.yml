@@ -457,7 +457,7 @@ content:
                     <a href="https://www.nature.com/articles/nature14539">2. Deep learning</a><br>
                     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=1056774">3. DShannon, 1956</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Neural Networks</td>
@@ -466,14 +466,14 @@ content:
                     <a href="https://arxiv.org/abs/1802.01528">2. The Matrix Calculus You Need For Deep Learning ★</a><br>
                     <a href="https://arxiv.org/abs/1502.05767">3. Automatic differentiation in machine learning: a survey</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Optimization of Deep Neural Networks</td>
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 7 - 8</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
@@ -486,7 +486,7 @@ content:
                     <a href="https://hadrienj.github.io/posts/Preprocessing-for-deep-learning/">2. Preprocessing for deep learning: from covariance matrix to image whitening</a><br>
                     <a href="https://cs231n.github.io/neural-networks-2/">3. Convolutional Neural Networks for Visual Recognition</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
@@ -497,7 +497,7 @@ content:
                     <a href="https://arxiv.org/abs/1506.06579">1. Understanding Neural Networks Through Deep Visualization</a><br>
                     <a href="https://arxiv.org/abs/1610.02391">2. Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
@@ -507,7 +507,7 @@ content:
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
@@ -517,7 +517,7 @@ content:
                   <td style="padding: 8px;">
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 10</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Embeddings</td>
@@ -526,7 +526,7 @@ content:
                     <a href="https://arxiv.org/abs/1709.03856">2. StarSpace: Embed All The Things!</a><br>
                     <a href="https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/">3. Word2Vec Tutorial</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Neural Attention Models ★</td>
@@ -535,7 +535,7 @@ content:
                     <a href="https://arxiv.org/abs/1810.04805">2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a><br>
                     <a href="https://jalammar.github.io/illustrated-transformer/">3. The Illustrated Transformer</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
@@ -543,19 +543,19 @@ content:
                      Automated Speech Recognition (ASR)
                   </td>
                   <td style="padding: 8px;">To be Updated</td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Deep Reinforcement Learning</td>
                   <td style="padding: 8px;">To be Updated</td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Unsupervised and Semi-Supervised Learning</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Generative Models</td>
@@ -563,7 +563,7 @@ content:
                     <a href="https://arxiv.org/abs/1606.05908">1. Tutorial on Variational Autoencoders</a><br>
                     <a href="https://arxiv.org/abs/1701.00160">2. Generative Adversarial Networks</a>
                   </td>
-                  <td style="padding: 8px;">Python</td>
+                  <td style="padding: 8px;">Python (PyTorch)</td>
                 </tr>
               </tbody>
             </table>
