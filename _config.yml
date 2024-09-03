@@ -471,7 +471,8 @@ content:
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Optimization of Deep Neural Networks</td>
                   <td style="padding: 8px;">
-                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 7 - 8</a>
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 7 - 8</a><br>
+                    <a href="https://arxiv.org/abs/1803.09820">2. A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay ★</a>
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
