@@ -466,7 +466,7 @@ content:
                     <a href="https://arxiv.org/abs/1802.01528">2. The Matrix Calculus You Need For Deep Learning ★</a><br>
                     <a href="https://arxiv.org/abs/1502.05767">3. Automatic differentiation in machine learning: a survey</a>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;">Python (numpy)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Optimization of Deep Neural Networks</td>
@@ -474,7 +474,7 @@ content:
                     <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 7 - 8</a><br>
                     <a href="https://arxiv.org/abs/1803.09820">2. A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay ★</a>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;">Python (numpy)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
