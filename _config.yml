@@ -457,7 +457,7 @@ content:
                     <a href="https://www.nature.com/articles/nature14539">2. Deep learning</a><br>
                     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=1056774">3. DShannon, 1956</a>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;">Python (numpy)</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Neural Networks</td>
