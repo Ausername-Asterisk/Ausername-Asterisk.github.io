@@ -500,7 +500,7 @@ content:
                     <a href="https://arxiv.org/abs/1610.02391">2. Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</a><br>
                     <a href="https://arxiv.org/abs/1605.06211">3. Fully Convolutional Networks for Semantic Segmentation</a>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;">Python (numpy) & PyTorch & Captum</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
