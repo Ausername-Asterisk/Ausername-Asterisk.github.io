@@ -550,7 +550,9 @@ content:
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Deep Reinforcement Learning</td>
-                  <td style="padding: 8px;">To be Updated</td>
+                  <td style="padding: 8px;">
+                      <a href="https://arxiv.org/abs/1707.06203">1. Imagination-Augmented Agents for Deep Reinforcement Learning</a><br>
+                  </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
