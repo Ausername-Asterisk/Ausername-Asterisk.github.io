@@ -509,7 +509,8 @@ content:
                   <td style="padding: 8px;">
                     <a href="https://fairmlbook.org/">1. Fairness and machine learning</a><br>
                     <a href="https://gdpr.eu/what-is-gdpr/">2. General Data Protection Regulation (GDPR) </a><br>
-                    <a href="https://oag.ca.gov/privacy/ccpa">3. California Consumer Privacy Act (CCPA)</a>
+                    <a href="https://oag.ca.gov/privacy/ccpa">3. California Consumer Privacy Act (CCPA)</a><br>
+                    <a href="https://www.science.org/doi/10.1126/sciadv.aao5580">4. The accuracy, fairness, and limits of predicting recidivism</a>
                   </td>
                   <td style="padding: 8px;"> </td>
                 </tr>
