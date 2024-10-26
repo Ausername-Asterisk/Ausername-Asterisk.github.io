@@ -492,23 +492,26 @@ content:
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
                      Visualization<br>
-                    PyTorch and Scalable Training
+                    PyTorch and Scalable Training<br>
+                    Advanced Computer Vision Architectures<br>
                   </td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1506.06579">1. Understanding Neural Networks Through Deep Visualization</a><br>
-                    <a href="https://arxiv.org/abs/1610.02391">2. Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</a>
+                    <a href="https://arxiv.org/abs/1610.02391">2. Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</a><br>
+                    <a href="https://arxiv.org/abs/1605.06211">3. Fully Convolutional Networks for Semantic Segmentation</a>
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
-                   Advanced Computer Vision Architectures<br>
                      Bias and Fairness
                   </td>
                   <td style="padding: 8px;">
-                    <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
+                    <a href="https://fairmlbook.org/">1. Fairness and machine learning</a><br>
+                    <a href="https://gdpr.eu/what-is-gdpr/">2. General Data Protection Regulation (GDPR) </a><br>
+                    <a href="https://oag.ca.gov/privacy/ccpa">3. California Consumer Privacy Act (CCPA)</a>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;"> </td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;">
