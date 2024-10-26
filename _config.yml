@@ -552,6 +552,7 @@ content:
                   <td style="padding: 8px;"> Deep Reinforcement Learning</td>
                   <td style="padding: 8px;">
                       <a href="https://arxiv.org/abs/1707.06203">1. Imagination-Augmented Agents for Deep Reinforcement Learning</a><br>
+                      <a href="https://spinningup.openai.com/en/latest/index.html">2. OpenAI Spinning Up in Deep RL</a><br>
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
