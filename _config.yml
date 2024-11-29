@@ -60,6 +60,8 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Reinforcement Learning:** To be updated in 2025 👨‍🚀 🌟
 
+    Featured Project: Machine Learning Portfolio [Jump to Machine Learning Project](#machine-learning-project)
+
 
 content:        
   - title:  # Title for the section
@@ -243,7 +245,8 @@ content:
                 <td style="padding: 8px;">Locally Weighted Linear Regression with Bias Variance Tradeoff and Hyperparameter Fine Tuning</td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              <tr style="border-bottom: 1px solid #ddd;">
+              #<tr style="border-bottom: 1px solid #ddd;">
+              <tr id="machine-learning-project" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Machine Learning Project</td>
                 <td style="padding: 8px;">Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California. <br> Data Sources: <a href="https://fred.stlouisfed.org">Federal Reserve Economic Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration (EIA)</a></td>
                 <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb">ML Project (matplotlib, seaborn, pandas, numpy, sklearn) ★</a></td>
