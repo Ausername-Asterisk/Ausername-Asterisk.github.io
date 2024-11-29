@@ -245,7 +245,6 @@ content:
                 <td style="padding: 8px;">Locally Weighted Linear Regression with Bias Variance Tradeoff and Hyperparameter Fine Tuning</td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              #<tr style="border-bottom: 1px solid #ddd;">
               <tr id="machine-learning-project" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Machine Learning Project</td>
                 <td style="padding: 8px;">Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California. <br> Data Sources: <a href="https://fred.stlouisfed.org">Federal Reserve Economic Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration (EIA)</a></td>
