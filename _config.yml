@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **High-Dimensional Data Analysis:** Specialized methods for extracting informative features from datasets characterized by high dimensionality and limited samples. This includes advanced techniques in image processing, tensor analysis, and regularization.
 
-    - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This includes neural networks, gradient descent optimization, and advanced architectures such as convolutional and recurrent neural networks using PyTorch.
+    - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This includes Multilayer Perceptrons (MLPs), gradient descent optimization, Convolutional Neural Networks (CNNs), and advanced architectures such as Long Short-Term Memory (LSTM) networks and Transformers.
 
     - **Reinforcement Learning:** To be updated in 2025 👨‍🚀 🌟
 
