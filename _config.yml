@@ -64,7 +64,7 @@ about_content: | # this will include new lines to allow paragraphs
     
     - [Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in CA 🥑](#machine-learning-project)
     - [Implementing Tensor Decomposition for Feature Extraction in Python 🧩](#HDDA-project1)
-    - [SVT Algorithm for Efficient Sparse Matrix Completion and Implementation in Python](#HDDA-project2)
+    - [SVT Algorithm for Efficient Sparse Matrix Completion and Its Python Implementation (Recommender System) 📚](#HDDA-project2)
 content:        
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
@@ -390,7 +390,7 @@ content:
                 <td style="padding: 8px;">
                     Python (numpy) <br><br>
                     <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_Replicating_Paper_2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb">
-                        Replicating Paper 2: SVT Algorithm for Efficient Sparse Matrix Completion and Implementation in Python ★
+                        Replicating Paper 2: SVT Algorithm for Efficient Sparse Matrix Completion and Its Python Implementation (Recommender System) ★ 📚 
                     </a>
                 </td>
               </tr>
