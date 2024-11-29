@@ -63,7 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
     **Featured Projects:**
     
     - [Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in CA 🥑](#machine-learning-project)
-    - [Implementing Tensor Decomposition for Feature Extraction in Python](#HDDA-project1)
+    - [Implementing Tensor Decomposition for Feature Extraction in Python 🧩](#HDDA-project1)
     - [SVT Algorithm for Efficient Sparse Matrix Completion and Implementation in Python](#HDDA-project2)
 content:        
   - title:  # Title for the section
@@ -345,7 +345,7 @@ content:
                 <td style="padding: 8px;">
                     Python (numpy) <br><br>
                     <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Replicating_Paper_4_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb">
-                        Replicating Paper 4: Implementing Tensor Decomposition for Feature Extraction in Python ★
+                        Replicating Paper 4: Implementing Tensor Decomposition for Feature Extraction in Python ★ 🧩
                     </a>
                 </td>
               </tr>
