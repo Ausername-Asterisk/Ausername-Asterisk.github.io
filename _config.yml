@@ -60,11 +60,11 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Reinforcement Learning:** To be updated in 2025 👨‍🚀 🌟
 
-    **Featured Project:**
+    **Featured Projects:**
     
     - [Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in CA 🥑](#machine-learning-project)
-
-
+    - [Implementing Tensor Decomposition for Feature Extraction in Python](#HDDA-project1)
+    - [SVT Algorithm for Efficient Sparse Matrix Completion and Implementation in Python](#HDDA-project2)
 content:        
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
@@ -334,7 +334,7 @@ content:
                 </td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              <tr style="border-bottom: 1px solid #ddd;">
+              <tr id="HDDA-project1" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Tensor Preliminaries <br> Tensor Decomposition <br> Tensor Applications I <br> Tensor Applications II <br> Tensor Applications III</td>
                 <td style="padding: 8px;">
                   <a href="https://www.jstor.org/stable/25662308?seq=1#metadata_info_tab_contents">1. Tensor Decompositions and Applications 455-480</a> <br>
@@ -376,7 +376,7 @@ content:
                 </td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              <tr style="border-bottom: 1px solid #ddd;">
+              <tr id="HDDA-project2" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Compressive Sensing <br> Matrix Completion <br> Robust PCA <br> Smooth-Sparse Decomposition <br> RKHS Ridge Kernel Regression</td>
                 <td style="padding: 8px;">
                   <a href="https://www.researchgate.net/publication/3322018_Wakin_MB_An_introduction_to_compressive_sampling_IEEE_Signal_Process_Mag_252_21-30">1. An introduction to compressive sampling</a> <br>
