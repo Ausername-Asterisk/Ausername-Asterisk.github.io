@@ -597,6 +597,50 @@ content:
             </div>
             <br> <!-- Adds two empty lines -->
 
+
+            <br> <!-- Adds two empty lines -->
+            **Topic Learned:**
+            - Module 1: Fundamentals of Machine Learning and Optimization
+              - Linear Classifiers and Gradient Descent
+              - Optimization of Deep Neural Networks
+            
+            - Module 2: Neural Networks and Backpropagation
+              - Neural Networks
+              - Backpropagation and Gradient Descent
+            
+            - Module 3: Convolutional Neural Networks (CNNs) for Visual Recognition
+              - Convolution and Pooling Layers
+              - Convolutional Neural Network Architectures
+            
+            - Module 4: Advanced Neural Networks and Visualization
+              - Advanced Computer Vision Architectures
+              - Visualization Techniques for Deep Networks
+            
+            - Module 5: Bias, Fairness, and Ethical Considerations in AI
+              - Bias and Fairness
+              - Regulatory Aspects
+            
+            - Module 6: Natural Language Processing (NLP) and Language Models
+              - Introduction to Structured Representations
+              - Language Models and Embeddings
+              - Neural Attention Models
+            
+            - Module 7: Reinforcement Learning and Autonomous Agents
+              - Deep Reinforcement Learning
+              - Imagination-Augmented Agents
+            
+            - Module 8: Unsupervised and Semi-Supervised Learning
+              - Unsupervised Learning
+              - Semi-Supervised Learning
+            
+            - Module 9: Generative Models
+              - Variational Autoencoders (VAEs)
+              - Generative Adversarial Networks (GANs)
+            
+            - Module 10: Deep Learning for Environmental Impact and Real-World Applications
+              - Deep Learning Project: Coral Reef Protection
+              - Data Augmentation and Model Training for Real-World Problems
+            
             <br> <!-- Adds two empty lines -->
 
             
