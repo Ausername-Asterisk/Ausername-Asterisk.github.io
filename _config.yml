@@ -580,7 +580,7 @@ content:
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;"> A DeepLearning Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏</td>
+                  <td style="padding: 8px;"> A Deep Learning Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏</td>
                   <td style="padding: 8px;">
                     Data Sources: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
                   </td>
