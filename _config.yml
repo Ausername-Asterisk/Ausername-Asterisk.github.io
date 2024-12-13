@@ -250,7 +250,11 @@ content:
               <tr id="machine-learning-projecttemp" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Machine Learning Project</td>
                 <td style="padding: 8px;">Data Sources: <a href="https://fred.stlouisfed.org">Federal Reserve Economic Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration (EIA)</a></td>
-                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb"> Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California ★ 🥑</a></td>
+                <td style="padding: 8px;">
+                  <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb">
+                    <strong>Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in California ★ 🥑</strong>
+                  </a>
+                </td>
               </tr>
             </tbody>
           </table>
@@ -582,7 +586,7 @@ content:
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> A Deep Learning Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage ★ 🌏</td>
                   <td style="padding: 8px;">
-                    Data Sources: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
+                    Data Source: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
                   </td>
                   <td style="padding: 8px;">
                     <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">1. Technical Report 📰</a><br>
