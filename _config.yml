@@ -605,7 +605,7 @@ content:
               - Linear Classifiers, Gradient Descent, Neural Networks, Regularization, Optimization Techniques
             
             - Module 2: Convolutional Neural Networks (CNNs)  
-              - Convolution and Pooling, CNN Architectures, Visualization of Neural Networks, Scalable Training with PyTorch
+              - Convolution and Pooling, CNN Architectures, Visualization of Neural Networks, Scalable Training
             
             - Module 3: Structured Neural Representations  
               - Sequential Modeling, Language Models, Word Embeddings, Attention Mechanisms
