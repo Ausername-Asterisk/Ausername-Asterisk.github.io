@@ -227,7 +227,7 @@ content:
                 <td style="padding: 8px;">Image Classification with Gaussian Mixture Models using EM</td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              <tr style="border-bottom: 1px solid #ddd;">
+              <tr id="ML-project" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Classification</td>
                 <td style="padding: 8px;">Comparing ML Classifiers: Model Performance & Decision Boundaries <a href="https://scikit-learn.org/stable/supervised_learning.html">(sklearn Documentation)</a></td>
                 <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/8_Comparing_ML_Classifiers_Model_Performance_%26_Decision_Boundaries_Github.ipynb"> Comparing ML Classifiers: Model Performance & Decision Boundaries ★</a></td>
@@ -242,7 +242,7 @@ content:
                 <td style="padding: 8px;">Fine Tuning Machine Learning Models for CART Random Forest and One Class SVM <a href="https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf">(Random Forests, Leo Breiman)</a></td>
                 <td style="padding: 8px;">Python (numpy, sklearn)</td>
               </tr>
-              <tr id="ML-project" style="border-bottom: 1px solid #ddd;">
+              <tr style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Nonlinear Regression</td>
                 <td style="padding: 8px;">Locally Weighted Linear Regression with Bias Variance Tradeoff and Hyperparameter Fine Tuning</td>
                 <td style="padding: 8px;">Python (numpy)</td>
@@ -323,7 +323,7 @@ content:
               </tr>
             </thead>
             <tbody>
-              <tr style="border-bottom: 1px solid #ddd;">
+              <tr id="HDDA-project1" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Linear Regression <br> Splines <br> BSplines <br> Smoothing Splines <br> Kernel Smoothers <br> FPCA</td>
                 <td style="padding: 8px;">
                   <a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">1. The Elements of Statistical Learning Pages 43-52, 139-161, 186-208</a> <br>
@@ -338,7 +338,7 @@ content:
                 </td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              <tr id="HDDA-project1" style="border-bottom: 1px solid #ddd;">
+              <tr style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Tensor Preliminaries <br> Tensor Decomposition <br> Tensor Applications I <br> Tensor Applications II <br> Tensor Applications III</td>
                 <td style="padding: 8px;">
                   <a href="https://www.jstor.org/stable/25662308?seq=1#metadata_info_tab_contents">1. Tensor Decompositions and Applications 455-480</a> <br>
@@ -369,7 +369,7 @@ content:
                 </td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              <tr style="border-bottom: 1px solid #ddd;">
+              <tr id="HDDA-project2" style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Ridge Regression & LASSO <br> NNG <br> Adaptive LASSO <br> Grouped LASSO <br> Elastic Net</td>
                 <td style="padding: 8px;">
                   <a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">1. The Elements of Statistical Learning Page 61-73</a> <br>
@@ -380,7 +380,7 @@ content:
                 </td>
                 <td style="padding: 8px;">Python (numpy)</td>
               </tr>
-              <tr id="HDDA-project2" style="border-bottom: 1px solid #ddd;">
+              <tr style="border-bottom: 1px solid #ddd;">
                 <td style="padding: 8px;">Compressive Sensing <br> Matrix Completion <br> Robust PCA <br> Smooth-Sparse Decomposition <br> RKHS Ridge Kernel Regression</td>
                 <td style="padding: 8px;">
                   <a href="https://www.researchgate.net/publication/3322018_Wakin_MB_An_introduction_to_compressive_sampling_IEEE_Signal_Process_Mag_252_21-30">1. An introduction to compressive sampling</a> <br>
@@ -541,7 +541,7 @@ content:
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
-                <tr style="border-bottom: 1px solid #ddd;">
+                <tr id="DL-project" style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Neural Attention Models</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1706.03762">1. Attention Is All You Need ★</a><br>
@@ -575,7 +575,7 @@ content:
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
-                <tr id="DL-project" style="border-bottom: 1px solid #ddd;">
+                <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Generative Models</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1606.05908">1. Tutorial on Variational Autoencoders</a><br>
