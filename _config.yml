@@ -598,7 +598,22 @@ content:
             </table>
             </div>
             <br> <!-- Adds two empty lines -->
-
+            **Topic Learned:**
+            - **Module 1: Multi-Layer Perceptrons and Optimization**  
+              - Linear Classifiers, Gradient Descent, Deep Neural Networks, Regularization, Optimization Techniques
+            
+            - **Module 2: Convolutional Neural Networks (CNNs)**  
+              - Convolution and Pooling, CNN Architectures, Visualization of Neural Networks, Scalable Training with PyTorch
+            
+            - **Module 3: Structured Neural Representations**  
+              - Sequential Modeling, Language Models, Word Embeddings, Attention Mechanisms
+            
+            - **Module 4: Advanced Topics in Computer Vision and Generative Models**  
+              - Semantic Segmentation, Bias and Fairness in ML, Generative Models (VAE, GANs), Neural Machine Translation
+            
+            - **Module 5: Reinforcement Learning and Unsupervised Learning**  
+              - Deep Reinforcement Learning (Q-learning, Policy Gradient), Policy Iteration, Unsupervised Learning, Semi-Supervised Learning
+            
 
             <br> <!-- Adds two empty lines -->
           
