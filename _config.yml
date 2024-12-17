@@ -560,7 +560,7 @@ content:
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
-                <tr style="border-bottom: 1px solid #ddd;">
+                <tr id="DL-project" style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Deep Reinforcement Learning</td>
                   <td style="padding: 8px;">
                       <a href="https://spinningup.openai.com/en/latest/index.html">1. OpenAI Spinning Up in Deep RL</a><br>
@@ -568,7 +568,7 @@ content:
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
-                <tr id="DL-project" style="border-bottom: 1px solid #ddd;">
+                <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Unsupervised and Semi-Supervised Learning</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
