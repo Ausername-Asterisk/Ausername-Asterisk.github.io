@@ -66,7 +66,7 @@ about_content: | # this will include new lines to allow paragraphs
     - [Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in CA 🥑](#ML-project)
         - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation
     - [Implementing Tensor Decomposition for Feature Extraction in Face Recognition on the Olivetti Dataset 🧩](#HDDA-project1)
-        - Tensor Decomposition, Higher-Order Discriminant Analysis (HODA), Feature Extraction, Dimensionality Reduction
+        - Tensor Decomposition, Higher-Order Discriminant Analysis, Feature Extraction, Dimensionality Reduction
     - [SVT Algorithm for Efficient Sparse Matrix Completion in a Book Recommender System 📚](#HDDA-project2)
         - Matrix Completion, Singular Value Thresholding (SVT), Recommender System
 content:        
