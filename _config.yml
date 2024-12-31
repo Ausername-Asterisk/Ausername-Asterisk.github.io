@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     **Featured Projects:** 
     - [A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏](#DL-project)
-        - Pytorch
+        - Deep Neural Network, Computer Vision, Object Detection, YOLO, CBAM, PyTorch, EDA, Data Augmentation, Model Evaluation
     - [Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Macroeconomic Metrics in CA 🥑](#ML-project)
     - [Implementing Tensor Decomposition for Feature Extraction in Face Recognition on the Olivetti Dataset 🧩](#HDDA-project1)
     - [SVT Algorithm for Efficient Sparse Matrix Completion in a Book Recommender System 📚](#HDDA-project2)
