@@ -74,6 +74,28 @@ about_content: | # this will include new lines to allow paragraphs
         - Matrix Completion, Singular Value Thresholding (SVT), Recommender System   
     
 content:        
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Featured Projects
+        caption: 
+        sub_title: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            - [A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏](#DL-project)  
+                - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
+            <br>  
+            - [Assessing Avocado Pricing Dynamics Using Climate, Transportation Costs, and Economic Metrics in CA 🥑](#ML-project)  
+                - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation  
+            <br>  
+            - [Implementing Tensor Decomposition for Feature Extraction in Face Recognition on the Olivetti Dataset 🧩](#HDDA-project1)  
+                - Tensor Decomposition, Higher-Order Discriminant Analysis, Feature Extraction, Dimensionality Reduction  
+            <br>  
+            - [SVT Algorithm for Efficient Sparse Matrix Completion in a Book Recommender System 📚](#HDDA-project2)  
+                - Matrix Completion, Singular Value Thresholding (SVT), Recommender System  
+            
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
