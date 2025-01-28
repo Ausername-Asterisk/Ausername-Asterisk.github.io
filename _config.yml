@@ -7,7 +7,7 @@ version: 2
 
 # Personal info : AI and Data Science Repository: Uniting Theory and Practice
 name: Ken K. Hong
-title: Data Science & Analytics | MS in Computational Data Analytics (Data Science) Candidate @ Georgia Tech   👋 🙋‍♂ 
+title: Data Science & Analytics | MS in Computational Data Analytics (Data Science) Candidate @ Georgia Tech   👋 👨‍🚀
 email: 
 website: 
 
@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This includes Gradient Descent Optimization (Adam), Multilayer Perceptrons (MLPs), Convolutional Neural Networks (CNNs), and advanced architectures such as Long Short-Term Memory (LSTM), Transformers, Generative Adversarial Networks (GANs), and Diffusion models.
 
-    - **Reinforcement Learning:** To be updated in 2025 👨‍🚀 🌟
+    - **Reinforcement Learning:** To be updated in 2025 🌟
     
 content:   
 
@@ -99,7 +99,7 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
+                  The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
@@ -116,7 +116,7 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  This project investigates the factors influencing avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. By analyzing production, transportation, and economic variables, the study identifies key drivers of price changes. A Random Forest model achieved a training R² of 0.947 and a testing R² of 0.798. Key drivers include organic certification, economic factors with delayed impacts, and weather conditions, providing valuable insights for better price forecasting and supply chain management.
+                  This project investigates the factors influencing avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. By analyzing production, transportation, and economic variables, the study identifies key drivers of price changes. A Random Forest model achieved a training R² score of 0.947 and a testing R² score of 0.798. Key drivers include organic certification, economic factors with delayed impacts, and weather conditions, providing valuable insights for better price forecasting and supply chain management.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source:  <a href="https://fred.stlouisfed.org">Federal Reserve Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration</a><br>
@@ -133,7 +133,7 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC models, the approach successfully enhanced feature extraction and achieved a 0.925 accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
+                  This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC models, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html">The Olivetti Faces Dataset</a><br>
