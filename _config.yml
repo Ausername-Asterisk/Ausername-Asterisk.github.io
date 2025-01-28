@@ -136,7 +136,7 @@ content:
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html">The Olivetti Faces Dataset</a><br>
-                    Referenced Report: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">Tensor decompositions for feature extraction and classification of high dimensional datasets</a><br>
+                    Referenced Report: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">Tensor decompositions for feature extraction and classification</a><br>
                     Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb"> Model Implementation and Results </a>
                   </blockquote>
                 </div>
@@ -157,7 +157,10 @@ content:
                     Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb"> Model Implementation and Results </a>
                   </blockquote>
                 </div>
-
+        
+        <br> <!-- Adds two empty lines -->
+        
+        [**Return to Table of Contents**](#top)
         
   - title: Optimization # Title for the section
     layout: list # Type of content section (list/text)
