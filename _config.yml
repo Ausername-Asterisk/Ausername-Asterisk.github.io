@@ -91,10 +91,10 @@ content:
               <p></p>
               Project Description: 
               <p></p>
-                <div style="text-align: right;">
+                <div style="margin-left: 50px; font-size: 18px;">
                   The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
                 
-                  <blockquote>
+                  <blockquote style="font-size: 16px;">
                     <strong>Data Source:</strong> <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
                     <strong>Technical Report:</strong> <a href="https://arxiv.org/abs/2111.14311" target="_blank">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
                     <strong>Code:</strong> <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
