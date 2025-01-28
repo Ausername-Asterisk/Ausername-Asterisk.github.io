@@ -102,7 +102,7 @@ content:
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source:  <a href="https://fred.stlouisfed.org">Federal Reserve Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration</a><br>
                     Technical Report: To Be Updated<br>
-                    Code:  <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb"> EDA & Training & Results </a>
+                    Code:  <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb"> EDA, Model Training, and Results </a>
                   </blockquote>
                 </div>
             
