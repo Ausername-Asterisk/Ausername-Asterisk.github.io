@@ -76,9 +76,8 @@ content:
 
             - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  
               - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
-              <p></p>
-              
-              <p></p>
+              <p> </p>
+              <p> </p>
               Project Description: 
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
@@ -96,7 +95,7 @@ content:
             - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  
               - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
             <br>
-              **Project Description: **
+              **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
                   The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
