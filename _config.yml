@@ -381,10 +381,7 @@ content:
                   <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">4. Tensor decompositions for feature extraction and classification of high dimensional datasets ★</a>
                 </td>
                 <td style="padding: 8px;">
-                    Python (numpy) <br><br>
-                    <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Replicating_Paper_4_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb">
-                        <strong>Replicating Paper 4: Implementing Tensor Decomposition for Feature Extraction in Face Recognition on Olivetti Dataset ★ 🧩</strong>
-                    </a>
+                    Python (numpy) 
                 </td>
               </tr>
               <tr style="border-bottom: 1px solid #ddd;">
@@ -426,10 +423,7 @@ content:
                   <a href="https://www.researchgate.net/publication/283520589_Anomaly_Detection_in_Images_with_Smooth_Background_Via_Smooth-Sparse_Decomposition">7. Anomaly Detection in Images with Smooth Background Via Smooth-Sparse Decomposition</a>
                 </td>
                 <td style="padding: 8px;">
-                    Python (numpy) <br><br>
-                    <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_Replicating_Paper_2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb">
-                        <strong>Replicating Paper 2: SVT Algorithm for Efficient Sparse Matrix Completion in a Book Recommender System ★ 📚 </strong>
-                    </a>
+                    Python (numpy) 
                 </td>
               </tr>
             </tbody>
