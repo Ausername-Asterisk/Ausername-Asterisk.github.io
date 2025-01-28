@@ -1,0 +1,718 @@
+# Site
+repository: Ausername-Asterisk/Ausername-Asterisk.github.io
+favicon: assets/images/favicon12.ico 
+
+# Content configuration version
+version: 2
+
+# Personal info : AI and Data Science Repository: Uniting Theory and Practice
+name: Ken K. Hong
+title: Data Science & Analytics | MS in Computational Data Analytics (Data Science) Candidate @ Georgia Tech   👋 🙋‍♂ 
+email: 
+website: 
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: kkhong42
+github_username: Ausername-Asterisk
+# stackoverflow_username: "00000001"
+# dribbble_username: kkhong42
+# facebook_username: kkhong42
+# flickr_username: kkhong42
+# instagram_username: kkhong42
+linkedin_username: kkhong42
+# xing_username: kkhong42
+# pinterest_username: kkhong42
+# youtube_username: kkhong42
+# googleplus_username: +kkhong42
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#  icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: Data Touches Everything
+about_profile_image: assets/images/profile1.jpg
+about_content: | # this will include new lines to allow paragraphs
+    This repository serves as a comprehensive record of my academic journey and a platform for organizing my knowledge and goals in AI and Data Science as I pursue my Data Analytics and Data Science master's degree at Georgia Tech, guided by the [Artificial Intelligence Roadmap](https://i.am.ai/roadmap/#note). With a strong foundation in essential components that underlie modern data science methodologies, key areas include:
+
+    - **Optimization:** Fundamental techniques crucial for developing machine learning algorithms, sample code implemented using Python.
+
+    - **Machine Learning:** Focus on algorithms suited for handling large datasets with low-dimensional features, encompassing foundational tasks such as regression, classification, clustering, and dimensionality reduction. Advanced ensemble methods like boosting and bagging are also explored for enhanced model performance.
+
+    - **High-Dimensional Data Analysis:** Specialized methods for extracting informative features from datasets characterized by high dimensionality and limited samples. This includes advanced techniques in image processing, tensor analysis, and regularization.
+
+    - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This includes Gradient Descent Optimization (Adam), Multilayer Perceptrons (MLPs), Convolutional Neural Networks (CNNs), and advanced architectures such as Long Short-Term Memory (LSTM), Transformers, Generative Adversarial Networks (GANs), and Diffusion models.
+
+    - **Reinforcement Learning:** To be updated in 2025 👨‍🚀 🌟
+    
+content:        
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Featured Projects
+        caption: 
+        sub_title: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            - [A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏](#DL-project)  
+                - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
+            <br>  
+            - [Assessing Avocado Pricing Dynamics Using Climate, Transportation Costs, and Economic Metrics in CA 🥑](#ML-project)  
+                - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation  
+            <br>  
+            - [Implementing Tensor Decomposition for Feature Extraction in Face Recognition on the Olivetti Dataset 🧩](#HDDA-project1)  
+                - Tensor Decomposition, Higher-Order Discriminant Analysis, Feature Extraction, Dimensionality Reduction  
+            <br>  
+            - [SVT Algorithm for Efficient Sparse Matrix Completion in a Book Recommender System 📚](#HDDA-project2)  
+                - Matrix Completion, Singular Value Thresholding (SVT), Recommender System  
+            
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Table of Contents
+        caption: 
+        sub_title: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            - [Table of Contents](#top)
+            - [Optimization](#optimization)
+            - [Machine Learning](#machine-learning)
+            - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
+            - [Deep Learning](#deep-learning)
+            - [Supplementary Information](#supplementary-information)
+            - [Future Update](#future-update)
+            
+  - title: Optimization # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    - layout: left
+      title: Optimization
+      caption: 2023 - 2023 
+      sub_title: Georgia Tech
+      quote: > 
+        ". . . it is interesting to note that the original problem that started my research is still outstanding - namely the problem of planning or scheduling dynamically over time, particularly planning dynamically under uncertainty."
+      description: |
+        <div style="font-size: 14px;">
+        This graduate-level optimization course covered essential concepts, models, and algorithms in depth. Beginning with foundational principles and mathematical underpinnings, the curriculum progressed through linear optimization techniques, including advanced topics such as the simplex method and duality theory. Subsequent modules explored nonlinear and convex conic optimization, broadening understanding beyond linear models. Additionally, the course included a study of integer optimization, providing insights into integrating integer decision variables into optimization frameworks.
+        Practical skills were developed in formulating and solving complex optimization problems using Python-based tools. This experience enhanced proficiency in optimization theory, computational methods, and their applications in modern data analytics.
+
+
+        <table style="border-collapse: collapse; width: 100%;">
+          <thead>
+            <tr style="border-bottom: 2px solid black;">
+              <th style="padding: 8px; text-align: left;">Topic</th>
+              <th style="padding: 8px; text-align: left;">Description</th>
+              <th style="padding: 8px; text-align: left;">Implementation <br> (Private)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Convex & Nonconvex Optimization</td>
+              <td style="padding: 8px;">Implementation of convex optimization using Newton's method and nonconvex optimization with Scipy's minimize function.</td>
+              <td style="padding: 8px;">Python (numpy, scipy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Linear Programming</td>
+              <td style="padding: 8px;">Solution of common manufacturing production and electric power network problems using linear programming optimization techniques.</td>
+              <td style="padding: 8px;">Python (numpy, cvxpy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Solving Linear Program Using Basic Feasible Solutions</td>
+              <td style="padding: 8px;">Identification of all possible basic solutions and determination of the optimal solution among them.</td>
+              <td style="padding: 8px;">Python (numpy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Solving Linear Program Using Simplex Method </td>
+              <td style="padding: 8px;">Implementation of the simplex method from scratch to solve linear programming problems.</td>
+              <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/4_Solving_Linear_Program_Using_Simplex_%26_Basic_Feasible_Solution_Methods_Github.ipynb">Simplex Method and Basic Feasible Solutions (numpy) ★</a></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Cutting Stock Problem With Column Generation </td>
+              <td style="padding: 8px;">Solution of the cutting stock problem using column generation, applied to solve the pricing problem.</td>
+              <td style="padding: 8px;">Python (numpy, cvxpy)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #ddd;">
+              <td style="padding: 8px;">Location Optimization Using SOCP</td>
+              <td style="padding: 8px;">Application of second-order cone programming to identify optimal locations for optimization problems.</td>
+              <td style="padding: 8px;">Python (numpy, cvxpy)</td>
+            </tr>
+          </tbody>
+        </table>
+        </div>
+        <br> <!-- Adds two empty lines -->
+        **Topic Learned:**
+        - Module 1: Introduction
+        - Module 2: Illustration of Optimization Process
+        - Module 3: Mathematical Concepts Review
+        - Module 4: Convexity
+        - Module 5: Outcomes of Optimization
+        - Module 6: Optimality Certificates
+        - Module 7-8: Unconstrained Optimization
+        - Module 9-10: Linear Optimization Modeling
+        - Module 11-12: Advanced Linear Optimization
+        - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
+        - Module 15-16: Simplex Method and Further Development
+        - Module 17-18: Advanced Optimization Techniques
+        - Module 19-20: Nonlinear Optimization Modeling
+        - Module 21-23: Convex and Conic Programming
+        - Module 24: Semi-Definite Programming
+        - Module 25-30: Discrete Optimization
+        
+        <br> <!-- Adds two empty lines -->
+        
+        **Additional Resources:**
+        - [Convex Optimization – Boyd and Vandenberghe   ★](https://stanford.edu/~boyd/cvxbook/)
+        - [ORF363 Computing and Optimization ](https://aaa.princeton.edu/orf363)
+        - [ORF523 Convex and Conic Optimization](https://aaa.princeton.edu/orf523)
+        
+        <br> <!-- Adds two empty lines -->
+        
+        [**Return to Table of Contents**](#top)
+        
+  - title: Machine Learning # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Machine Learning
+        caption: 2024 - 2024
+        sub_title: Georgia Tech
+        quote: > 
+          "In God we trust, all others bring data."
+        description: | # this will include new lines to allow paragraphs
+          <div style="font-size: 14px;">
+          This graduate-level machine learning course delved deeply into essential methodologies, theories, and algorithms across various domains. Beginning with fundamental concepts in clustering, dimensionality reduction, and statistical modeling, the curriculum progressed to advanced techniques such as Gaussian mixture models, support vector machines (SVM), and ensemble methods like AdaBoost and random forests. Practical application was a key focus, with hands-on projects using Python for algorithm implementation and analysis of real-world datasets. The course provided a thorough understanding of machine learning principles, equipping participants with the skills to tackle intricate analytical problems, optimize model performance, and derive meaningful insights from data.
+  
+          <table style="border-collapse: collapse; width: 100%;">
+            <thead>
+              <tr style="border-bottom: 2px solid black; text-align: center;">
+                <th style="padding: 8px;">Topic</th>
+                <th style="padding: 8px;">Description</th>
+                <th style="padding: 8px;">Implementation <br> (Private)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Clustering and K-means</td>
+                <td style="padding: 8px;">Image Compression using K means Algorithm</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Clustering and K-means</td>
+                <td style="padding: 8px;">Evaluation of K means and K median Clustering on MNIST Dataset</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Spectral Clustering</td>
+                <td style="padding: 8px;">Political Blogosphere Analysis Using Spectral Clustering <a href="https://arxiv.org/abs/0711.0189">(Spectral Clustering, Ulrike von Luxburg)</a></td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Dimensionality Reduction and PCA</td>
+                <td style="padding: 8px;">Eigenface Generation and Analysis using PCA on the Olivetti Faces Dataset</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Nonlinear Dimensionality Reduction </td>
+                <td style="padding: 8px;">ISOMAP Algorithm Implementation and Visualization for Facial Image Analysis <a href="https://www.science.org/doi/10.1126/science.290.5500.2319">(ISOMAP Paper)</a></td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Density Estimation</td>
+                <td style="padding: 8px;">Analyzing Brain Structure and Categorical Labels Data Distribution</td>
+                <td style="padding: 8px;">Python (matplotlib, seaborn)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Gaussian Mixture Model and EM Algorithm</td>
+                <td style="padding: 8px;">Image Classification with Gaussian Mixture Models using EM</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Classification</td>
+                <td style="padding: 8px;">Comparing ML Classifiers: Model Performance & Decision Boundaries <a href="https://scikit-learn.org/stable/supervised_learning.html">(sklearn Documentation)</a></td>
+                <td style="padding: 8px;"><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/8_Comparing_ML_Classifiers_Model_Performance_%26_Decision_Boundaries_Github.ipynb"> Comparing ML Classifiers: Model Performance & Decision Boundaries ★</a></td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Anomaly Detection</td>
+                <td style="padding: 8px;">CUSUM for Distribution Shift Detection</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr id="ML-project" style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Feature Selection & Random Forest</td>
+                <td style="padding: 8px;">Fine Tuning Machine Learning Models for CART Random Forest and One Class SVM <a href="https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf">(Random Forests, Leo Breiman)</a></td>
+                <td style="padding: 8px;">Python (numpy, sklearn)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Nonlinear Regression</td>
+                <td style="padding: 8px;">Locally Weighted Linear Regression with Bias Variance Tradeoff and Hyperparameter Fine Tuning</td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr id="machine-learning-projecttemp" style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Machine Learning Project</td>
+                <td style="padding: 8px;">Data Sources: <a href="https://fred.stlouisfed.org">Federal Reserve Economic Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration (EIA)</a></td>
+                <td style="padding: 8px;">
+                  <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb">
+                    <strong>Assessing Avocado Pricing Dynamics Utilizing Climate Transportation Cost and Economic Metrics in California ★ 🥑</strong>
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          </div>
+            <br> <!-- Adds two empty lines -->
+            **Topic Learned:**
+            - Module 1: Clustering and K-means
+            - Module 2: Spectral Clustering
+            - Module 3: Dimensionality Reduction and PCA
+            - Module 4: Nonlinear Dimensionality Reduction
+            - Module 5: Density Estimation
+            - Module 6: Gaussian Mixture Model and EM Algorithm
+            - Module 7: Basics of Optimization Theory
+            - Module 8: Classification: Naïve Bayes and Logistic Regression
+            - Module 9: Support Vector Machine (SVM), Neural Networks
+            - Module 10: Feature Selection
+            - Module 11: Anomaly Detection
+            - Module 12: Boosting Algorithms and AdaBoost
+            - Module 13: Random Forest
+            - Module 14: Bias-Variance Tradeoff, Cross-Validation, Kernel Methods, Reinforcement Learning
+            - Module 15: Intro to Reinforcement Learning
+            
+            <br> <!-- Adds two empty lines -->
+            
+            **Books:**
+            - [ The Elements of Statistical Learning  ★](https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en)
+            - [ A Mathematical Introduction to Data Science by Yuan Yao  ★](https://www.math.pku.edu.cn/teachers/yaoy/reference/book05.pdf)
+            - [Pattern Recognition and Machine Learning](https://www.google.com/books/edition/Pattern_Recognition_and_Machine_Learning/kOXDtAEACAAJ?hl=en)
+            - [Foundations of Machine Learning](https://www.google.com/books/edition/Foundations_of_Machine_Learning_second_e/V2B9DwAAQBAJ?hl=en)
+            - [An Introduction to Statistical Learning](https://www.statlearning.com/)
+            - [Collaborative filtering  (recommender systems)](https://en.wikipedia.org/wiki/Collaborative_filtering)
+            - [Fairness and machine learning](https://fairmlbook.org/)
+            
+            <br> <!-- Adds two empty lines -->
+
+             **Additional Resources:**
+            - [ Intuition for the Algorithms of Machine Learning — Cynthia Rudin  ★](https://users.cs.duke.edu/~cynthia/teaching.html)
+            - [ Statistical Machine Learning — Ulrike von Luxburg  ★](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+            - [Mathematics for Machine Learning — Ulrike von Luxburg](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
+            - [Statistical Learning with Python — Trevor Hastie, Robert Tibshirani](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ)
+            - [CS229: Machine Learning — Andrew Ng](https://cs229.stanford.edu/)   
+            
+            <br> <!-- Adds two empty lines -->
+        
+            [**Return to Table of Contents**](#top)
+            
+  - title: High-Dimensional Data Analysis # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: High-Dimensional Data Analysis
+        caption: 2024 - 2024
+        sub_title: Georgia Tech
+        quote: >
+          "It is vain to do with more what can be done with less." 
+        description: | # this will include new lines to allow paragraphs
+          <div style="font-size: 14px;">
+          This graduate-level course in high-dimensional data analysis is designed to equip professionals with essential skills in feature extraction and dimensionality reduction in statistical machine learning. The curriculum focuses on key topics such as functional data analysis, advanced image processing techniques, multilinear algebra, tensor analysis, and advanced regularization techniques for handling complex datasets. These foundational areas provide vital tools for effectively understanding and interpreting data, improving the extraction of meaningful features, and simplifying data analysis. Understanding these techniques prepares professionals to address challenges in image analysis, optimize predictive models to prevent overfitting, and gain useful insights across various data-driven fields.
+
+          <table style="border-collapse: collapse; width: 100%;">
+            <thead>
+              <tr style="border-bottom: 2px solid black; text-align: center;">
+                <th style="padding: 8px;">Topic</th>
+                <th style="padding: 8px;">Additional Readings</th>
+                <th style="padding: 8px;">Implementation <br> (Private)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Linear Regression <br> Splines <br> BSplines <br> Smoothing Splines <br> Kernel Smoothers <br> FPCA</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">1. The Elements of Statistical Learning Pages 43-52, 139-161, 186-208</a> <br>
+                  <a href="https://www.researchgate.net/publication/4741968_Functional_Data_Analysis_for_Sparse_Longitudinal_Data">2. Functional Data Analysis for Sparse Longitudinal Data</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr id="HDDA-project1" style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Image Filtering and Convolution <br> Image Transformation & Edge Detection <br> Image segmentation</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/A_Concise_Introduction_to_Image_Processi/fp7SBQAAQBAJ?hl=en">1. A Concise Introduction to Image Processing Using C++ Chapters 2, 3, 4</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Tensor Preliminaries <br> Tensor Decomposition <br> Tensor Applications I <br> Tensor Applications II <br> Tensor Applications III</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.jstor.org/stable/25662308?seq=1#metadata_info_tab_contents">1. Tensor Decompositions and Applications 455-480</a> <br>
+                  <a href="https://arxiv.org/abs/1807.10278">2. Structured Point Cloud Data Analysis via Regularized Tensor Regression for Process Modeling and Optimization</a> <br>
+                  <a href="https://arxiv.org/abs/1706.03423">3. Image-Based Prognostics Using Penalized Tensor Regression</a> <br>
+                  <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">4. Tensor decompositions for feature extraction and classification of high dimensional datasets ★</a>
+                </td>
+                <td style="padding: 8px;">
+                    Python (numpy) <br><br>
+                    <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Replicating_Paper_4_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb">
+                        <strong>Replicating Paper 4: Implementing Tensor Decomposition for Feature Extraction in Face Recognition on Olivetti Dataset ★ 🧩</strong>
+                    </a>
+                </td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Optimization: First order methods <br> Optimization: Second order methods</td>
+                <td style="padding: 8px;">
+                  <a href="https://stanford.edu/~boyd/cvxbook/">1. Convex Optimization Pages 1-11, 21-35, 67-79, 457-475 and 484-487</a> <br>
+                  <a href="https://www.google.com/books/edition/Numerical_Methods_for_Least_Squares_Prob/aQD1LLYz6tkC?hl=en">2. Numerical Methods for Least Squares Problems Ch 9</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Proximal Gradient Descent <br> Coordinate Descent <br> ALM and ADMM</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/Optimization_for_Machine_Learning/JPQx7s2L1A8C?hl=en">1. Optimization for Machine Learning Page 27-34</a> <br>
+                  <a href="https://www.google.com/books/edition/Distributed_Optimization_and_Statistical/8MjgLpJ0_4YC?hl=en">2. Distributed Optimization and Statistical Learning Via the Alternating Direction Method of Multipliers Page 1-24</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Ridge Regression & LASSO <br> NNG <br> Adaptive LASSO <br> Grouped LASSO <br> Elastic Net</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.google.com/books/edition/The_Elements_of_Statistical_Learning/yPfZBwAAQBAJ?hl=en">1. The Elements of Statistical Learning Page 61-73</a> <br>
+                  <a href="https://www.researchgate.net/publication/4742238_The_adaptive_LASSO_ad_its_oracle_properties">2. The adaptive LASSO and its oracle properties</a> <br>
+                  <a href="https://www.researchgate.net/publication/243776325_Better_Subset_Regression_Using_the_Nonnegative_Garrote">3. Better Subset Regression Using the Nonnegative Garrote</a> <br>
+                  <a href="https://www.researchgate.net/publication/4993325_Model_Selection_and_Estimation_in_Regression_With_Grouped_Variables">4. Model Selection and Estimation in Regression With Grouped Variables</a> <br>
+                  <a href="https://www.researchgate.net/publication/227604843_Zou_H_Hastie_T_Regularization_and_variable_selection_via_the_elastic_net_J_R_Statist_Soc_B_2005672301-20">5. Regularization and variable selection via the elastic net</a>
+                </td>
+                <td style="padding: 8px;">Python (numpy)</td>
+              </tr>
+              <tr id="HDDA-project2" style="border-bottom: 1px solid #ddd;">
+                <td style="padding: 8px;">Compressive Sensing <br> Matrix Completion <br> Robust PCA <br> Smooth-Sparse Decomposition <br> RKHS Ridge Kernel Regression</td>
+                <td style="padding: 8px;">
+                  <a href="https://www.researchgate.net/publication/3322018_Wakin_MB_An_introduction_to_compressive_sampling_IEEE_Signal_Process_Mag_252_21-30">1. An introduction to compressive sampling</a> <br>
+                  <a href="https://arxiv.org/abs/0810.3286">2. A Singular Value Thresholding Algorithm for Matrix Completion ★</a> <br>
+                  <a href="https://arxiv.org/abs/0805.4471">3. Exact Matrix Completion via Convex Optimization</a> <br>
+                  <a href="https://www.researchgate.net/publication/221618324_Robust_Principal_Component_Analysis_Exact_Recovery_of_Corrupted_Low-Rank_Matrices_via_Convex_Optimization">4. Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Matrices via Convex Optimization</a> <br>
+                  <a href="https://arxiv.org/abs/0912.3599">5. Robust Principal Component Analysis?</a> <br>
+                  <a href="https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/lecture4_introToRKHS.pdf">6. Introduction to RKHS, and some simple kernel algorithms</a> <br>
+                  <a href="https://www.researchgate.net/publication/283520589_Anomaly_Detection_in_Images_with_Smooth_Background_Via_Smooth-Sparse_Decomposition">7. Anomaly Detection in Images with Smooth Background Via Smooth-Sparse Decomposition</a>
+                </td>
+                <td style="padding: 8px;">
+                    Python (numpy) <br><br>
+                    <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_Replicating_Paper_2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb">
+                        <strong>Replicating Paper 2: SVT Algorithm for Efficient Sparse Matrix Completion in a Book Recommender System ★ 📚 </strong>
+                    </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          </div>
+            <br> <!-- Adds two empty lines -->
+            **Topic Learned:**
+            - Module 1: Functional Data Analysis
+              - Linear Regression, Splines, BSplines , Smoothing Splines, Kernel Smoothers, FPCA
+            
+            - Module 2: Image Analysis
+              - Image Filtering and Convolution, Image Transformation & Edge Detection, Image segmentation
+            
+            - Module 3: Tensor Data Analysis
+              - Tensor Preliminaries, Tensor Decomposition, Tensor Applications 
+            
+            - Module 4: Optimization I
+              - First order methods, Second order methods
+            
+            - Module 5: Optimization II
+              - Proximal Gradient Descent, Coordinate Descent, ALM and ADMM
+            
+            - Module 6: Regularization
+              - Ridge Regression & LASSO, Adaptive LASSO, Grouped LASSO, Elastic Net
+            
+            - Module 7: Regularization Applications
+              - Compressive Sensing, Matrix Completion, Robust PCA,
+              - Smooth-Sparse Decomposition, RKHS Ridge Kernel Regression
+              
+            <br> <!-- Adds two empty lines -->
+            
+            **Additional Resources:**
+            - [ High-Dimensional Data Analysis with Low-Dimensional Models — John Wright, Yi Ma  ★](https://book-wright-ma.github.io/)
+            - [Convex Optimization – Boyd and Vandenberghe  ](https://stanford.edu/~boyd/cvxbook/)
+        
+            <br> <!-- Adds two empty lines -->
+        
+            [**Return to Table of Contents**](#top)
+            
+  - title: Deep Learning # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Deep Learning 
+        caption: 2024 - 2024
+        sub_title: Georgia Tech
+        quote: > 
+            "Attention is all you need." 
+           
+        description: | # this will include new lines to allow paragraphs
+            <div style="font-size: 14px;">
+            Deep learning, a specialized branch of machine learning, focuses on extracting intricate hierarchical representations from raw data. Central to this field is artificial neural networks, which have revolutionized data processing across various domains such as image analysis, natural language processing, and decision-making tasks. This course delves into fundamental principles, mathematical foundations, and practical implementation of deep learning. Topics include optimization techniques like gradient descent and backpropagation, foundational neural network modules such as linear and convolutional layers, and advanced architectures like recurrent neural networks and convolutional neural networks. Through hands-on programming assignments using PyTorch, participants will learn to construct and optimize neural networks, apply them to real-world applications, choose appropriate models for diverse problems, and understand ongoing research challenges in the field.
+
+            <table style="border-collapse: collapse; width: 100%;">
+              <thead>
+                <tr style="border-bottom: 2px solid black;">
+                  <th style="padding: 8px; text-align: left;">Topic</th>
+                  <th style="padding: 8px; text-align: left;">Additional Readings</th>
+                  <th style="padding: 8px; text-align: left;">Implementation <br> (Private)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">Linear Classifiers and Gradient Descent</td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 2 - 5</a><br>
+                    <a href="https://www.nature.com/articles/nature14539">2. Deep learning</a><br>
+                    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=1056774">3. DShannon, 1956</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Neural Networks</td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 6</a><br>
+                    <a href="https://arxiv.org/abs/1802.01528">2. The Matrix Calculus You Need For Deep Learning ★</a><br>
+                    <a href="https://arxiv.org/abs/1502.05767">3. Automatic differentiation in machine learning: a survey</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Optimization of Deep Neural Networks</td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 7 - 8</a><br>
+                    <a href="https://arxiv.org/abs/1803.09820">2. A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay ★</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Data Wrangling<br>
+                     Convolution and Pooling Layers<br>
+                    Convolutional Neural Network Architectures
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 9</a><br>
+                    <a href="https://hadrienj.github.io/posts/Preprocessing-for-deep-learning/">2. Preprocessing for deep learning: from covariance matrix to image whitening</a><br>
+                    <a href="https://cs231n.github.io/neural-networks-2/">3. Convolutional Neural Networks for Visual Recognition</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy) & PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Visualization<br>
+                    PyTorch and Scalable Training<br>
+                    Advanced Computer Vision Architectures<br>
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1506.06579">1. Understanding Neural Networks Through Deep Visualization</a><br>
+                    <a href="https://arxiv.org/abs/1610.02391">2. Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</a><br>
+                    <a href="https://arxiv.org/abs/1605.06211">3. Fully Convolutional Networks for Semantic Segmentation</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy) & Captum</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Bias and Fairness
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://fairmlbook.org/">1. Fairness and machine learning</a><br>
+                    <a href="https://gdpr.eu/what-is-gdpr/">2. General Data Protection Regulation (GDPR) </a><br>
+                    <a href="https://oag.ca.gov/privacy/ccpa">3. California Consumer Privacy Act (CCPA)</a><br>
+                    <a href="https://www.science.org/doi/10.1126/sciadv.aao5580">4. The accuracy, fairness, and limits of predicting recidivism</a>
+                  </td>
+                  <td style="padding: 8px;"> <a href="https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/">Markkula Center for Applied Ethics </a><br>  </td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Introduction to Structured Representations<br>
+                     Language Models
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 10</a>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Embeddings</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1301.3781">1. Efficient Estimation of Word Representations in Vector Space</a><br>
+                    <a href="https://arxiv.org/abs/1709.03856">2. StarSpace: Embed All The Things!</a><br>
+                    <a href="https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/">3. Word2Vec Tutorial</a>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Neural Attention Models</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1706.03762">1. Attention Is All You Need ★</a><br>
+                    <a href="https://arxiv.org/abs/1810.04805">2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a><br>
+                    <a href="https://jalammar.github.io/illustrated-transformer/">3. The Illustrated Transformer</a>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Neural Machine Translation<br>
+                     Automated Speech Recognition (ASR)
+                  </td>
+                  <td style="padding: 8px;">
+                      <a href="https://arxiv.org/abs/1409.3215">1. Sequence to Sequence Learning with Neural Networks</a><br>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr id="DL-project" style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Deep Reinforcement Learning</td>
+                  <td style="padding: 8px;">
+                      <a href="https://spinningup.openai.com/en/latest/index.html">1. OpenAI Spinning Up in Deep RL</a><br>
+                      <a href="https://arxiv.org/abs/1707.06203">2. Imagination-Augmented Agents for Deep Reinforcement Learning</a><br>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Unsupervised and Semi-Supervised Learning</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Generative Models</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1606.05908">1. Tutorial on Variational Autoencoders</a><br>
+                    <a href="https://arxiv.org/abs/1701.00160">2. Generative Adversarial Networks</a>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> A Deep Learning Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage ★ 🌏</td>
+                  <td style="padding: 8px;">
+                    Data Source: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
+                  </td>
+                    <td style="padding: 8px;">
+                        <strong><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">1. Technical Report 📰</a></strong><br>
+                        <strong><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb">2. EDA & Data Augmentation 📊</a></strong><br>
+                        <strong><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb">3. Training & Results 🏆</a></strong>
+                    </td>
+                </tr>
+              </tbody>
+            </table>
+            </div>
+            <br> <!-- Adds two empty lines -->
+
+            **Topic Learned:**
+            
+            - Module 1: Multi-Layer Perceptrons and Optimization  
+              - Linear Classifiers, Gradient Descent, Neural Networks, Regularization, Optimization Techniques
+            
+            - Module 2: Convolutional Neural Networks (CNNs)  
+              - Convolution and Pooling, CNN Architectures, Visualization of Neural Networks, Scalable Training
+            
+            - Module 3: Structured Neural Representations  
+              - Sequential Modeling, Language Models, Word Embeddings, Attention Mechanisms
+            
+            - Module 4: Advanced Computer Vision  
+              - Semantic Segmentation, Bias and Fairness in ML, Generative Models (VAE, GANs)
+            
+            - Module 5: Neural Machine Translation and Language Models  
+              - Neural Machine Translation, Sequence-to-Sequence Models, BERT, Attention Mechanisms
+            
+            - Module 6: Reinforcement Learning  
+              - Deep Reinforcement Learning (Q-learning, Policy Gradient), Policy Iteration
+            
+            - Module 7: Unsupervised and Semi-Supervised Learning  
+              - Unsupervised Learning, Semi-Supervised Learning, Clustering Techniques
+            
+            - Module 8: Advanced Topics in Deep Learning  
+              - Generative Adversarial Networks (GANs), Variational Autoencoders (VAE)
+
+            <br> <!-- Adds two empty lines -->
+          
+
+            
+            **Books:**
+            - [Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville ★ ](https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en)
+            - [Dive into Deep Learning  ★ ](https://d2l.ai/)
+            - [Implementations of deep learning papers  ](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+            
+            <br> <!-- Adds two empty lines -->
+            
+            **Additional Resources:**
+            - [Deep Learning — Andreas Geiger ★](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
+            - [CS 7643 - Deep Learning Notes ](https://lowyx.com/posts/gt-dl-notes/)
+            - [Deep Learning for Computer Vision  ](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
+            - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
+            - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
+            - [CS230 Deep Learning – Andrew Ng  ](https://cs230.stanford.edu/)
+            - [Math for Deep Learning — Andreas Geiger  ](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
+            - [Neural Networks: Zero to Hero  ](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+            - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
+            
+            <br> <!-- Adds two empty lines -->
+        
+            [**Return to Table of Contents**](#top)
+            
+  - title: Supplementary Information
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      The supplementary materials provide additional information on the topics of AI, Statistics, Machine Learning, and Data Science.
+      - [AI-Expert-Roadmap ★](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+      - [Hugging Face 🤗 - Models ★](https://huggingface.co/models)
+      - [Hugging Face 🤗 - LLM Leaderboard ★](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+      - [Trustworthy Online Controlled Experiments (A/B Testing) ★](https://www.google.com/books/edition/Trustworthy_Online_Controlled_Experiment/NHjQDwAAQBAJ?hl=en)
+      - [Kaggle Competition ](https://www.kaggle.com/competitions)
+      - [Github Ranking ](https://github.com/EvanLi/Github-Ranking)
+      - [Papers With Code ](https://paperswithcode.com/)
+      - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+      - [SQL Style Guide](https://www.sqlstyle.guide/)
+      - [Lil'Log](https://lilianweng.github.io/)
+      
+      <br> <!-- Adds two empty lines -->
+            
+      Courses:
+      - [Machine Learning & Causal Inference](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+      - [Probabilistic Machine Learning — Philipp Hennig](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+      - [Algorithms and Data Structures using Python ](https://runestone.academy/ns/books/published/pythonds3/index.html)
+
+      
+  - title: Future Update
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      This repository will be continually updated as I progress in my studies and research. A new reinforcement learning section will be particularly expanded in 2025, with detailed explanations and practical implementations of various reinforcement learning techniques.  👨‍🚀 🌟
+      
+      <br>
+
+
+      ![alt](assets/images/alt.jpeg "alt")    
+      
+      <br>
+      
+# Footer _includes/footer.html
+footer_show_references: true
+references_title: Life, I'm lovin' it. 
+
+# Build settings
+remote_theme: Ausername-Asterisk/modern-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
