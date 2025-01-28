@@ -72,7 +72,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             - [Table of Contents](#top)
-            - [Featured Projects]
+            - [Featured Projects](#featured-projects)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
             - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
