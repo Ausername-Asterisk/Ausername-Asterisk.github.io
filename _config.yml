@@ -78,9 +78,11 @@ content:
               Project Description:  
               Data Source:  <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
               Technical Report: 
-                  • <a href="link1">link1</a><br>  
-                  • <a href="link2">link2</a><br>  
-                  • <a href="link3">link3</a><br> 
+              
+                  • <a href="link1">link1</a> 
+                  • <a href="link2">link2</a> 
+                  • <a href="link3">link3</a> 
+                  
               Code  
             <br>
             
@@ -90,9 +92,11 @@ content:
               Project Description:  
               Data Source:  <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
               Technical Report: 
+              
                 • [link1](link1)  
                 • [link2](link2)  
                 • [link3](link3) 
+                
               Code  
             <br>
             
