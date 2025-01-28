@@ -133,7 +133,7 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC models, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
+                  This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC tensor decomposition methods, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html">The Olivetti Faces Dataset</a><br>
