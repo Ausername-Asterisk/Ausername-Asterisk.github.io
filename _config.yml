@@ -117,7 +117,7 @@ content:
                   This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC models, the approach successfully enhanced feature extraction and achieved a 0.925 accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html">The Olivetti faces dataset</a><br>
+                    Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html">The Olivetti Faces Dataset</a><br>
                     Referenced Report: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">Tensor decompositions for feature extraction and classification of high dimensional datasets</a><br>
                     Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb"> Model Implementation and Results </a>
                   </blockquote>
@@ -131,12 +131,12 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
+                  This project implements the Singular Value Thresholding (SVT) algorithm for matrix completion, as described in the paper A Singular Value Thresholding Algorithm for Matrix Completion. The SVT algorithm efficiently recovers low-rank matrices from sparse data, using soft-thresholding on singular values. Tested on the GoodBooks dataset with 98.4% missing values, the algorithm achieved a 6.75% relative error after 150 iterations. The results confirm SVT's effectiveness in recovering matrices with high accuracy, making it a valuable tool for applications like recommendation systems and collaborative filtering.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
-                    Technical Report: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">Detecting Crown-of-Thorn Starfish in Underwater Footage</a><br>
-                    Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb"> EDA & Data Augmentation </a> & <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb">Training & Results </a>
+                    Data Source: <a href="https://www.kaggle.com/datasets/zygmunt/goodbooks-10k">The Goodbooks Dataset</a><br>
+                    Referenced Report: <a href="https://arxiv.org/abs/0810.3286">A Singular Value Thresholding Algorithm for Matrix Completion</a><br>
+                    Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb"> Model Implementation and Results </a>
                   </blockquote>
                 </div>
             
