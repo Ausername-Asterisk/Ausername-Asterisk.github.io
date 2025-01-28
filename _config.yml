@@ -158,23 +158,7 @@ content:
         </table>
         </div>
         <br> <!-- Adds two empty lines -->
-        **Topic Learned:**
-        - Module 1: Introduction
-        - Module 2: Illustration of Optimization Process
-        - Module 3: Mathematical Concepts Review
-        - Module 4: Convexity
-        - Module 5: Outcomes of Optimization
-        - Module 6: Optimality Certificates
-        - Module 7-8: Unconstrained Optimization
-        - Module 9-10: Linear Optimization Modeling
-        - Module 11-12: Advanced Linear Optimization
-        - Module 13-14: Geometric and Algebraic Aspects of Linear Optimization
-        - Module 15-16: Simplex Method and Further Development
-        - Module 17-18: Advanced Optimization Techniques
-        - Module 19-20: Nonlinear Optimization Modeling
-        - Module 21-23: Convex and Conic Programming
-        - Module 24: Semi-Definite Programming
-        - Module 25-30: Discrete Optimization
+
         
         <br> <!-- Adds two empty lines -->
         
@@ -277,22 +261,7 @@ content:
           </table>
           </div>
             <br> <!-- Adds two empty lines -->
-            **Topic Learned:**
-            - Module 1: Clustering and K-means
-            - Module 2: Spectral Clustering
-            - Module 3: Dimensionality Reduction and PCA
-            - Module 4: Nonlinear Dimensionality Reduction
-            - Module 5: Density Estimation
-            - Module 6: Gaussian Mixture Model and EM Algorithm
-            - Module 7: Basics of Optimization Theory
-            - Module 8: Classification: Naïve Bayes and Logistic Regression
-            - Module 9: Support Vector Machine (SVM), Neural Networks
-            - Module 10: Feature Selection
-            - Module 11: Anomaly Detection
-            - Module 12: Boosting Algorithms and AdaBoost
-            - Module 13: Random Forest
-            - Module 14: Bias-Variance Tradeoff, Cross-Validation, Kernel Methods, Reinforcement Learning
-            - Module 15: Intro to Reinforcement Learning
+    
             
             <br> <!-- Adds two empty lines -->
             
@@ -419,28 +388,7 @@ content:
           </table>
           </div>
             <br> <!-- Adds two empty lines -->
-            **Topic Learned:**
-            - Module 1: Functional Data Analysis
-              - Linear Regression, Splines, BSplines , Smoothing Splines, Kernel Smoothers, FPCA
-            
-            - Module 2: Image Analysis
-              - Image Filtering and Convolution, Image Transformation & Edge Detection, Image segmentation
-            
-            - Module 3: Tensor Data Analysis
-              - Tensor Preliminaries, Tensor Decomposition, Tensor Applications 
-            
-            - Module 4: Optimization I
-              - First order methods, Second order methods
-            
-            - Module 5: Optimization II
-              - Proximal Gradient Descent, Coordinate Descent, ALM and ADMM
-            
-            - Module 6: Regularization
-              - Ridge Regression & LASSO, Adaptive LASSO, Grouped LASSO, Elastic Net
-            
-            - Module 7: Regularization Applications
-              - Compressive Sensing, Matrix Completion, Robust PCA,
-              - Smooth-Sparse Decomposition, RKHS Ridge Kernel Regression
+  
               
             <br> <!-- Adds two empty lines -->
             
@@ -616,31 +564,7 @@ content:
             </div>
             <br> <!-- Adds two empty lines -->
 
-            **Topic Learned:**
-            
-            - Module 1: Multi-Layer Perceptrons and Optimization  
-              - Linear Classifiers, Gradient Descent, Neural Networks, Regularization, Optimization Techniques
-            
-            - Module 2: Convolutional Neural Networks (CNNs)  
-              - Convolution and Pooling, CNN Architectures, Visualization of Neural Networks, Scalable Training
-            
-            - Module 3: Structured Neural Representations  
-              - Sequential Modeling, Language Models, Word Embeddings, Attention Mechanisms
-            
-            - Module 4: Advanced Computer Vision  
-              - Semantic Segmentation, Bias and Fairness in ML, Generative Models (VAE, GANs)
-            
-            - Module 5: Neural Machine Translation and Language Models  
-              - Neural Machine Translation, Sequence-to-Sequence Models, BERT, Attention Mechanisms
-            
-            - Module 6: Reinforcement Learning  
-              - Deep Reinforcement Learning (Q-learning, Policy Gradient), Policy Iteration
-            
-            - Module 7: Unsupervised and Semi-Supervised Learning  
-              - Unsupervised Learning, Semi-Supervised Learning, Clustering Techniques
-            
-            - Module 8: Advanced Topics in Deep Learning  
-              - Generative Adversarial Networks (GANs), Variational Autoencoders (VAE)
+
 
             <br> <!-- Adds two empty lines -->
           
