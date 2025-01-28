@@ -562,17 +562,6 @@ content:
                   </td>
                   <td style="padding: 8px;">PyTorch</td>
                 </tr>
-                <tr style="border-bottom: 1px solid #ddd;">
-                  <td style="padding: 8px;"> A Deep Learning Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage ★ 🌏</td>
-                  <td style="padding: 8px;">
-                    Data Source: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
-                  </td>
-                    <td style="padding: 8px;">
-                        <strong><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">1. Technical Report 📰</a></strong><br>
-                        <strong><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb">2. EDA & Data Augmentation 📊</a></strong><br>
-                        <strong><a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb">3. Training & Results 🏆</a></strong>
-                    </td>
-                </tr>
               </tbody>
             </table>
             </div>
