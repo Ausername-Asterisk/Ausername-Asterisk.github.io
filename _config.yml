@@ -100,7 +100,7 @@ content:
                   This project examines the factors driving avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. A Random Forest model demonstrated a training R² of 0.947 and a testing R² of 0.798. Key drivers include organic certification, economic factors, and weather conditions, providing valuable insights for forecasting and supply chain management.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source:  <a href="https://fred.stlouisfed.org">Federal Reserve Economic Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration (EIA)</a><br>
+                    Data Source:  <a href="https://fred.stlouisfed.org">Federal Reserve Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration</a><br>
                     Technical Report: To Be Updated<br>
                     Code:  <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb"> EDA & Training & Results </a>
                   </blockquote>
