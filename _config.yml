@@ -97,7 +97,7 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  This project examines the factors driving avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. A Random Forest model demonstrated a training R² of 0.947 and a testing R² of 0.798. Key drivers include organic certification, economic factors, and weather conditions, providing valuable insights for forecasting and supply chain management.
+                  This project investigates the factors influencing avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. By analyzing production, transportation, and economic variables, the study identifies key drivers of price changes. A Random Forest model achieved a training R² of 0.947 and a testing R² of 0.798. Key drivers include organic certification, economic factors with delayed impacts, and weather conditions, providing valuable insights for better price forecasting and supply chain management.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source:  <a href="https://fred.stlouisfed.org">Federal Reserve Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration</a><br>
