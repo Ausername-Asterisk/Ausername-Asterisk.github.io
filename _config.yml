@@ -66,24 +66,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Table of Contents
-        caption: 
-        sub_title: 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-            - [Table of Contents](#top)
-            - [Featured Projects](#featured-projects)
-            - [Optimization](#optimization)
-            - [Machine Learning](#machine-learning)
-            - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
-            - [Deep Learning](#deep-learning)
-            - [Supplementary Information](#supplementary-information)
-            - [Future Update](#future-update)
-            
-  - title:  # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
         title: Featured Projects
         caption: 
         sub_title: 
@@ -157,9 +139,22 @@ content:
                     Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb"> Model Implementation and Results </a>
                   </blockquote>
                 </div>
-        
-        
-        [**Return to Table of Contents**](#top)
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Table of Contents
+        caption: 
+        sub_title: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            - [Table of Contents](#top)
+            - [Optimization](#optimization)
+            - [Machine Learning](#machine-learning)
+            - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
+            - [Deep Learning](#deep-learning)
+            - [Supplementary Information](#supplementary-information)
+            - [Future Update](#future-update)
         
   - title: Optimization # Title for the section
     layout: list # Type of content section (list/text)
