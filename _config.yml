@@ -75,18 +75,24 @@ content:
             - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  
               - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
               <p></p>
-              Project Description  
-              Data Source  
-              Technical Report  
+              Project Description:  
+              Data Source:  <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
+              Technical Report: 
+                  • <a href="link1">link1</a><br>  
+                  • <a href="link2">link2</a><br>  
+                  • <a href="link3">link3</a><br> 
               Code  
             <br>
             
             - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  
               - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
-              <br> 
-              Project Description  
-              Data Source  
-              Technical Report  
+              <p></p>
+              Project Description:  
+              Data Source:  <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a>
+              Technical Report: 
+                • [link1](link1)  
+                • [link2](link2)  
+                • [link3](link3) 
               Code  
             <br>
             
