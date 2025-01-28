@@ -158,9 +158,6 @@ content:
                   </blockquote>
                 </div>
         
-        <br> <!-- Adds two empty lines -->
-        
-        [**Return to Table of Contents**](#top)
         
   - title: Optimization # Title for the section
     layout: list # Type of content section (list/text)
