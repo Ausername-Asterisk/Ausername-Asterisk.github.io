@@ -137,7 +137,7 @@ content:
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html">The Olivetti Faces Dataset</a><br>
-                    Referenced Report: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">Tensor decompositions for feature extraction and classification</a><br>
+                    Referenced Report: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">Tensor decompositions for feature extraction and classification of high-dim datasets</a><br>
                     Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb"> Model Implementation and Results </a>
                   </blockquote>
                 </div>
