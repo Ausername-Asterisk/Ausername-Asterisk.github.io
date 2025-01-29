@@ -70,7 +70,7 @@ content:
         caption: 
         sub_title: 
         quote: >
-        description: | # this will include new lines to allow paragraphs
+        description: 
             - [Featured Projects](#FeaturedProjects)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
