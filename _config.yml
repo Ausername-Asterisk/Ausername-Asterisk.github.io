@@ -110,21 +110,7 @@ content:
             <br>
 
 
-            - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project"></a>
-              - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
-            <br>
-            <details>
-              <summary><strong>Project Description</strong></summary>
-            
-              This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC tensor decomposition methods, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
-            
-              > **Data Source**: [The Olivetti Faces Dataset](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)  
-              > **Referenced Report**: [Tensor decompositions for feature extraction and classification of high-dim datasets](https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets)  
-              > **Code**: [Model Implementation and Results](https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb)
-            
-            </details>
-            
-            <br>
+
             
 
             - **Assessing Avocado Pricing Dynamics Using Climate, Transportation Costs, and Economic Metrics in CA 🥑**  
