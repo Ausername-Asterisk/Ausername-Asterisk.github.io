@@ -71,7 +71,7 @@ content:
         sub_title: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            - [Featured Projects](#FeaturedProjects)
+            - [Featured Projects](#featured-project)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
             - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
@@ -92,7 +92,7 @@ content:
         
 
 
-            - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="FeaturedProjects"></a>
+            - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project"></a>
               - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
             <br>
               **Project Description:**
