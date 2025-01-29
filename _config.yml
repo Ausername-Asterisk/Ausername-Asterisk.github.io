@@ -109,30 +109,6 @@ content:
             <br>
 
              
-            - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project"></a>
-              - Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation  
-            <br>
-              **Project Description:**
-              <p></p>
-                <div style="margin-left: 45px; font-size: 15px;">
-                    The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
-                
-                    <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                        Data Source: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
-                
-                        <!-- Technical Report (Preview) -->
-                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">Technical Report:</a><br>
-                        
-                        <!-- Embed the PDF (Preview) -->
-                        <iframe src="https://raw.githubusercontent.com/Ausername-Asterisk/Ausername-Asterisk.github.io/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf" width="100%" height="600px" style="border: none;"></iframe><br>
-                
-                        <!-- Links to Code -->
-                        Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb">EDA & Data Augmentation</a> & 
-                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb">Training & Results</a>
-                    </blockquote>
-                </div>
-            
-            <br>
             
             - **Assessing Avocado Pricing Dynamics Using Climate, Transportation Costs, and Economic Metrics in CA 🥑**  
               - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation  
