@@ -108,6 +108,28 @@ content:
                 </div>
             
             <br>
+            
+            <div class="wrapper">
+              <input id="exp1" class="exp" type="checkbox">
+              <div class="text">
+                <label class="btn" for="exp1">▼ Project: A DL Approach to Safeguard Coral Reefs</label>
+                <div class="project-content">
+                  <p><strong>Deep Neural Networks, Object Detection, PyTorch, YOLO, Data Augmentation, EDA, Model Evaluation</strong></p>
+                  <p>The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). 
+                  To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. 
+                  The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. 
+                  This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.</p>
+            
+                  <blockquote class="data-links">
+                    <strong>Data Source:</strong> <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
+                    <strong>Technical Report:</strong> <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">Detecting Crown-of-Thorn Starfish in Underwater Footage</a><br>
+                    <strong>Code:</strong> 
+                    <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb"> EDA & Data Augmentation </a> & 
+                    <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb">Training & Results</a>
+                  </blockquote>
+                </div>
+              </div>
+            </div>
 
             - **Assessing Avocado Pricing Dynamics Using Climate, Transportation Costs, and Economic Metrics in CA 🥑**  
               - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation  
