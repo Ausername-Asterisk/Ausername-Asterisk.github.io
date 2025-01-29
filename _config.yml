@@ -66,12 +66,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Table of Contents
+        title: Contents
         caption: 
         sub_title: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            - [Table of Contents](#top)
             - [Featured Projects](#FeaturedProjects)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
@@ -340,7 +339,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: High-Dimensional Data Analysis
+        title: High-Dim Data Analysis
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: >
