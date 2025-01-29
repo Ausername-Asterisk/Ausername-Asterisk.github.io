@@ -70,14 +70,15 @@ content:
         caption: 
         sub_title: 
         quote: >
-        description: 
+        description: | # this will include new lines to allow paragraphs
             - [Featured Projects](#FeaturedProjects)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
             - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
             - [Deep Learning](#deep-learning)
             - [Supplementary Information](#supplementary-information)
-            - [Future Update](#future-update) # this will include new lines to allow paragraphs
+            - [Future Update](#future-update)
+            - <p></p>
             
 
   - title:  # Title for the section
