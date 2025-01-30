@@ -4,38 +4,81 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
+    
     <!-- PDF.js Viewer CSS -->
     <link rel="stylesheet" href="pdf-viewer/viewer.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        #viewerContainer {
+            width: 90%;
+            max-width: 900px;
+            height: 90vh;
+            border: 1px solid #ccc;
+            background: #fff;
+            overflow: auto;
+        }
+        .error-message {
+            color: red;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
+
     <!-- PDF.js Viewer Container -->
-    <div id="viewer" class="pdfViewer"></div>
+    <div id="viewerContainer">
+        <div id="viewer" class="pdfViewer"></div>
+    </div>
+
+    <p id="errorMessage" class="error-message" style="display: none;">Error loading PDF. Please check the file URL.</p>
 
     <!-- PDF.js Library -->
-    <script src="pdf-viewer/viewer.js"></script>
-    <!-- PDF.js Worker Script -->
-    <script>
-        const pdfjsLib = window['pdfjs-dist/build/pdf'];
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'pdf-viewer/pdf.worker.js';
-    </script>
+    <script src="pdf-viewer/build/pdf.js"></script>
+    <script src="pdf-viewer/web/viewer.js"></script>
 
     <script>
-        // Get the PDF file URL from the query parameter
-        const urlParams = new URLSearchParams(window.location.search);
-        const pdfUrl = urlParams.get('file');
+        // Ensure PDF.js is properly loaded
+        if (!window['pdfjsLib']) {
+            document.getElementById("errorMessage").innerText = "Error: PDF.js library is missing.";
+            document.getElementById("errorMessage").style.display = "block";
+        } else {
+            // Set the PDF.js worker source
+            pdfjsLib.GlobalWorkerOptions.workerSrc = 'pdf-viewer/build/pdf.worker.js';
 
-        // Initialize the PDF.js viewer
-        const container = document.getElementById('viewer');
-        const pdfViewer = new pdfjsViewer.PDFViewer({
-            container: container,
-        });
+            // Get the PDF file URL from the query parameter
+            const urlParams = new URLSearchParams(window.location.search);
+            const pdfUrl = urlParams.get('file');
 
-        // Load the PDF
-        pdfjsLib.getDocument(pdfUrl).promise.then(pdfDoc => {
-            pdfViewer.setDocument(pdfDoc);
-        }).catch(error => {
-            console.error('Error loading PDF: ', error);
-        });
+            if (!pdfUrl) {
+                document.getElementById("errorMessage").innerText = "No PDF file provided.";
+                document.getElementById("errorMessage").style.display = "block";
+            } else {
+                // Load the PDF
+                pdfjsLib.getDocument(pdfUrl).promise.then(pdfDoc => {
+                    const viewer = new pdfjsViewer.PDFViewer({
+                        container: document.getElementById('viewerContainer'),
+                    });
+                    viewer.setDocument(pdfDoc);
+                }).catch(error => {
+                    document.getElementById("errorMessage").innerText = "Error loading PDF: " + error.message;
+                    document.getElementById("errorMessage").style.display = "block";
+                    console.error('Error loading PDF: ', error);
+                });
+            }
+        }
     </script>
+
 </body>
 </html>
