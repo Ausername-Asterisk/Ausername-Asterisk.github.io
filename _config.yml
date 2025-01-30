@@ -101,8 +101,13 @@ content:
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://arxiv.org/abs/2111.14311">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
-                    Technical Report: <a href="https://ausername-asterisk.github.io/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">Detecting Crown-of-Thorn Starfish in Underwater Footage</a> | <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf" style="background-color: gray; padding: 5px;">[Link2]</a><br>
-                    Code: <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb"> EDA & Data Augmentation </a> & <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb">Training & Results </a>
+                    Technical Report: <a href="https://ausername-asterisk.github.io/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">Detecting Crown-of-Thorn Starfish in Underwater Footage</a> | <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf">[Link2]</a><br>
+                    Code: 
+                        <a href="https://ausername-asterisk.github.io/assets/files/html/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_&_Data_Augmentation_Github.html"> EDA & Data Augmentation </a> & 
+                        <a href="https://ausername-asterisk.github.io/assets/files/html/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_&_Results_Github.html">Training & Results </a> 
+                        | 
+                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb"> [Link2a] </a> & 
+                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb"> [Link2b]  </a>
                   </blockquote>
                 </div>
             
