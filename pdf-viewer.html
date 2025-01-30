@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
-    <!-- PDF.js Viewer CSS (Directly from your fork) -->
+
+    <!-- PDF.js Viewer CSS -->
     <link rel="stylesheet" href="https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/web/viewer.css">
 </head>
 <body>
@@ -13,35 +14,32 @@
         <div id="viewer" class="pdfViewer"></div>
     </div>
 
-    <p id="errorMessage" class="error-message" style="display: none; color: red;">Error loading PDF. Please check the file URL.</p>
-
-    <!-- PDF.js Library (Directly from your fork) -->
+    <!-- PDF.js Library -->
     <script src="https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/web/viewer.js"></script>
-    
+
+    <!-- PDF.js Worker Script -->
     <script>
         const pdfjsLib = window['pdfjs-dist/build/pdf'];
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/build/pdf.worker.min.js'; <!-- Worker script -->
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/build/pdf.worker.min.js';
 
         // Get the PDF file URL from the query parameter
         const urlParams = new URLSearchParams(window.location.search);
         const pdfUrl = urlParams.get('file');
 
         if (!pdfUrl) {
-            document.getElementById("errorMessage").innerText = "No PDF file provided.";
-            document.getElementById("errorMessage").style.display = "block";
+            alert("No PDF file URL provided.");
             return;
         }
 
-        // Load the PDF
+        // Load the PDF and initialize the viewer
         pdfjsLib.getDocument(pdfUrl).promise.then(pdfDoc => {
             const viewer = new pdfjsViewer.PDFViewer({
                 container: document.getElementById('viewerContainer'),
             });
             viewer.setDocument(pdfDoc);
         }).catch(error => {
-            document.getElementById("errorMessage").innerText = "Error loading PDF: " + error.message;
-            document.getElementById("errorMessage").style.display = "block";
             console.error('Error loading PDF: ', error);
+            alert("Error loading PDF: " + error.message);
         });
     </script>
 </body>
