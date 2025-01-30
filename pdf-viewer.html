@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
-    <!-- Include PDF.js from a CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.min.js"></script>
+    <!-- Include PDF.js from your forked repository -->
+    <script src="https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/build/pdf.js"></script>
     <style>
         /* Basic styling for the PDF viewer */
         #pdf-viewer {
@@ -25,6 +25,9 @@
     <div id="pdf-viewer"></div>
 
     <script>
+        // Set the worker source to the pdf.worker.js from your forked repository
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/build/pdf.worker.js';
+
         // Get the PDF file URL from the query parameter
         const urlParams = new URLSearchParams(window.location.search);
         const pdfUrl = urlParams.get('file');
