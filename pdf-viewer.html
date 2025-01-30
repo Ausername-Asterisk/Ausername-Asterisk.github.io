@@ -4,56 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
-    <!-- Include PDF.js from your forked repository -->
-    <script src="https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/build/pdf.js"></script>
-    <style>
-        /* Basic styling for the PDF viewer */
-        #pdf-viewer {
-            width: 100%;
-            height: 100vh;
-            overflow: auto;
-            border: 1px solid #ccc;
-        }
-        canvas {
-            display: block;
-            margin-bottom: 10px;
-            border: 1px solid #ddd;
-        }
-    </style>
+    <!-- PDF.js Viewer CSS -->
+    <link rel="stylesheet" href="pdf-viewer/viewer.css">
 </head>
 <body>
-    <div id="pdf-viewer"></div>
+    <!-- PDF.js Viewer Container -->
+    <div id="viewer" class="pdfViewer"></div>
+
+    <!-- PDF.js Library -->
+    <script src="pdf-viewer/viewer.js"></script>
+    <!-- PDF.js Worker Script -->
+    <script>
+        const pdfjsLib = window['pdfjs-dist/build/pdf'];
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'pdf-viewer/pdf.worker.js';
+    </script>
 
     <script>
-        // Set the worker source to the pdf.worker.js from your forked repository
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/build/pdf.worker.js';
-
         // Get the PDF file URL from the query parameter
         const urlParams = new URLSearchParams(window.location.search);
         const pdfUrl = urlParams.get('file');
 
+        // Initialize the PDF.js viewer
+        const container = document.getElementById('viewer');
+        const pdfViewer = new pdfjsViewer.PDFViewer({
+            container: container,
+        });
+
         // Load the PDF
-        pdfjsLib.getDocument(pdfUrl).promise.then(pdf => {
-            const viewer = document.getElementById('pdf-viewer');
-
-            // Loop through each page and render it
-            for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
-                pdf.getPage(pageNum).then(page => {
-                    const canvas = document.createElement('canvas');
-                    viewer.appendChild(canvas);
-
-                    const viewport = page.getViewport({ scale: 1.5 });
-                    canvas.height = viewport.height;
-                    canvas.width = viewport.width;
-
-                    const renderContext = {
-                        canvasContext: canvas.getContext('2d'),
-                        viewport: viewport
-                    };
-
-                    page.render(renderContext);
-                });
-            }
+        pdfjsLib.getDocument(pdfUrl).promise.then(pdfDoc => {
+            pdfViewer.setDocument(pdfDoc);
         }).catch(error => {
             console.error('Error loading PDF: ', error);
         });
