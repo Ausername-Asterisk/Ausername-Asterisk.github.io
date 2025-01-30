@@ -4,11 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
-    <!-- PDF.js Viewer CSS -->
-    <link rel="stylesheet" href="pdf-viewer/viewer.css">
+    <!-- PDF.js Viewer CSS (Directly from your fork) -->
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/web/viewer.css">
 </head>
 <body>
-
     <!-- PDF.js Viewer Container -->
     <div id="viewerContainer">
         <div id="viewer" class="pdfViewer"></div>
@@ -16,11 +15,12 @@
 
     <p id="errorMessage" class="error-message" style="display: none; color: red;">Error loading PDF. Please check the file URL.</p>
 
-    <!-- PDF.js Library -->
-    <script src="pdf-viewer/viewer.js"></script>
+    <!-- PDF.js Library (Directly from your fork) -->
+    <script src="https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/web/viewer.js"></script>
+    
     <script>
         const pdfjsLib = window['pdfjs-dist/build/pdf'];
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'pdf-viewer/pdf.worker.js'; <!-- Ensure this path is correct -->
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://raw.githubusercontent.com/Ausername-Asterisk/pdf.js/master/build/pdf.worker.min.js'; <!-- Worker script -->
 
         // Get the PDF file URL from the query parameter
         const urlParams = new URLSearchParams(window.location.search);
@@ -44,6 +44,5 @@
             console.error('Error loading PDF: ', error);
         });
     </script>
-
 </body>
 </html>
