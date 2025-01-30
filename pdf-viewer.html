@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PDF Viewer</title>
-    <!-- Include pdf.js from a CDN -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js" integrity="sha512-ml/QKfG3+Yes6TwOzQb7aCNtJF4PUyha6R3w8pSTo/VJSywl7ZreYvvtUso7fKevpsI+pYVVwnu82YO0q3V6eg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -28,39 +27,37 @@
     <div id="pdf-viewer"></div>
 
     <script>
-        // Get the PDF file URL from the query parameter
         const urlParams = new URLSearchParams(window.location.search);
         const pdfUrl = urlParams.get('file');
 
-        // Check if a PDF file is specified
         if (!pdfUrl) {
             document.getElementById('pdf-viewer').innerHTML = '<p style="color: red; text-align: center; margin-top: 20px;">No PDF file specified in the URL.</p>';
             throw new Error('No PDF file specified in the URL.');
         }
 
-        // Initialize PDF.js
         const container = document.getElementById('pdf-viewer');
 
         pdfjsLib.getDocument(pdfUrl).promise.then(pdf => {
-            // Render each page
             for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
                 pdf.getPage(pageNum).then(page => {
-                    const scale = 1.5;
+                    const scale = 1.5; // Adjust for resolution
+                    const pixelRatio = window.devicePixelRatio || 1; // Handle high-DPI screens
                     const viewport = page.getViewport({ scale });
 
-                    // Create a canvas for the page
                     const canvas = document.createElement('canvas');
                     const context = canvas.getContext('2d');
-                    canvas.height = viewport.height;
-                    canvas.width = viewport.width;
+                    canvas.width = viewport.width * pixelRatio;
+                    canvas.height = viewport.height * pixelRatio;
+                    canvas.style.width = viewport.width + 'px';
+                    canvas.style.height = viewport.height + 'px';
 
-                    // Create a container for the page
                     const pageContainer = document.createElement('div');
                     pageContainer.className = 'page-container';
                     pageContainer.appendChild(canvas);
                     container.appendChild(pageContainer);
 
-                    // Render the page
+                    context.scale(pixelRatio, pixelRatio); // Scale the context
+
                     const renderContext = {
                         canvasContext: context,
                         viewport: viewport
