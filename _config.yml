@@ -124,12 +124,12 @@ content:
                   This project investigates the factors influencing avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. By analyzing production, transportation, and economic variables, the study identifies key drivers of price changes. A Random Forest model achieved a training R² score of 0.947 and a testing R² score of 0.798. Key drivers include organic certification, economic factors with delayed impacts, and weather conditions, providing valuable insights for better price forecasting and supply chain management.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source:  <a href="https://fred.stlouisfed.org">Federal Reserve Data</a> | <a href="https://www.weather.gov/">National Weather Service</a> | <a href="https://www.eia.gov/">U.S. Energy Information Administration</a><br>
-                    Technical Report:   <a href="https://ausername-asterisk.github.io/assets/files/10_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate__Transportation_Cost__and_Macroeconomic_Metrics_in_California.pdf">Avocado Pricing and Influencing Factors in California</a>  
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/10_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate__Transportation_Cost__and_Macroeconomic_Metrics_in_California.pdf"  style="color: black;">[Link2]</a><br>
+                    Data Source:  <a href="https://fred.stlouisfed.org"  target="_blank">Federal Reserve Data</a> | <a href="https://www.weather.gov/"  target="_blank">National Weather Service</a> | <a href="https://www.eia.gov/"  target="_blank">U.S. Energy Information Administration</a><br>
+                    Technical Report:   <a href="https://ausername-asterisk.github.io/assets/files/10_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate__Transportation_Cost__and_Macroeconomic_Metrics_in_California.pdf"  target="_blank">Avocado Pricing and Influencing Factors in California</a>  
+                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/10_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate__Transportation_Cost__and_Macroeconomic_Metrics_in_California.pdf"  style="color: black;"  target="_blank">[Link2]</a><br>
                     Code:  
-                        <a href="https://ausername-asterisk.github.io/assets/files/html/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.html">EDA, Model Training, and Results.html </a> 
-                          <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb"  style="color: black;"> [Link2: ipynb] </a>
+                        <a href="https://ausername-asterisk.github.io/assets/files/html/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.html"  target="_blank">EDA, Model Training, and Results.html </a> 
+                          <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb"  style="color: black;"  target="_blank"> [Link2: ipynb] </a>
 
                   </blockquote>
                 </div>
@@ -145,11 +145,11 @@ content:
                   This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC tensor decomposition methods, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html">The Olivetti Faces Dataset</a><br>
-                    Referenced Report: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets">Tensor decompositions for feature extraction and classification of high-dim datasets</a><br>
+                    Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html"  target="_blank">The Olivetti Faces Dataset</a><br>
+                    Referenced Report: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets"  target="_blank">Tensor decompositions for feature extraction and classification of high-dim datasets</a><br>
                     Code: 
-                    <a href="https://ausername-asterisk.github.io/assets/files/html/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.html">Model Implementation and Results.html  </a> 
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb"  style="color: black;"> [Link2: ipynb] </a>
+                    <a href="https://ausername-asterisk.github.io/assets/files/html/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.html"  target="_blank">Model Implementation and Results.html  </a> 
+                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb"  style="color: black;"  target="_blank"> [Link2: ipynb] </a>
                   </blockquote>
                 </div>
             
@@ -164,11 +164,11 @@ content:
                   This project implements the Singular Value Thresholding (SVT) algorithm for matrix completion, as described in the paper A Singular Value Thresholding Algorithm for Matrix Completion. The SVT algorithm efficiently recovers low-rank matrices from sparse data, using soft-thresholding on singular values. Tested on the GoodBooks dataset with 98.4% missing values, the algorithm achieved a 6.75% relative error after 150 iterations. The results confirm SVT's effectiveness in recovering matrices with high accuracy, making it a valuable tool for applications like recommendation systems and collaborative filtering.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://www.kaggle.com/datasets/zygmunt/goodbooks-10k">The Goodbooks Dataset</a><br>
-                    Referenced Report: <a href="https://arxiv.org/abs/0810.3286">A Singular Value Thresholding Algorithm for Matrix Completion</a><br>
+                    Data Source: <a href="https://www.kaggle.com/datasets/zygmunt/goodbooks-10k"  target="_blank">The Goodbooks Dataset</a><br>
+                    Referenced Report: <a href="https://arxiv.org/abs/0810.3286"  target="_blank">A Singular Value Thresholding Algorithm for Matrix Completion</a><br>
                     Code: 
-                    <a href="https://ausername-asterisk.github.io/assets/files/html/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.html">Model Implementation and Results.html  </a> 
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb" style="color: black;"> [Link2: ipynb] </a>
+                    <a href="https://ausername-asterisk.github.io/assets/files/html/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.html"  target="_blank">Model Implementation and Results.html  </a> 
+                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb" style="color: black;"  target="_blank"> [Link2: ipynb] </a>
 
 
                   </blockquote>
