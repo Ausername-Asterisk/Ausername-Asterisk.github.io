@@ -97,7 +97,7 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of coral-eating starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
+                  The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of Crown-of-Thorn Starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://arxiv.org/abs/2111.14311" target="_blank">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
@@ -589,14 +589,14 @@ content:
                       <a href="https://spinningup.openai.com/en/latest/index.html">1. OpenAI Spinning Up in Deep RL</a><br>
                       <a href="https://arxiv.org/abs/1707.06203">2. Imagination-Augmented Agents for Deep Reinforcement Learning</a><br>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;"> - </td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Unsupervised and Semi-Supervised Learning</td>
                   <td style="padding: 8px;">
                     <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;"> - </td>
                 </tr>
                 <tr style="border-bottom: 1px solid #ddd;">
                   <td style="padding: 8px;"> Generative Models</td>
@@ -604,7 +604,7 @@ content:
                     <a href="https://arxiv.org/abs/1606.05908">1. Tutorial on Variational Autoencoders</a><br>
                     <a href="https://arxiv.org/abs/1701.00160">2. Generative Adversarial Networks</a>
                   </td>
-                  <td style="padding: 8px;">PyTorch</td>
+                  <td style="padding: 8px;"> - </td>
                 </tr>
               </tbody>
             </table>
