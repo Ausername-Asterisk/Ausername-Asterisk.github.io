@@ -661,8 +661,8 @@ content:
       - [D3 Gallery ★](https://observablehq.com/@d3/gallery) 
       - [Eloquent JavaScript](https://eloquentjavascript.net/)
       - [Guide to Information Graphics](https://www.google.com/books/edition/The_Wall_Street_Journal_Guide_to_Informa/Q4a3EAAAQBAJ?hl=en)
-      - [Beautiful Evidence](https://www.google.com/books/edition/Beautiful_Evidence/jAcBngEACAAJ?hl=en) \|   [Now You See it](https://www.google.com/books/edition/Now_You_See_it/xw_qOwAACAAJ?hl=en)
-      - [Adobe Color](https://color.adobe.com/trends) \|   [ColorBrewer](https://colorbrewer2.org/)
+      - [Beautiful Evidence](https://www.google.com/books/edition/Beautiful_Evidence/jAcBngEACAAJ?hl=en)  <span style="color: #477eca;">|</span>    [Now You See it](https://www.google.com/books/edition/Now_You_See_it/xw_qOwAACAAJ?hl=en)
+      - [Adobe Color](https://color.adobe.com/trends) <span style="color: #477eca;">|</span>   [ColorBrewer](https://colorbrewer2.org/)
       - [ArchDaily](https://www.archdaily.com/)
 
       <br> <!-- Adds two empty lines -->
