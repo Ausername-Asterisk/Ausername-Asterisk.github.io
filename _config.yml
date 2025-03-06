@@ -46,7 +46,7 @@ linkedin_username: kkhong42
 
 # About Section
 about_title: Data Touches Everything
-about_profile_image: assets/images/essotiger.jpg
+about_profile_image: assets/images/esso_tiger.jpg
 about_content: | # this will include new lines to allow paragraphs
     This repository serves as a comprehensive record of my academic journey and a platform for organizing my knowledge and goals in AI and Data Science as I pursue my Data Analytics and Data Science master's degree at Georgia Tech, guided by the [Artificial Intelligence Roadmap](https://i.am.ai/roadmap/#note). With a strong foundation in essential components that underlie modern data science methodologies, key areas include:
 
