@@ -192,14 +192,14 @@ content:
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  <p>By fine-tuning a RoBERTa model on the GoEmotions dataset, we classify reviews from over 150,000 businesses and roughly 7 million comments into 28 distinct emotion categories. This advanced sentiment analysis enables business owners to understand customer opinions and industry trends more clearly, while providing customers with richer, more nuanced evaluations of services.</p>
-                  <p>Our approach combines these insights with performance metrics and interactive Tableau visualizations—including GIS heat maps, trend analyses, word clouds, and slope charts—to highlight patterns that traditional review systems overlook. By revealing a broader spectrum of emotions and detailed feedback, our tool empowers businesses to refine their strategies and helps consumers make better-informed decisions.</p>
+                  <p>By leveraging a fine-tuned RoBERTa model trained on the GoEmotions dataset, we perform emotion classification across 7 million Yelp customer reviews spanning 150,000 businesses.This deep learning-driven sentiment analysis categorizes feedback into 28 fine-grained emotional categories, enabling business owners to understand customer sentiment at scale and identify industry trends more clearly. Simultaneously, consumers gain access to enhanced, sentiment-driven evaluations of service providers, empowering them to make better-informed choices.</p>
+                  <p>Our approach integrates these insights with performance metrics and interactive Tableau visualizations—including GIS heatmaps, trend analyses, word clouds, and slope charts—to highlight patterns overlooked by traditional review systems. By systematically uncovering multidimensional emotions and granular feedback, these dashboards equip businesses with actionable strategies to optimize customer experiences while helping consumers align decisions with their preferences.</p>
                   
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://business.yelp.com/data/resources/open-dataset/"  target="_blank">Yelp Open Dataset</a><br>
                     Reference Papers: <a href="https://arxiv.org/abs/1810.04805"  target="_blank">BERT</a> | <a href="https://arxiv.org/abs/1907.11692"  target="_blank">RoBERTa</a> | <a href="https://arxiv.org/abs/2005.00547"  target="_blank">GoEmotions</a><br>
                     Tableau Viz: 
-                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb" style="color: #97999B;"  target="_blank"> In Progress  </a>
+                        <a href="https://ausername-asterisk.github.io/assets/images/wip.jpg" style="color: #97999B;"  target="_blank"> In Progress  </a>
                   </blockquote>
                 </div>
                 
