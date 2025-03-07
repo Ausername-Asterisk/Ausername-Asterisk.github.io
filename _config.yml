@@ -179,7 +179,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Works in Progress
+        title: Work in Progress
         caption: 
         sub_title: 
         quote: >
