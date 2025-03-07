@@ -156,8 +156,7 @@ content:
             <br>
 
             - **SVT Algorithm for Efficient Sparse Matrix Completion in a Book Recommender System 📚**  
-              - Tensor Decomposition, Higher-Order Discriminant Analysis, Feature Extraction, Dimensionality Reduction    
-
+              - Matrix Completion, Singular Value Thresholding (SVT), Recommender System    
             <br>
               **Project Description:**
               <p></p>
@@ -166,11 +165,10 @@ content:
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://www.kaggle.com/datasets/zygmunt/goodbooks-10k"  target="_blank">The Goodbooks Dataset</a><br>
-                    Referenced Paper: <a href="https://arxiv.org/abs/1810.04805"  target="_blank">BERT</a> | 
-                                        <a href="https://arxiv.org/abs/1907.11692"  target="_blank">RoBERTa</a> | 
-                                        <a href="https://arxiv.org/abs/2005.00547"  target="_blank">GoEmotions</a><br>
-                    Tableau Viz: 
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb" style="color: #97999B;"  target="_blank"> In Progress </a>
+                    Referenced Report: <a href="https://arxiv.org/abs/0810.3286"  target="_blank">A Singular Value Thresholding Algorithm for Matrix Completion</a><br>
+                    Code: 
+                    <a href="https://ausername-asterisk.github.io/assets/files/html/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.html"  target="_blank">Model Implementation and Results.html  </a> 
+                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb" style="color: #97999B;"  target="_blank"> [Link2: ipynb] </a>
 
 
                   </blockquote>
