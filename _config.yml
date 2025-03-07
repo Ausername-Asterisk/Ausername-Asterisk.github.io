@@ -165,7 +165,7 @@ content:
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                     Data Source: <a href="https://www.kaggle.com/datasets/zygmunt/goodbooks-10k"  target="_blank">The Goodbooks Dataset</a><br>
-                    Referenced Report: <a href="https://arxiv.org/abs/0810.3286"  target="_blank">A Singular Value Thresholding Algorithm for Matrix Completion</a><br>
+                    Referenced Paper: <a href="https://arxiv.org/abs/0810.3286"  target="_blank">A Singular Value Thresholding Algorithm for Matrix Completion</a><br>
                     Code: 
                     <a href="https://ausername-asterisk.github.io/assets/files/html/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.html"  target="_blank">Model Implementation and Results.html  </a> 
                       <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/2_SVT_Algorithm_for_Efficient_Sparse_Matrix_Recovery_and_Implementation_in_Python_Github.ipynb" style="color: #97999B;"  target="_blank"> [Link2: ipynb] </a>
@@ -179,30 +179,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Featured Projectstest
+        title: Works in Progress
         caption: 
         sub_title: 
         quote: >
         description: | # this will include new lines to allow paragraphs
         
 
-            - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project"></a>
-              - Deep Neural Networks, Computer Vision, Object Detection, PyTorch, Data Augmentation, Model Evaluation  
+            - **Beyond Yelp Stars: Better Review Insights for Businesses & Customers 🤝**  <a id="featured-project"></a>
+              - NLP, Fine-Tuning, Sentiment Analysis, Tableau, Business Insights, Marketing & Sales, Customer Satisfaction  
             <br>
               **Project Description:**
               <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of Crown-of-Thorn Starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
+                  This project introduces a tool that goes beyond simple star ratings by offering deeper insights from Yelp reviews. By fine-tuning a RoBERTa model on the GoEmotions dataset, we classify reviews from over 150,000 businesses and roughly 7 million comments into 28 distinct emotion categories. This advanced sentiment analysis enables business owners to understand customer opinions and industry trends more clearly, while providing customers with richer, more nuanced evaluations of services.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://arxiv.org/abs/2111.14311" target="_blank">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
-                    Technical Report: <a href="https://ausername-asterisk.github.io/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf"  target="_blank">Detecting Crown-of-Thorn Starfish in Underwater Footage</a> 
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf" style="color: #97999B;"  target="_blank">[Link2]</a><br>
-                    Code: 
-                        <a href="https://ausername-asterisk.github.io/assets/files/html/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_&_Data_Augmentation_Github.html"  target="_blank">  EDA & Data Augmentation.html </a> & 
-                        <a href="https://ausername-asterisk.github.io/assets/files/html/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_&_Results_Github.html"  target="_blank">Training & Results.html </a> 
-                          <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb" style="color: #97999B;"  target="_blank"> [Link2a: ipynb </a>  <span style="color: #97999B;">&</span>
-                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb" style="color: #97999B;"  target="_blank"> Link2b: ipynb]  </a>
+                    Data Source: <a href="https://business.yelp.com/data/resources/open-dataset/"  target="_blank">Yelp Open Dataset</a><br>
+                    Reference Papers: <a href="https://arxiv.org/abs/1810.04805"  target="_blank">BERT</a> | <a href="https://arxiv.org/abs/1907.11692"  target="_blank">RoBERTa</a> | <a href="https://arxiv.org/abs/2005.00547"  target="_blank">GoEmotions</a><br>
+                    Tableau Viz: 
+                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb" style="color: #97999B;"  target="_blank"> In Progress  </a>
                   </blockquote>
                 </div>
                 
