@@ -195,7 +195,7 @@ content:
                   <p>By leveraging a fine-tuned RoBERTa model trained on the GoEmotions dataset, we perform emotion classification across 7 million Yelp customer reviews spanning 150,000 businesses.This deep learning-driven sentiment analysis categorizes review into 28 fine-grained emotional categories, enabling business owners to understand customer sentiment at scale and identify industry trends more clearly. Simultaneously, consumers gain access to enhanced, sentiment-driven evaluations of service providers, empowering them to make better-informed choices.</p>
                   <p>Our approach integrates these insights with performance metrics and interactive Tableau visualizations—including GIS heatmaps, trend analyses, word clouds, and slope charts—to highlight patterns overlooked by traditional review systems. By systematically uncovering multidimensional emotions and granular feedback, these dashboards equip businesses with actionable strategies to optimize customer experiences while helping consumers align decisions with their preferences.</p>
                   
-                  <blockquote style="font-size: 15px; border-left: 5px solid #88b04b;">
+                  <blockquote style="font-size: 15px; border-left: 5px solid #0f4c81;">
                     Data Source: <a href="https://business.yelp.com/data/resources/open-dataset/"  target="_blank">Yelp Open Dataset</a><br>
                     Reference Papers: <a href="https://arxiv.org/abs/1810.04805"  target="_blank">BERT</a> | <a href="https://arxiv.org/abs/1907.11692"  target="_blank">RoBERTa</a> | <a href="https://arxiv.org/abs/2005.00547"  target="_blank">GoEmotions</a><br>
                     Tableau Viz: 
