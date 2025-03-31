@@ -62,6 +62,10 @@ about_content: | # this will include new lines to allow paragraphs
     
 content:   
 
+<div class="toc-wrapper">
+    {% include toc.html html=content %}
+</div>
+
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
