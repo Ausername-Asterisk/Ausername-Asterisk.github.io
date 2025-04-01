@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Machine Learning:** Focus on algorithms suited for handling large datasets with low-dimensional features, encompassing foundational tasks such as regression, classification, clustering, and dimensionality reduction. Advanced ensemble methods like boosting and bagging are also explored for enhanced model performance.
 
-    - **High-Dimensional Data Analysis:** Specialized methods for extracting informative features from datasets characterized by high dimensionality and limited samples. This includes advanced techniques in image processing, tensor analysis, and regularization.
+    - **High-Dimensional Statistics:** Specialized methods for extracting informative features from datasets characterized by high dimensionality and limited samples. This includes advanced techniques in image processing, tensor analysis, and regularization.
 
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This includes Gradient Descent Optimization (Adam), Multilayer Perceptrons (MLPs), Convolutional Neural Networks (CNNs), and advanced architectures such as Long Short-Term Memory (LSTM), Transformers, Generative Adversarial Networks (GANs), and Diffusion models.
 
@@ -74,7 +74,7 @@ content:
             - [Featured Projects](#featured-project)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
-            - [High-Dimensional Data Analysis](#high-dimensional-data-analysis)
+            - [High-Dimensional Statistics](#high-dimensional-statistics)
             - [Deep Learning](#deep-learning)
             - [Supplementary Information](#supplementary-information)
             - [Future Update](#future-update)
@@ -380,18 +380,18 @@ content:
         
             [**Return to Table of Contents**](#top)
             
-  - title: High-Dimensional Data Analysis # Title for the section
+  - title: High-Dimensional Statistics # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: High-Dimensional Data Analysis
+        title: High-Dimensional Statistics
         caption: 2024 - 2024
         sub_title: Georgia Tech
         quote: >
           "It is vain to do with more what can be done with less." 
         description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
-          This graduate-level course in high-dimensional data analysis is designed to equip professionals with essential skills in feature extraction and dimensionality reduction in statistical machine learning. The curriculum focuses on key topics such as functional data analysis, advanced image processing techniques, multilinear algebra, tensor analysis, and advanced regularization techniques for handling complex datasets. These foundational areas provide vital tools for effectively understanding and interpreting data, improving the extraction of meaningful features, and simplifying data analysis. Understanding these techniques prepares professionals to address challenges in image analysis, optimize predictive models to prevent overfitting, and gain useful insights across various data-driven fields.
+          This graduate-level course in High-Dimensional Statistics is designed to equip professionals with essential skills in feature extraction and dimensionality reduction in statistical machine learning. The curriculum focuses on key topics such as functional data analysis, advanced image processing techniques, multilinear algebra, tensor analysis, and advanced regularization techniques for handling complex datasets. These foundational areas provide vital tools for effectively understanding and interpreting data, improving the extraction of meaningful features, and simplifying data analysis. Understanding these techniques prepares professionals to address challenges in image analysis, optimize predictive models to prevent overfitting, and gain useful insights across various data-driven fields.
 
           <table style="border-collapse: collapse; width: 100%;">
             <thead>
