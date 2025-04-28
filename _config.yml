@@ -102,17 +102,10 @@ content:
                   This project leverages advanced sentiment analysis on hundreds of thousands of Yelp reviews to uncover deeper emotional trends from customers. By applying a fine-tuned RoBERTa model on review data, it transforms traditional ratings into meaningful emotional insights. Additionally, the project calculates business rankings based on key metrics, providing businesses with valuable performance indicators and empowering customers to make better-informed decisions. The interactive dashboard allows businesses to monitor sentiment trends and customer satisfaction in real-time, while helping consumers compare businesses and select the best options based on customer feedback and calculated rankings.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://arxiv.org/abs/2111.14311" target="_blank">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
-                    Technical Report: <a href="https://ausername-asterisk.github.io/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf" target="_blank">Detecting Crown-of-Thorn Starfish in Underwater Footage</a>
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf" style="color:#97999B;" target="_blank">[Link2]</a><br>
-                    Code:
-                      <a href="https://ausername-asterisk.github.io/assets/files/html/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_&_Data_Augmentation_Github.html" target="_blank">EDA & Data Augmentation.html</a> &
-                      <a href="https://ausername-asterisk.github.io/assets/files/html/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_&_Results_Github.html" target="_blank">Training & Results.html</a>
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb" style="color:#97999B;" target="_blank">[Link2a: ipynb]</a>
-                      <span style="color:#97999B;">&</span>
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb" style="color:#97999B;" target="_blank">[Link2b: ipynb]</a>
-
-                  </blockquote>
+                    Data Source: <a href="https://business.yelp.com/data/resources/open-dataset/"  target="_blank">Yelp Open Dataset</a><br>
+                    Reference Papers: <a href="https://arxiv.org/abs/1810.04805"  target="_blank">BERT</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/1907.11692"  target="_blank">RoBERTa</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/2005.00547"  target="_blank">GoEmotions</a><br>
+                    Tableau Dashboard: 
+                        <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg" style="color: #939597;"  target="_blank"> [In Progress]  </a>
                 </div>
             
             <br>                    
