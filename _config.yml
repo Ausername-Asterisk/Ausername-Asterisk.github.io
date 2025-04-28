@@ -115,22 +115,23 @@ content:
             
             <br>                    
             
-            - **Assessing Avocado Pricing Dynamics Using Climate, Transportation Costs, and Economic Metrics in CA 🥑**  
-              - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation  
+            - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project1"></a>
+              - Deep Neural Networks, Computer Vision, Object Detection, PyTorch, Data Augmentation, Model Evaluation  
             <br>
               **Project Description:**
-              <p></p>
+              <p>‎</p>
                 <div style="margin-left: 45px; font-size: 15px;">
-                  This project investigates the factors influencing avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. By analyzing production, transportation, and economic variables, the study identifies key drivers of price changes. A Random Forest model achieved a training R² score of 0.947 and a testing R² score of 0.798. Key drivers include organic certification, economic factors with delayed impacts, and weather conditions, providing valuable insights for better price forecasting and supply chain management.
+                  The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of Crown-of-Thorn Starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
                 
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source:  <a href="https://fred.stlouisfed.org"  target="_blank">Federal Reserve Data</a> <span style="color: #939597;">|</span> <a href="https://rp5.ru/Weather_in_the_world"  target="_blank">Weather In The World</a> <span style="color: #939597;">|</span> <a href="https://www.eia.gov/"  target="_blank">U.S. Energy Information Administration</a><br>
-                    Technical Report:   <a href="https://ausername-asterisk.github.io/assets/files/10_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate__Transportation_Cost__and_Macroeconomic_Metrics_in_California.pdf"  target="_blank">Avocado Pricing and Influencing Factors in California</a>  
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/10_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate__Transportation_Cost__and_Macroeconomic_Metrics_in_California.pdf"  style="color: #97999B;"  target="_blank">[Link2]</a><br>
-                    Code:  
-                        <a href="https://ausername-asterisk.github.io/assets/files/html/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.html"  target="_blank">EDA, Model Training, and Results.html </a> 
-                          <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/12_Assessing_Avocado_Pricing_Dynamics_Utilizing_Climate_Transportation_Cost_and_Macroeconomic_Metrics_in_California_Github.ipynb"  style="color: #97999B;"  target="_blank"> [Link2: ipynb] </a>
-
+                    Data Source: <a href="https://arxiv.org/abs/2111.14311" target="_blank">The CSIRO Crown-of-Thorn Starfish Detection Dataset</a><br>
+                    Technical Report: <a href="https://ausername-asterisk.github.io/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf"  target="_blank">Detecting Crown-of-Thorn Starfish in Underwater Footage</a> 
+                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/20_A_Deep_Learning_Approach_to_Safeguard_Coral_Reefs_-_Detecting_Crown-of-Thorn_Starfish_in_Underwater_Footage.pdf" style="color: #97999B;"  target="_blank">[Link2]</a><br>
+                    Code: 
+                        <a href="https://ausername-asterisk.github.io/assets/files/html/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_&_Data_Augmentation_Github.html"  target="_blank">  EDA & Data Augmentation.html </a> & 
+                        <a href="https://ausername-asterisk.github.io/assets/files/html/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_&_Results_Github.html"  target="_blank">Training & Results.html </a> 
+                          <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/21_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_EDA_%26_Data_Augmentation_Github.ipynb" style="color: #97999B;"  target="_blank"> [Link2a: ipynb </a>  <span style="color: #97999B;">&</span>
+                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/22_Detecting_Crown_of_Thorn_Starfish_in_Underwater_Footage_Training_%26_Results_Github.ipynb" style="color: #97999B;"  target="_blank"> Link2b: ipynb]  </a>
                   </blockquote>
                 </div>
             
