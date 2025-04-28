@@ -93,7 +93,7 @@ content:
         description: | # this will include new lines to allow paragraphs
               
             
-              - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project"></a>
+            - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project"></a>
               - Deep Neural Networks, Computer Vision, Object Detection, PyTorch, Data Augmentation, Model Evaluation  
             <br>
               **Project Description:**
@@ -113,7 +113,8 @@ content:
                   </blockquote>
                 </div>
             
-            <br>          
+            <br>
+                     
             
             - **Assessing Avocado Pricing Dynamics Using Climate, Transportation Costs, and Economic Metrics in CA 🥑**  
               - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation  
