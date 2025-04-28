@@ -95,9 +95,9 @@ content:
 
             - **Beyond Yelp Stars: Better Review Insights for Businesses & Customers 🤝**  <a id="featured-project"></a>
               - NLP, Fine-Tuning, Sentiment Analysis, Tableau, Business Insights, Marketing & Sales, Customer Satisfaction 
-            <p>‎ </p>  
+            <br>
               **Project Description:**
-              <p></p> 
+
                 <div style="margin-left: 45px; font-size: 15px;">
                   This project leverages advanced sentiment analysis on hundreds of thousands of Yelp reviews to uncover deeper emotional trends from customers. By applying a fine-tuned RoBERTa model on review data, it transforms traditional ratings into meaningful emotional insights. Additionally, the project calculates business rankings based on key metrics, providing businesses with valuable performance indicators and empowering customers to make better-informed decisions. The interactive dashboard allows businesses to monitor sentiment trends and customer satisfaction in real-time, while helping consumers compare businesses and select the best options based on customer feedback and calculated rankings.
                 
@@ -116,7 +116,7 @@ content:
               - Deep Neural Networks, Computer Vision, Object Detection, PyTorch, Data Augmentation, Model Evaluation  
             <br>
               **Project Description:**
-              <p></p>
+
                 <div style="margin-left: 45px; font-size: 15px;">
                   The Great Barrier Reef faces significant threats from climate change, pollution, and the overpopulation of Crown-of-Thorn Starfish (COTS). To address this, we developed a real-time COTS detection system using the YOLOv11 model, trained on a dataset of 23,501 underwater images. The model achieved a mean average precision (mAP@50) of 0.729 and an inference speed of 7.0 ms per image (143 FPS), making it highly effective for real-time detection. This solution enhances COTS detection efficiency, aiding coral reef conservation efforts.
                 
@@ -137,7 +137,7 @@ content:
               - Machine Learning, EDA, Feature Engineering, Random Forest, Feature Importance, Cross-Validation  
             <br>
               **Project Description:**
-              <p></p>
+
                 <div style="margin-left: 45px; font-size: 15px;">
                   This project investigates the factors influencing avocado price fluctuations in California, focusing on climate, transportation costs, and economic data. By analyzing production, transportation, and economic variables, the study identifies key drivers of price changes. A Random Forest model achieved a training R² score of 0.947 and a testing R² score of 0.798. Key drivers include organic certification, economic factors with delayed impacts, and weather conditions, providing valuable insights for better price forecasting and supply chain management.
                 
@@ -157,7 +157,7 @@ content:
               - Recommender Systems, Matrix Completion, Singular Value Thresholding, Collaborative Filtering  
             <br>
               **Project Description:**
-              <p></p>
+
                 <div style="margin-left: 45px; font-size: 15px;">
                   This project implements the Singular Value Thresholding (SVT) algorithm for matrix completion, as described in the paper A Singular Value Thresholding Algorithm for Matrix Completion. The SVT algorithm efficiently recovers low-rank matrices from sparse data, using soft-thresholding on singular values. Tested on the GoodBooks dataset with 98.4% missing values, the algorithm achieved a 6.75% relative error after 150 iterations. The results confirm SVT's effectiveness in recovering matrices with high accuracy, making it a valuable tool for applications like recommendation systems and collaborative filtering.
                 
@@ -177,7 +177,7 @@ content:
               - Tensor Decomposition, Higher-Order Discriminant Analysis, Feature Extraction, Dimensionality Reduction    
             <br>
               **Project Description:**
-              <p></p>
+
                 <div style="margin-left: 45px; font-size: 15px;">
                   This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC tensor decomposition methods, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
                 
@@ -204,6 +204,11 @@ content:
         
 
 
+            
+              
+            <br>
+              **Project Description:**
+              <p></p>
                 <div style="margin-left: 45px; font-size: 15px;">
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
                     Data Source: <a href="https://business.yelp.com/data/resources/open-dataset/"  target="_blank">Yelp Open Dataset</a><br>
@@ -212,7 +217,6 @@ content:
                         <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg" style="color: #939597;"  target="_blank"> [In Progress]  </a>
                   </blockquote>
                 </div>
-                
                 
         
   - title: Optimization # Title for the section
