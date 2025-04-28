@@ -205,11 +205,7 @@ content:
         description: | # this will include new lines to allow paragraphs
         
 
-             
-            <br>
-
-              <p></p>
-                <div style="margin-left: 45px; font-size: 15px;">
+                <div style="margin-left: 95px; font-size: 15px;">
 
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
                     Data Source: <a href="https://business.yelp.com/data/resources/open-dataset/"  target="_blank">Yelp Open Dataset</a><br>
