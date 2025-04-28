@@ -91,25 +91,7 @@ content:
         sub_title: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-        
-
-            - **Beyond Yelp Stars: Better Review Insights for Businesses & Customers 🤝**  <a id="featured-project"></a>
-              - NLP, Fine-Tuning, Sentiment Analysis, Tableau, Business Insights, Marketing & Sales, Customer Satisfaction  
-            <br>
-              **Project Description:**
-              <p></p>
-                <div style="margin-left: 45px; font-size: 15px;">
-                  This project leverages advanced sentiment analysis on hundreds of thousands of Yelp reviews to uncover deeper emotional trends from customers. By applying a fine-tuned RoBERTa model on review data, it transforms traditional ratings into meaningful emotional insights. Additionally, the project calculates business rankings based on key metrics, providing businesses with valuable performance indicators and empowering customers to make better-informed decisions. The interactive dashboard allows businesses to monitor sentiment trends and customer satisfaction in real-time, while helping consumers compare businesses and select the best options based on customer feedback and calculated rankings.
-                
-                  <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://business.yelp.com/data/resources/open-dataset/"  target="_blank">Yelp Open Dataset</a><br>
-                    Reference Papers: <a href="https://arxiv.org/abs/1810.04805"  target="_blank">BERT</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/1907.11692"  target="_blank">RoBERTa</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/2005.00547"  target="_blank">GoEmotions</a><br>
-                    Tableau Dashboard: 
-                        <a href="https://public.tableau.com/views/BeyondYelpStarsBetterReviewInsightsforBusinessesCustomers/BeyondYelpStars?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"  target="_blank"> Tableau Public  </a>
-                  </blockquote>
-                </div>
-            
-            <br>
+              
             
               - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project"></a>
               - Deep Neural Networks, Computer Vision, Object Detection, PyTorch, Data Augmentation, Model Evaluation  
