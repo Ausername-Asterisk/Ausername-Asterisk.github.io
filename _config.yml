@@ -207,9 +207,10 @@ content:
                 <div style="margin-left: 125px; font-size: 15px;">
 
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
-                    Reinforcement Learning: <a href="https://davidstarsilver.wordpress.com/teaching/"  target="_blank">RL - David Silver</a><br> | 
-                    <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u"  target="_blank">CS234: Reinforcement Learning</a><br> |
-                    <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ"  target="_blank">Introduction to Reinforcement Learning</a><br> |
+                    Reinforcement Learning:
+                                            - <a href="https://davidstarsilver.wordpress.com/teaching/"  target="_blank">RL - David Silver</a><br> | 
+                                            -  <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u"  target="_blank">CS234: Reinforcement Learning</a><br> |
+                                            - <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ"  target="_blank">Introduction to Reinforcement Learning</a><br> |
                     Probabilistic Machine Learning: <a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd"  target="_blank">Probabilistic Machine Learning</a><br>
                     5-Day Gen AI Intensive Course with Google Learn Guide: <a href="https://www.kaggle.com/learn-guide/5-day-genai"  target="_blank">Kaggle</a><br>
                   </blockquote>
