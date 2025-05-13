@@ -208,7 +208,7 @@ content:
 
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
                     Reinforcement Learning:
-                    <ul>
+                    <ul style="margin-left: 20px;">
                       <li><a href="https://davidstarsilver.wordpress.com/teaching/" target="_blank">RL - David Silver</a></li>
                       <li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u" target="_blank">CS234: Reinforcement Learning</a></li>
                       <li><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ" target="_blank">Introduction to Reinforcement Learning</a></li>
