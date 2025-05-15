@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This includes Gradient Descent Optimization (Adam), Multilayer Perceptrons (MLPs), Convolutional Neural Networks (CNNs), and advanced architectures such as Long Short-Term Memory (LSTM), Transformers, Generative Adversarial Networks (GANs), and Diffusion models.
 
-    - **Reinforcement Learning:** To be updated in 2025 🌟
+    - **Reinforcement Learning:** Examines trial-and-error policy learning in stochastic environments via MDPs/POMDPs; dynamic programming (Bellman updates); temporal-difference methods (Q-learning, SARSA); function approximation; exploration strategies (ε-greedy, UCB); policy-gradient and actor-critic techniques; and multi-agent/game-theoretic frameworks. (Work in Progress 🌟)
     
 content:   
 
@@ -78,6 +78,7 @@ content:
             - [Machine Learning](#machine-learning)
             - [High-Dimensional Statistics](#high-dimensional-statistics)
             - [Deep Learning](#deep-learning)
+            - [Reinforcement Learning](#reinforcement-learning)
             - [Supplementary Information](#supplementary-information)
             - [Future Update](#future-update)
 
@@ -701,7 +702,7 @@ content:
            
         description: | # this will include new lines to allow paragraphs
             <div style="font-size: 14px;">
-            Deeld.
+            Reinforcement Learning and Decision Making examines how computational agents develop sequential decision-making policies through trial-and-error interactions with their environments, formalized as Markov decision processes (MDPs) and partially observable MDPs (POMDPs). Topics include dynamic programming and value-based methods (Bellman equations, policy and value iteration), temporal-difference algorithms (TD(0), Q-learning, SARSA) with convergence guarantees, function approximation for generalization, exploration strategies (ε-greedy, upper-confidence bounds, intrinsic motivation), policy-based and actor-critic frameworks, and multi-agent/game-theoretic models (stochastic and repeated games, decentralized POMDPs). Implementation using standard RL libraries supports the evaluation of these algorithms, design of representation and exploration schemes, and management of partial observability and multi-agent coordination, preparing participants for real-world applications and research.
             
             <table style="border-collapse: collapse; width: 100%;">
               <thead>
