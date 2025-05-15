@@ -659,7 +659,33 @@ content:
               </tbody>
             </table>
             </div>
+            
+            <br> <!-- Adds two empty lines -->
+          
 
+            
+            **Books:**
+            - [Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville ★ ](https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en)
+            - [Dive into Deep Learning  ★ ](https://d2l.ai/)
+            - [Implementations of deep learning papers  ](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+            
+            <br> <!-- Adds two empty lines -->
+            
+            **Additional Resources:**
+            - [Deep Learning for Computer Vision ★](https://web.eecs.umich.edu/~justincj/teaching/eecs498/)
+            - [Deep Learning — Andreas Geiger ](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
+            - [CS 7643 - Deep Learning Notes ](https://lowyx.com/posts/gt-dl-notes/)
+            - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
+            - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
+            - [CS230 Deep Learning – Andrew Ng  ](https://cs230.stanford.edu/)
+            - [Math for Deep Learning — Andreas Geiger  ](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
+            - [Neural Networks: Zero to Hero  ](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+            - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
+            
+            <br> <!-- Adds two empty lines -->
+        
+            [**Return to Table of Contents**](#top)
+            
 
  - title: Reinforcement Learning # Title for the section
     layout: list # Type of content section (list/text)
@@ -708,26 +734,6 @@ content:
             <br> <!-- Adds two empty lines -->
           
 
-            
-            **Books:**
-            - [Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville ★ ](https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en)
-            - [Dive into Deep Learning  ★ ](https://d2l.ai/)
-            - [Implementations of deep learning papers  ](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
-            
-            <br> <!-- Adds two empty lines -->
-            
-            **Additional Resources:**
-            - [Deep Learning for Computer Vision ★](https://web.eecs.umich.edu/~justincj/teaching/eecs498/)
-            - [Deep Learning — Andreas Geiger ](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
-            - [CS 7643 - Deep Learning Notes ](https://lowyx.com/posts/gt-dl-notes/)
-            - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
-            - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
-            - [CS230 Deep Learning – Andrew Ng  ](https://cs230.stanford.edu/)
-            - [Math for Deep Learning — Andreas Geiger  ](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
-            - [Neural Networks: Zero to Hero  ](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-            - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
-            
-            <br> <!-- Adds two empty lines -->
         
             [**Return to Table of Contents**](#top)
             
