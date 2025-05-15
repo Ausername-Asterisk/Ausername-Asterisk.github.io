@@ -687,6 +687,189 @@ content:
             <br> <!-- Adds two empty lines -->
         
             [**Return to Table of Contents**](#top)
+
+            
+  - title: Reinforcement Learning # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Reinforcement Learning # Title for the section
+        caption: Work in Progress
+        sub_title: Georgia Tech
+        quote: > 
+            "Attention is all you need." 
+           
+        description: | # this will include new lines to allow paragraphs
+            <div style="font-size: 14px;">
+            Deep learning, a specialized branch of machine learning, focuses on extracting intricate hierarchical representations from raw data. Central to this field is artificial neural networks, which have revolutionized data processing across various domains such as image analysis, natural language processing, and decision-making tasks. This course delves into fundamental principles, mathematical foundations, and practical implementation of deep learning. Topics include optimization techniques like gradient descent and backpropagation, foundational neural network modules such as linear and convolutional layers, and advanced architectures like recurrent neural networks and convolutional neural networks. Through hands-on programming assignments using PyTorch, participants will learn to construct and optimize neural networks, apply them to real-world applications, choose appropriate models for diverse problems, and understand ongoing research challenges in the field.
+
+            <table style="border-collapse: collapse; width: 100%;">
+              <thead>
+                <tr style="border-bottom: 2px solid black;">
+                  <th style="padding: 8px; text-align: left;">Topic</th>
+                  <th style="padding: 8px; text-align: left;">Additional Readings</th>
+                  <th style="padding: 8px; text-align: left;">Implementation <br> (Private)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">Linear Classifiers and Gradient Descent</td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 2 - 5</a><br>
+                    <a href="https://www.nature.com/articles/nature14539">2. Deep learning</a><br>
+                    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?reload=true&arnumber=1056774">3. DShannon, 1956</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Neural Networks</td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 6</a><br>
+                    <a href="https://arxiv.org/abs/1802.01528">2. The Matrix Calculus You Need For Deep Learning ★</a><br>
+                    <a href="https://arxiv.org/abs/1502.05767">3. Automatic differentiation in machine learning: a survey</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Optimization of Deep Neural Networks</td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 7 - 8</a><br>
+                    <a href="https://arxiv.org/abs/1803.09820">2. A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay ★</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Data Wrangling<br>
+                     Convolution and Pooling Layers<br>
+                    Convolutional Neural Network Architectures
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 9</a><br>
+                    <a href="https://hadrienj.github.io/posts/Preprocessing-for-deep-learning/">2. Preprocessing for deep learning: from covariance matrix to image whitening</a><br>
+                    <a href="https://cs231n.github.io/neural-networks-2/">3. Convolutional Neural Networks for Visual Recognition</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy) & PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Visualization<br>
+                    PyTorch and Scalable Training<br>
+                    Advanced Computer Vision Architectures<br>
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1506.06579">1. Understanding Neural Networks Through Deep Visualization</a><br>
+                    <a href="https://arxiv.org/abs/1610.02391">2. Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</a><br>
+                    <a href="https://arxiv.org/abs/1605.06211">3. Fully Convolutional Networks for Semantic Segmentation</a>
+                  </td>
+                  <td style="padding: 8px;">Python (numpy) & Captum</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Bias and Fairness
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://fairmlbook.org/">1. Fairness and machine learning</a><br>
+                    <a href="https://gdpr.eu/what-is-gdpr/">2. General Data Protection Regulation (GDPR) </a><br>
+                    <a href="https://oag.ca.gov/privacy/ccpa">3. California Consumer Privacy Act (CCPA)</a><br>
+                    <a href="https://www.science.org/doi/10.1126/sciadv.aao5580">4. The accuracy, fairness, and limits of predicting recidivism</a>
+                  </td>
+                  <td style="padding: 8px;"> <a href="https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/">Markkula Center for Applied Ethics </a><br>  </td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Introduction to Structured Representations<br>
+                     Language Models
+                  </td>
+                  <td style="padding: 8px;">
+                    <a href="https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en">1. Deep Learning Ch 10</a>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Embeddings</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1301.3781">1. Efficient Estimation of Word Representations in Vector Space</a><br>
+                    <a href="https://arxiv.org/abs/1709.03856">2. StarSpace: Embed All The Things!</a><br>
+                    <a href="https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/">3. Word2Vec Tutorial</a>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Neural Attention Models</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1706.03762">1. Attention Is All You Need ★</a><br>
+                    <a href="https://arxiv.org/abs/1810.04805">2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a><br>
+                    <a href="https://jalammar.github.io/illustrated-transformer/">3. The Illustrated Transformer</a><br>
+                    <a href="https://arxiv.org/abs/1503.02531">4. Distilling the Knowledge in a Neural Network ★</a><br>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;">
+                     Neural Machine Translation<br>
+                     Automated Speech Recognition (ASR)
+                  </td>
+                  <td style="padding: 8px;">
+                      <a href="https://arxiv.org/abs/1409.3215">1. Sequence to Sequence Learning with Neural Networks</a><br>
+                  </td>
+                  <td style="padding: 8px;">PyTorch</td>
+                </tr>
+                <tr id="DL-project" style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Deep Reinforcement Learning</td>
+                  <td style="padding: 8px;">
+                      <a href="https://spinningup.openai.com/en/latest/index.html">1. OpenAI Spinning Up in Deep RL</a><br>
+                      <a href="https://arxiv.org/abs/1707.06203">2. Imagination-Augmented Agents for Deep Reinforcement Learning</a><br>
+                  </td>
+                  <td style="padding: 8px;"> - </td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Unsupervised and Semi-Supervised Learning</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1605.06211">1. Fully Convolutional Networks for Semantic Segmentation</a>
+                  </td>
+                  <td style="padding: 8px;"> - </td>
+                </tr>
+                <tr style="border-bottom: 1px solid #ddd;">
+                  <td style="padding: 8px;"> Generative Models</td>
+                  <td style="padding: 8px;">
+                    <a href="https://arxiv.org/abs/1606.05908">1. Tutorial on Variational Autoencoders</a><br>
+                    <a href="https://arxiv.org/abs/1701.00160">2. Generative Adversarial Networks</a>
+                  </td>
+                  <td style="padding: 8px;"> - </td>
+                </tr>
+              </tbody>
+            </table>
+            </div>
+
+
+
+            <br> <!-- Adds two empty lines -->
+          
+
+            
+            **Books:**
+            - [Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville ★ ](https://www.google.com/books/edition/Deep_Learning/Np9SDQAAQBAJ?hl=en)
+            - [Dive into Deep Learning  ★ ](https://d2l.ai/)
+            - [Implementations of deep learning papers  ](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+            
+            <br> <!-- Adds two empty lines -->
+            
+            **Additional Resources:**
+            - [Deep Learning for Computer Vision ★](https://web.eecs.umich.edu/~justincj/teaching/eecs498/)
+            - [Deep Learning — Andreas Geiger ](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
+            - [CS 7643 - Deep Learning Notes ](https://lowyx.com/posts/gt-dl-notes/)
+            - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
+            - [Natural Language Processing with Deep Learning ](https://web.stanford.edu/class/cs224n/)
+            - [CS230 Deep Learning – Andrew Ng  ](https://cs230.stanford.edu/)
+            - [Math for Deep Learning — Andreas Geiger  ](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
+            - [Neural Networks: Zero to Hero  ](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+            - [Deeplake Datasets ](https://datasets.activeloop.ai/docs/ml/datasets/)     
+            
+            <br> <!-- Adds two empty lines -->
+        
+            [**Return to Table of Contents**](#top)
+
             
   - title: Supplementary Information
     layout: text
