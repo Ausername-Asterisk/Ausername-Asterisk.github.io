@@ -74,6 +74,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             - [Featured Projects](#featured-project)
+            - [Work in Progress](#work_in_progress)
             - [Optimization](#optimization)
             - [Machine Learning](#machine-learning)
             - [High-Dimensional Statistics](#high-dimensional-statistics)
