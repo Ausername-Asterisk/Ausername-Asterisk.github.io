@@ -230,7 +230,7 @@ content:
     content:
     - layout: left
       title: Optimization
-      caption: 2023 - 2023 
+      caption: 
       sub_title: Georgia Tech
       quote: > 
         ". . . it is interesting to note that the original problem that started my research is still outstanding - namely the problem of planning or scheduling dynamically over time, particularly planning dynamically under uncertainty."
@@ -300,7 +300,7 @@ content:
     content:
       - layout: left
         title: Machine Learning
-        caption: 2024 - 2024
+        caption: 
         sub_title: Georgia Tech
         quote: > 
           "In God we trust, all others bring data."
@@ -406,7 +406,7 @@ content:
     content:
       - layout: left
         title: High-Dimensional Statistics
-        caption: 2024 - 2024
+        caption: 
         sub_title: Georgia Tech
         quote: >
           "It is vain to do with more what can be done with less." 
@@ -512,7 +512,7 @@ content:
     content:
       - layout: left
         title: Deep Learning 
-        caption: 2024 - 2024
+        caption: 
         sub_title: Georgia Tech
         quote: > 
             "Attention is all you need." 
