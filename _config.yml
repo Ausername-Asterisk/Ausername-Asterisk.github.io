@@ -661,6 +661,49 @@ content:
             </div>
 
 
+ - title: Reinforcement Learning # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Reinforcement Learning
+        caption: Work in Progress
+        sub_title: Georgia Tech
+        quote: > 
+            "Learn to Make Good Sequences of Decisions" 
+           
+        description: | # this will include new lines to allow paragraphs
+            <div style="font-size: 14px;">
+            Course DescriptionDeeeld.
+            
+            <table style="border-collapse: collapse; width: 100%;">
+              <thead>
+                <tr style="border-bottom: 2px solid black;">
+                  <th style="padding: 8px; text-align: left;">Topic</th>
+                  <th style="padding: 8px; text-align: left;">Additional Readings</th>
+                  <th style="padding: 8px; text-align: left;">Implementation <br> (Private)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td style="padding: 8px;">Introduction to Reinforcement Learning</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Smoov & Curly's Bogus Journey</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Reinforcement Learning Basics</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">TD and Friends</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Convergence</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Generalization</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Partially Observable MDPs</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Exploring Exploration</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">AAA</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Game Theory</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Game Theory Reloaded</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Game Theory Revolutions</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">CCC</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Messing with Rewards</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+                <tr><td style="padding: 8px;">Outroduction to Reinforcement Learning</td><td style="padding: 8px;">WIP</td><td style="padding: 8px;">WIP</td></tr>
+              </tbody>
+            </table>
+            
+            </div>
+
 
             <br> <!-- Adds two empty lines -->
           
