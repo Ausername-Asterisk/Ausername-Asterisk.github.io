@@ -790,7 +790,7 @@ content:
   - title: Future Update
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This repository is continuously updated as I progress through my studies and hands-on learning. I am currently deepening my knowledge in state-of-the-art AI development, particularly in deep learning, reinforcement learning, and large language models, and exploring their real-world applications. I’m also focusing on expanding my expertise in product development and experimental design, to bridge the gap between statistical analysis, user experience, and practical deployment in business settings.
+      This repository is continuously updated as I progress through my studies and hands-on learning. I am currently deepening my knowledge in state-of-the-art AI development, particularly in deep learning, reinforcement learning, and large language models, and exploring their real-world applications. I’m also focusing on expanding my expertise in product development and experimental design to bridge the gap between statistical analysis, user experience, and practical deployment in business settings.
 
       In the future, I plan to enhance my skills in web design and data visualization using HTML, CSS, JavaScript, and libraries like D3.js. Additionally, I look forward to developing expertise in cloud computing and modern technologies such as Spark, Docker, Scala, Databricks, AWS, and GCP. 👨‍🚀 🌟
       
