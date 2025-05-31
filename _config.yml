@@ -715,7 +715,7 @@ content:
                 </tr>
               </thead>
               <tbody>
-                <tr><td style="padding: 8px;">Reinforcement Learning Basics</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
+                <tr><td style="padding: 8px;">Reinforcement Learning Basics</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;" rowspan="5">Work in Progress</td></tr>
                 
                 <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP)</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
