@@ -722,7 +722,7 @@ content:
                 <tr><td style="padding: 8px;">Value Iteration<br>Policy Iteration </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">SARSA <br> Q-Learning </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Convergence <br> Generalization  </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
-                <tr><td style="padding: 8px;">Function approximation  <br> Deep Reinforcement learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
+                <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Partially Observable MDPs</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Exploring Exploration</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Game Theory</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
