@@ -212,6 +212,7 @@ content:
                     Reinforcement Learning: 
                     <ul style="margin-left: 60px;">
                       <li>Learn to Make Good Sequences of Decisions Under Uncertainty</li>
+                      <li><a href="https://arxiv.org/abs/1803.00710" target="_blank">Work in Progress: Replicating "Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application" </a></li>
                       <li><a href="https://ausername-asterisk.github.io/assets/files/31_Reinforcement_Learning_for_Adaptive_Traffic_Signal_Control_at_a_Simulated_Single_Intersection.pdf" target="_blank">RL for Adaptive Traffic Signal Control at a Simulated Single Intersection </a></li>
                     </ul>
                     Probabilistic Machine Learning: 
