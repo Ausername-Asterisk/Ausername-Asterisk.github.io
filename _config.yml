@@ -725,6 +725,7 @@ content:
                 <tr><td style="padding: 8px;">Convergence <br> Generalization  </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Partially Observable MDPs</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
+                <tr><td style="padding: 8px;">Actor-Critic Algorithm</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Exploring Exploration</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Game Theory</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Game Theory Reloaded</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
@@ -748,8 +749,8 @@ content:
             <br> <!-- Adds two empty lines -->
             
             **Additional Resources:**
-            - [Reinforcement Learning – Emma Brunskill  ★](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)  |  [Lectures](https://web.stanford.edu/class/cs234/) 
-            - [Reinforcement Learning – David Silver  ★](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)  |  [Lectures](https://davidstarsilver.wordpress.com/teaching/) 
+            - [Reinforcement Learning – Emma Brunskill  ★](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)  \|  [Lectures](https://web.stanford.edu/class/cs234/) 
+            - [Reinforcement Learning – David Silver  ★](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)  \|  [Lectures](https://davidstarsilver.wordpress.com/teaching/) 
             - [OpenAI Spinning Up in Deep RL  ★](https://spinningup.openai.com/en/latest/index.html) 
 
 
