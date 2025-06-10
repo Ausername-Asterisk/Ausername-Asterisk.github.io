@@ -677,7 +677,8 @@ content:
             <br> <!-- Adds two empty lines -->
             
             **Additional Resources:**
-            - [Deep Learning for Computer Vision ★](https://web.eecs.umich.edu/~justincj/teaching/eecs498/)
+            - [Deep Learning for Computer Vision ★](https://cs231n.stanford.edu/)
+            - [Deep Learning for Computer Vision 2](https://web.eecs.umich.edu/~justincj/teaching/eecs498/)
             - [Deep Learning — Andreas Geiger ](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
             - [CS 7643 - Deep Learning Notes ](https://lowyx.com/posts/gt-dl-notes/)
             - [Convolutional Neural Networks for Visual Recognition  ](https://cs231n.stanford.edu/2020/syllabus.html)
@@ -735,8 +736,22 @@ content:
             </div>
 
 
+
             <br> <!-- Adds two empty lines -->
           
+
+            
+            **Books:**
+            - [Reinforcement Learning: An Introduction – Richard S. Sutton, Andrew G. Barto ★ ](http://www.incompleteideas.net/book/the-book.html)
+            - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
+            
+            <br> <!-- Adds two empty lines -->
+            
+            **Additional Resources:**
+            - [Reinforcement Learning – Emma Brunskill  ★](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)  |  [Lectures](https://web.stanford.edu/class/cs234/) 
+            - [Reinforcement Learning – David Silver  ★](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)  |  [Lectures](https://davidstarsilver.wordpress.com/teaching/) 
+            - [OpenAI Spinning Up in Deep RL  ★](https://spinningup.openai.com/en/latest/index.html) 
+
 
               
             
