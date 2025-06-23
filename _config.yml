@@ -174,24 +174,26 @@ content:
 
                   </blockquote>
                 </div>
-            <br>
-            
-            - **Implementing Tensor Decomposition for Feature Extraction in Face Recognition on the Olivetti Dataset 🧩**  
-              - Tensor Decomposition, Higher-Order Discriminant Analysis, Feature Extraction, Dimensionality Reduction    
-            <br>
-              **Project Description:**
-
-                <div style="margin-left: 45px; font-size: 15px;">
-                  This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC tensor decomposition methods, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
                 
-                  <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html"  target="_blank">The Olivetti Faces Dataset</a><br>
-                    Referenced Paper: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets"  target="_blank">Tensor Decompositions for Feature Extraction & Classification of high-dim data</a><br>
-                    Code: 
-                    <a href="https://ausername-asterisk.github.io/assets/files/html/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.html"  target="_blank">Model Implementation and Results.html  </a> 
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb"  style="color: #97999B;"  target="_blank"> [Link2: ipynb] </a>
-                  </blockquote>
-                </div>
+            #  <br>
+            
+            # - **Implementing Tensor Decomposition for Feature Extraction in Face Recognition on the Olivetti Dataset 🧩**  
+            #   - Tensor Decomposition, Higher-Order Discriminant Analysis, Feature Extraction, Dimensionality Reduction    
+            # <br>
+            # **Project Description:**
+            # 
+            #   <div style="margin-left: 45px; font-size: 15px;">
+            #     This project implements the Higher Order Discriminant Analysis (HODA) algorithm for feature extraction in high-dimensional data through tensor decompositions. By leveraging the TUCKER and PARAFAC tensor decomposition methods, the approach successfully enhanced feature extraction and achieved 92.5% accuracy on the Olivetti faces dataset. This method effectively addresses the challenges of high-dimensional data, improving classification efficiency and reducing the computational burden often associated with traditional techniques. The use of tensor decomposition ensures a more robust feature representation, contributing to better performance in complex data analysis tasks.
+            #   
+            #     <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
+            #       Data Source: <a href="https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html"  target="_blank">The Olivetti Faces Dataset</a><br>
+            #       Referenced Paper: <a href="https://www.researchgate.net/publication/228553771_Tensor_decompositions_for_feature_extraction_and_classification_of_high_dimensional_datasets"  target="_blank">Tensor Decompositions for Feature Extraction & Classification of high-dim data</a><br>
+            #       Code: 
+            #       <a href="https://ausername-asterisk.github.io/assets/files/html/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.html"  target="_blank">Model Implementation and Results.html  </a> 
+            #         <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/1_Implementing_Tensor_Decomposition_for_Feature_Extraction_in_Python_Github.ipynb"  style="color: #97999B;"  target="_blank"> [Link2: ipynb] </a>
+            #     </blockquote>
+            #   </div>
+
 
                 
 
