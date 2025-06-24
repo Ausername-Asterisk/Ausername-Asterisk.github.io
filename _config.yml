@@ -113,10 +113,11 @@ content:
                   </blockquote>
                 </div>
             
-            <br>                 
+            <br>      
+            
             - **Lunar Lander Continuous Control with Proximal Policy Optimization and Generalized Advantage Estimation 🚀**  <a id="featured-project1"></a>
-              - Reinforcement Learning, Actor-Critic Methods, Proximal Policy Optimization, Gymnasium & OpenAI Gym, PyTorch
-  
+              - Reinforcement Learning, Actor-Critic Methods, Gymnasium & OpenAI Gym, PyTorch
+            <br>
             <br>
               **Project Description:**
 
