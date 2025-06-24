@@ -125,14 +125,14 @@ content:
                   This project applies Proximal Policy Optimization with Generalized Advantage Estimation to continuous control in the LunarLanderContinuous-v3 environment, boosting stability and performance. Experimental results highlight how hyperparameters, GAE λ, ε decay, and hidden layer size, impact learning and illustrate the trade off between model complexity and efficiency. Applying PPO to large language models like ChatGPT via human feedback also sharpens alignment with user intent, yielding more accurate, reliable outputs. Challenges in real world deployment, performance variability and environmental complexity, underscore both the strengths and limitations of reinforcement learning in complex continuous control tasks.
                   
                   <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Reference Papers: <a href="https://arxiv.org/abs/1707.06347"  target="_blank">Proximal Policy Optimization</a> <span style="color: #939597;">|</span> <a href="https://spinningup.openai.com/en/latest/algorithms/ppo.html"  target="_blank">PPO Implementation</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/1506.02438"  target="_blank">Generalized Advantage Estimation</a><br>
-                    Technical Report (WIP): <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg"  target="_blank">Lunar Lander Continuous Control with PPO and GAE</a> 
+                    Reference Papers: <a href="https://arxiv.org/abs/1707.06347"  target="_blank">PPO</a> <span style="color: #939597;">|</span> <a href="https://spinningup.openai.com/en/latest/algorithms/ppo.html"  target="_blank">PPO Implementation</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/1506.02438"  target="_blank">GAE</a><br>
+                    Technical Report(WIP): <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg"  target="_blank">Lunar Lander Continuous Control with PPO and GAE</a> 
                       <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg" style="color: #97999B;"  target="_blank">[Link2]</a><br>
-                    Code: 
+                    Code(WIP): 
                         <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg"  target="_blank">  Implementation & Training.html </a> & 
                         <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg"  target="_blank">  Results & Evaluation.html </a> 
-                          <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg" style="color: #97999B;"  target="_blank"> [Link2a: ipynb </a>  <span style="color: #97999B;">&</span>
-                        <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg" style="color: #97999B;"  target="_blank"> Link2b: ipynb]  </a>
+                          <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg" style="color: #97999B;"  target="_blank"> [Link2a </a>  <span style="color: #97999B;">&</span>
+                        <a href="https://ausername-asterisk.github.io/assets/images/Work_in_Progress.jpg" style="color: #97999B;"  target="_blank"> Link2b]  </a>
                   </blockquote>
                 </div>
             
