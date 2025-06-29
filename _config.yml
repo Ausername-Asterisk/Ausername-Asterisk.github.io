@@ -727,8 +727,9 @@ content:
                 <tr><td style="padding: 8px;">Convergence <br> Generalization <br> Partially Observable MDPs</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Actor-Critic Algorithm <br> REINFORCE <br>Proximal Policy Optimization (PPO)</td><td style="padding: 8px;"><a href="https://arxiv.org/abs/1707.06347">1. Proximal Policy Optimization Algorithms</a><br>
-                    <a href="https://arxiv.org/abs/2005.12729">2. Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO</a></td><td style="padding: 8px;">Work in Progress</td></tr>
-                <tr><td style="padding: 8px;">Offline RL <br> Direct Preference Optimization (DPO)</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
+                    <a href="https://arxiv.org/abs/1506.02438">2. High-Dimensional Continuous Control Using Generalized Advantage Estimation</a><br>
+                    <a href="https://arxiv.org/abs/2005.12729">3. Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO</a></td><td style="padding: 8px;">Work in Progress</td></tr>
+                <tr><td style="padding: 8px;">Offline RL <br> Direct Preference Optimization (DPO)</td><td style="padding: 8px;"><td style="padding: 8px;"><a href="https://arxiv.org/abs/2305.18290">1. Direct Preference Optimization</a></td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Exploring Exploration</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Game Theory <br> Multi-Agent RL</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Value Alignment</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
