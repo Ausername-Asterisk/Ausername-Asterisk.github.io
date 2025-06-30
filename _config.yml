@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **Deep Learning:** Advanced modeling techniques designed for large-scale datasets and complex feature sets. This includes Gradient Descent Optimization (Adam), Multilayer Perceptrons (MLPs), Convolutional Neural Networks (CNNs), and advanced architectures such as Long Short-Term Memory (LSTM), Transformers, Generative Adversarial Networks (GANs), and Diffusion models.
 
-    - **Reinforcement Learning:** Examines trial-and-error policy learning in stochastic environments via MDPs/POMDPs; dynamic programming (Bellman updates); temporal-difference methods (Q-learning, SARSA); function approximation; exploration strategies (ε-greedy, UCB); policy-gradient and actor-critic techniques; and multi-agent/game-theoretic frameworks. (Work in Progress 🌟)
+    - **Reinforcement Learning:** Examines trial-and-error policy learning in stochastic environments via MDPs/POMDPs; dynamic programming (Bellman updates); temporal-difference methods (Q-learning, SARSA); function approximation; exploration strategies (ε-greedy, UCB); policy-gradient and actor-critic techniques; and multi-agent/game-theoretic frameworks. 
     
 content:   
 
@@ -702,7 +702,7 @@ content:
     content:
       - layout: left
         title: Reinforcement Learning # Title for the section
-        caption: Work in Progress
+        caption: 
         sub_title: Georgia Tech
         quote: > 
             "The future is independent of the past given the present" 
