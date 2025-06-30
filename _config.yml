@@ -743,7 +743,9 @@ content:
                     <td style="padding: 8px;">Work in Progress</td>
                   </tr>
                 <tr><td style="padding: 8px;">Exploring Exploration</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
-                <tr><td style="padding: 8px;">Game Theory <br> Multi-Agent RL</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
+                <tr><td style="padding: 8px;">Game Theory <br> Multi-Agent RL</td>
+                <td style="padding: 8px;"><a href="https://www.pnas.org/doi/10.1073/pnas.36.1.48">1. Equilibrium Points in N-Person Games</a></td>
+                <td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Value Alignment</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
               </tbody>
             </table>
