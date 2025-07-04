@@ -727,7 +727,7 @@ content:
                 <tr><td style="padding: 8px;">Convergence <br> Generalization <br> Partially Observable MDPs</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                 <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Work in Progress</td></tr>
                   <tr>
-                    <td style="padding: 8px;">Actor-Critic Algorithm<br>REINFORCE<br>Proximal Policy Optimization (PPO)</td>
+                    <td style="padding: 8px;">REINFORCE<br>Proximal Policy Optimization (PPO)<br>Actor-Critic Algorithm</td>
                     <td style="padding: 8px;">
                       <a href="https://arxiv.org/abs/1707.06347">1. Proximal Policy Optimization Algorithms</a><br>
                       <a href="https://arxiv.org/abs/1506.02438">2. High-Dimensional Continuous Control Using Generalized Advantage Estimation</a><br>
