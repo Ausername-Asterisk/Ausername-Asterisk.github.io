@@ -735,23 +735,23 @@ content:
                     </td>
                     <td style="padding: 8px;">Numpy & PyTorch<br>Gymnasium</td>
                   </tr>
-                <tr><td style="padding: 8px;">Exploring Exploration</td>
+                <tr><td style="padding: 8px;">Exploration</td>
                     <td style="padding: 8px;">
                       <a href="https://www.nature.com/articles/s41586-021-04014-z">1. Efficient and targeted COVID-19 border testing via reinforcement learning ★</a><br>
                       <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/thompson.pdf">2. An Empirical Evaluation of Thompson Sampling</a>
                     </td>  
                 <td style="padding: 8px;">-</td></tr>
-                <tr><td style="padding: 8px;">Game Theory <br> Multi-Agent RL</td>
-                <td style="padding: 8px;"><a href="https://www.pnas.org/doi/10.1073/pnas.36.1.48">1. Equilibrium Points in N-Person Games</a></td>
-                <td style="padding: 8px;">Work in Progress</td></tr>
                 <tr>
-                    <td style="padding: 8px;">Offline RL<br>Direct Preference Optimization (DPO)<br> Value Alignment</td>
+                    <td style="padding: 8px;">Offline Reinforcement Learning<br>Direct Preference Optimization (DPO)<br> Value Alignment</td>
                     <td style="padding: 8px;">
                       <a href="https://arxiv.org/abs/2305.18290">1. Direct Preference Optimization ★</a>
                     </td>
                     <td style="padding: 8px;">-</td>
                   </tr>
                 <tr><td style="padding: 8px;">Partially Observable MDP (POMDP)<br>Decentralized MDP (Dec-MDP)<br>Semi-MDP<br></td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-</td></tr>
+                <tr><td style="padding: 8px;">Game Theory <br> Multi-Agent RL</td>
+                <td style="padding: 8px;"><a href="https://www.pnas.org/doi/10.1073/pnas.36.1.48">1. Equilibrium Points in N-Person Games</a></td>
+                <td style="padding: 8px;">Work in Progress</td></tr>
               </tbody>
             </table>
             
