@@ -720,12 +720,12 @@ content:
                 </tr>
               </thead>
               <tbody>
-                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy<br>Pygame<br>Gymnasium</td></tr>
-                <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy<br>Pygame<br>Gymnasium</td></tr>
-                <tr><td style="padding: 8px;">Value Iteration<br>Policy Iteration </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy<br>Pygame<br>Gymnasium</td></tr>
-                <tr><td style="padding: 8px;">SARSA <br> Q-Learning </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy<br>Pygame<br>Gymnasium</td></tr>
+                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
+                <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
+                <tr><td style="padding: 8px;">Value Iteration<br>Policy Iteration </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
+                <tr><td style="padding: 8px;">SARSA <br> Q-Learning </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
                 <tr><td style="padding: 8px;">Convergence <br> Generalization <br> Partially Observable MDPs</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-</td></tr>
-                <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy<br>PyTorch<br>Gymnasium</td></tr>
+                <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & PyTorch<br>Gymnasium</td></tr>
                   <tr>
                     <td style="padding: 8px;">REINFORCE<br>Proximal Policy Optimization (PPO)<br>Actor-Critic Algorithm</td>
                     <td style="padding: 8px;">
@@ -733,7 +733,7 @@ content:
                       <a href="https://arxiv.org/abs/1506.02438">2. High-Dimensional Continuous Control Using Generalized Advantage Estimation</a><br>
                       <a href="https://arxiv.org/abs/2005.12729">3. Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO</a>
                     </td>
-                    <td style="padding: 8px;">Numpy<br>PyTorch<br>Gymnasium</td>
+                    <td style="padding: 8px;">Numpy & PyTorch<br>Gymnasium</td>
                   </tr>
                   <tr>
                     <td style="padding: 8px;">Offline RL<br>Direct Preference Optimization (DPO)</td>
