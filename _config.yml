@@ -114,29 +114,7 @@ content:
                 </div>
             
             <br>      
-            
-            - **Lunar Lander Continuous Control with Proximal Policy Optimization and Generalized Advantage Estimation 🚀**  <a id="featured-project1"></a>
-              - Reinforcement Learning, Actor-Critic Methods, OpenAI's Gym & Gymnasium , PyTorch
-            <br>
-            <br>
-              **Project Description:**
 
-                <div style="margin-left: 45px; font-size: 15px;">
-                  This project applies Proximal Policy Optimization (PPO) with Generalized Advantage Estimation (GAE) to continuous control in the LunarLanderContinuous v3 environment, improving both stability and performance. Experimental results show how hyperparameters such as GAE lambda, epsilon decay, and hidden layer size influence learning and reveal the trade-off between model complexity and efficiency. More broadly, the application of PPO with human feedback in large language models like ChatGPT has demonstrated its effectiveness in aligning outputs with user intent, leading to more accurate and reliable responses.           
-                  
-                  <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
-                    Reference Papers: <a href="https://arxiv.org/abs/1707.06347"  target="_blank">PPO</a> <span style="color: #939597;">|</span> <a href="https://spinningup.openai.com/en/latest/algorithms/ppo.html"  target="_blank">PPO Implementation</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/1506.02438"  target="_blank">GAE</a><br>
-                    Technical Repor: <a href="https://ausername-asterisk.github.io/assets/files/42_Lunar_Lander_Continuous_Control_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation.pdf"  target="_blank">Lunar Lander Continuous Control with PPO and GAE</a> 
-                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/42_Lunar_Lander_Continuous_Control_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation.pdf" style="color: #97999B;"  target="_blank">[Link2]</a><br>
-                    Code: 
-                        <a href="https://ausername-asterisk.github.io/assets/files/html/42_Lunar_Lander_Continuous_Control_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Implementation_&_Training_GitHub.html"  target="_blank">  Implementation & Training.html </a> & 
-                        <a href="https://ausername-asterisk.github.io/assets/files/html/42_Lunar_Lander_Continuous_Control_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Results_&_Evaluation_GitHub.html"  target="_blank">  Results & Evaluation.html </a> 
-                          <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/42_Lunar_Lander_Continuous_Control_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Implementation_&_Training_GitHub.ipynb" style="color: #97999B;"  target="_blank"> [Link2a: ipynb </a>  <span style="color: #97999B;">&</span>
-                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/42_Lunar_Lander_Continuous_Control_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Results_&_Evaluation_GitHub.ipynb" style="color: #97999B;"  target="_blank"> Link2b: ipynb]  </a>
-                  </blockquote>
-                </div>
-            
-            <br> 
             
             - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project3"></a>
               - Deep Neural Networks, Computer Vision, Object Detection, PyTorch, Data Augmentation, Model Evaluation  
