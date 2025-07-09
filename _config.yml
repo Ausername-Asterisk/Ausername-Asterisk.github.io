@@ -818,7 +818,7 @@ content:
       
 # Footer _includes/footer.html
 footer_show_references: true
-references_title: Life, I'm lovin' it.
+references_title: Life, I'm lovin' it	  - 	 阿勒泰 
 
 # Build settings
 remote_theme: Ausername-Asterisk/modern-theme
