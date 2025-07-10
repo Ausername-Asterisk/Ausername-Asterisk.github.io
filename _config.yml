@@ -734,7 +734,7 @@ content:
                 <tr><td style="padding: 8px;">MAPPO <br> QMIX</td>
                     <td style="padding: 8px;">
                       <a href="https://arxiv.org/abs/2103.01955">1. The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games ★</a><br>
-                      <a href="https://arxiv.org/abs/1803.11485">2. QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning</a>
+                      <a href="https://arxiv.org/abs/1803.11485">2. QMIX: Monotonic Value Function Factorisation for Deep MARL</a>
                     </td>  
                 <td style="padding: 8px;">Work in Progress</td></tr>
               </tbody>
