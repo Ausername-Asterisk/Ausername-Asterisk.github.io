@@ -726,9 +726,16 @@ content:
                     </td>
                     <td style="padding: 8px;">-</td>
                   </tr>
+                  
                 <tr><td style="padding: 8px;">Partially Observable MDP (POMDP)<br>Decentralized MDP (Dec-MDP)<br>Semi-MDP<br></td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-</td></tr>
                 <tr><td style="padding: 8px;">Game Theory <br> Multi-Agent RL</td>
                 <td style="padding: 8px;"><a href="https://www.pnas.org/doi/10.1073/pnas.36.1.48">1. Equilibrium Points in N-Person Games</a></td>
+                <td style="padding: 8px;">Work in Progress</td></tr>
+                <tr><td style="padding: 8px;">MAPPO <br> QMIX</td>
+                    <td style="padding: 8px;">
+                      <a href="https://arxiv.org/abs/2103.01955">1. The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games ★</a><br>
+                      <a href="https://arxiv.org/abs/1803.11485">2. QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning</a>
+                    </td>  
                 <td style="padding: 8px;">Work in Progress</td></tr>
               </tbody>
             </table>
