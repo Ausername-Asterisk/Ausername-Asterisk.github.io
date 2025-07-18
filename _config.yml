@@ -698,12 +698,22 @@ content:
                 </tr>
               </thead>
               <tbody>
-                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
-                <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
-                <tr><td style="padding: 8px;">Value Iteration<br>Policy Iteration </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
-                <tr><td style="padding: 8px;">SARSA <br> Q-Learning </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>Gymnasium</td></tr>
+                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>
+                 <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium - Classic Control</a>
+                </td></tr>
+                <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>
+                <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium - Classic Control</a>
+                </td></tr>
+                <tr><td style="padding: 8px;">Value Iteration<br>Policy Iteration </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>
+                <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium - Classic Control</a>
+                </td></tr>
+                <tr><td style="padding: 8px;">SARSA <br> Q-Learning </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>
+                <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium - Classic Control</a>
+                </td></tr>
                 <tr><td style="padding: 8px;">Convergence <br> Generalization </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-</td></tr>
-                <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & PyTorch<br>Gymnasium</td></tr>
+                <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & PyTorch<br>
+                <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium - Box2D</a>
+                </td></tr>
                   <tr>
                     <td style="padding: 8px;">REINFORCE<br>Proximal Policy Optimization (PPO)<br>Actor-Critic Algorithm</td>
                     <td style="padding: 8px;">
@@ -711,8 +721,9 @@ content:
                       <a href="https://arxiv.org/abs/1506.02438">2. High-Dimensional Continuous Control Using Generalized Advantage Estimation</a><br>
                       <a href="https://arxiv.org/abs/2005.12729">3. Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO</a>
                     </td>
-                    <td style="padding: 8px;">Numpy & PyTorch<br>Gymnasium</td>
-                  </tr>
+                    <td style="padding: 8px;">Numpy & PyTorch<br>
+                    <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium - Box2D</a>
+                </td></tr>
                 <tr><td style="padding: 8px;">Exploration</td>
                     <td style="padding: 8px;">
                       <a href="https://www.nature.com/articles/s41586-021-04014-z">1. Efficient and targeted COVID-19 border testing via reinforcement learning ★</a><br>
