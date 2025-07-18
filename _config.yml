@@ -710,7 +710,7 @@ content:
                 </td></tr>
                 <tr><td style="padding: 8px;">Convergence <br> Generalization </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-</td></tr>
                 <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & PyTorch<br>
-                <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium-Box2D</a>
+                <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium-Box2D</a> <span style="color: blue;">&amp;</span> <a href="https://ale.farama.org/environments/">Atari</a>
                 </td></tr>
                   <tr>
                     <td style="padding: 8px;">REINFORCE<br>Proximal Policy Optimization (PPO)<br>Actor-Critic Algorithm</td>
@@ -720,7 +720,7 @@ content:
                       <a href="https://arxiv.org/abs/2005.12729">3. Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO</a>
                     </td>
                     <td style="padding: 8px;">Numpy & PyTorch<br>
-                    <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium-Box2D</a>
+                    <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium-Box2D</a><span style="color: blue;">&amp;</span> <a  href="https://ale.farama.org/environments/">Atari</a>
                 </td></tr>
                 <tr><td style="padding: 8px;">Exploration</td>
                     <td style="padding: 8px;">
