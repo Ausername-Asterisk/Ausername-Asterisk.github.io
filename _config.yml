@@ -698,11 +698,9 @@ content:
                 </tr>
               </thead>
               <tbody>
-                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>
-                 <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium-Classic Control</a>
+                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-
                 </td></tr>
-                <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>
-                <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium-Classic Control</a>
+                <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-
                 </td></tr>
                 <tr><td style="padding: 8px;">Value Iteration<br>Policy Iteration </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">Numpy & Pygame<br>
                 <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium-Classic Control</a>
