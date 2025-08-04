@@ -115,6 +115,29 @@ content:
             
             <br>      
 
+            - **Pac-Man Gameplay with Proximal Policy Optimization and Generalized Advantage Estimation 📺**  <a id="featured-project1"></a>
+              - Reinforcement Learning, Artificial Intelligence, Atari Games, Actor-Critic Methods, PyTorch
+            <br>
+            <br>
+              **Project Description:**
+
+                <div style="margin-left: 45px; font-size: 15px;">
+                  This project applies Proximal Policy Optimization (PPO) with Generalized Advantage Estimation (GAE) to Atari 2600 Pac-Man, training agents to navigate mazes and avoid ghosts effectively. Over 30,000 episodes and 24.6 million timesteps, PPO with GAE delivered stable policy learning, achieving evaluation rewards above 500 points. Beyond gaming, PPO is also used to fine-tune large language models like ChatGPT through reinforcement learning from human feedback (RLHF), while extensions such as MAPPO show promise for multi-agent scenarios. Future work will explore enhanced exploration strategies, alternative architectures, and hybrid state representations to improve robustness and efficiency.          
+                  
+                  <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
+                    Reference Papers: <a href="https://arxiv.org/abs/1707.06347"  target="_blank">PPO</a> <span style="color: #939597;">|</span> <a href="https://spinningup.openai.com/en/latest/algorithms/ppo.html"  target="_blank">PPO Implementation</a> <span style="color: #939597;">|</span> <a href="https://arxiv.org/abs/1506.02438"  target="_blank">GAE</a><br>
+                    Technical Repor: <a href="https://ausername-asterisk.github.io/assets/files/Pac_Man_Gameplay_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation.pdf"  target="_blank">Pac-Man Gameplay with PPO and GAE</a> 
+                      <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/Pac_Man_Gameplay_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation.pdf" style="color: #97999B;"  target="_blank">[Link2]</a><br>
+                    Code: 
+                        <a href="https://ausername-asterisk.github.io/assets/files/html/Pac_Man_Gameplay_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Implementation_&_Training_GitHub.html"  target="_blank">  Implementation & Training.html </a> & 
+                        <a href="https://ausername-asterisk.github.io/assets/files/html/Pac_Man_Gameplay_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Results_&_Evaluation_GitHub.html"  target="_blank">  Results & Evaluation.html </a> 
+                          <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/Pac_Man_Gameplay_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Implementation_&_Training_GitHub.ipynb" style="color: #97999B;"  target="_blank"> [Link2a: ipynb </a>  <span style="color: #97999B;">&</span>
+                        <a href="https://github.com/Ausername-Asterisk/Ausername-Asterisk.github.io/blob/main/assets/files/Pac_Man_Gameplay_with_Proximal_Policy_Optimization_and_Generalized_Advantage_Estimation_Results_&_Evaluation_GitHub.ipynb" style="color: #97999B;"  target="_blank"> Link2b: ipynb]  </a>
+                  </blockquote>
+                </div>
+            
+            <br> 
+            
             
             - **A DL Approach to Safeguard Coral Reefs: Detecting Crown-of-Thorn Starfish in Underwater Footage 🌏**  <a id="featured-project3"></a>
               - Deep Neural Networks, Computer Vision, Object Detection, PyTorch, Data Augmentation, Model Evaluation  
