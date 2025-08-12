@@ -733,27 +733,29 @@ content:
               </thead>
               <tbody>
                 <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">
-                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B - Ch 3</a><br>
-                    <a href="https://www.marl-book.com/">2. MARL - Ch 1,2 </a>
+                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 1, 3</a><br>
+                    <a href="https://www.marl-book.com/">2. MARL : Ch 1,2 </a>
                 </td><td style="padding: 8px;">-
                 </td></tr>
                 <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">
-                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B - Ch 5, 6</a>
+                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 5, 6</a>
                     </td><td style="padding: 8px;">-
                 </td></tr>
                 <tr><td style="padding: 8px;">Value Iteration<br>Policy Iteration </td><td style="padding: 8px;">
-                                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B - Ch 4</a>
+                                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 4</a>
                                     </td><td style="padding: 8px;">Numpy & Pygame<br>
                 <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium-Classic Control</a>
                 </td></tr>
                 <tr><td style="padding: 8px;">SARSA <br> Q-Learning </td><td style="padding: 8px;">
-                                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B - Ch 6, 7, 8, 12</a>
+                                    <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 6, 7, 8</a>
                                     </td><td style="padding: 8px;">Numpy & Pygame<br>
                 <a href="https://gymnasium.farama.org/environments/classic_control/">Gymnasium-Classic Control</a>
                 </td></tr>
-                <tr><td style="padding: 8px;">Convergence <br> Generalization </td><td style="padding: 8px;">-</td><td style="padding: 8px;">-</td></tr>
+                <tr><td style="padding: 8px;">Convergence <br> Generalization </td><td style="padding: 8px;">
+                                <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 9, 10</a>
+                                </td><td style="padding: 8px;">-</td></tr>
                 <tr><td style="padding: 8px;">Function Approximation  <br> Deep Reinforcement Learning</td><td style="padding: 8px;">
-                <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B - Ch 9, 10, 11, 13</a>
+                <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 11, 12, 13</a>
                 </td><td style="padding: 8px;">Numpy & PyTorch<br>
                 <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium-Box2D</a> & <a href="https://ale.farama.org/environments/">Atari</a> <br>
                 <a href="https://aws.amazon.com/deepracer/">AWS DeepRacer</a>
@@ -771,7 +773,7 @@ content:
                 </td></tr>
                 <tr><td style="padding: 8px;">Exploration</td>
                     <td style="padding: 8px;">
-                      <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B - Ch 2</a><br>
+                      <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 2</a><br>
                       <a href="https://www.nature.com/articles/s41586-021-04014-z">2. Efficient and targeted COVID-19 border testing via reinforcement learning ★</a><br>
                       <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/thompson.pdf">3. An Empirical Evaluation of Thompson Sampling</a>
                     </td>  
@@ -785,11 +787,11 @@ content:
                   </tr>
                   
                 <tr><td style="padding: 8px;">Partially Observable MDP (POMDP)<br>Decentralized MDP (Dec-MDP)<br>Semi-MDP<br></td><td style="padding: 8px;">
-                <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B - Ch 17</a>
+                <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 16, 17</a>
                 </td><td style="padding: 8px;">-</td></tr>
                 <tr><td style="padding: 8px;">Game Theory <br> Multi-Agent RL</td>
                 <td style="padding: 8px;"><a href="https://www.pnas.org/doi/10.1073/pnas.36.1.48">1. Equilibrium Points in N-Person Games</a><br>
-                <a href="https://www.marl-book.com/">2. MARL - Ch 3, 4, 5, 6, 9, 10, 11</a>
+                <a href="https://www.marl-book.com/">2. MARL : Ch 3, 4, 5, 6, 9, 10, 11</a>
                 
                 </td>
                 <td style="padding: 8px;">Numpy & PyTorch<br>
