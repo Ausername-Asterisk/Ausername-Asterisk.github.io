@@ -332,7 +332,7 @@ content:
             <thead>
               <tr style="border-bottom: 2px solid black; text-align: center;">
                 <th style="padding: 8px;">Topic</th>
-                <th style="padding: 8px;">Description</th>
+                <th style="padding: 8px;">Project Description</th>
                 <th style="padding: 8px;">Implementation <br> (Private)</th>
               </tr>
             </thead>
