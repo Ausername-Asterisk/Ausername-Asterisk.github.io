@@ -732,7 +732,10 @@ content:
                 </tr>
               </thead>
               <tbody>
-                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-
+                <tr><td style="padding: 8px;">Markov Reward Process (MRP)  <br> Markov Decision Process (MDP) </td><td style="padding: 8px;">
+                    <a href="http://www.incompleteideas.net/book/the-book.html">1. RL - Ch 3</a><br>
+                    <a href="https://www.marl-book.com/">2. MARL - Ch 1,2 </a>
+                </td><td style="padding: 8px;">-
                 </td></tr>
                 <tr><td style="padding: 8px;">Monte Carlo Policy Evaluation  <br> Temporal Difference (TD) </td><td style="padding: 8px;">Work in Progress</td><td style="padding: 8px;">-
                 </td></tr>
