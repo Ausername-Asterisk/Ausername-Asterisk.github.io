@@ -771,7 +771,7 @@ content:
                     <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium-Box2D</a> & <a  href="https://ale.farama.org/environments/">Atari</a> <br>
                 <a href="https://aws.amazon.com/deepracer/">AWS DeepRacer</a>
                 </td></tr>
-                <tr><td style="padding: 8px;">DQN<br>DDPG<br>TD3<br>A3C</td>
+                <tr><td style="padding: 8px;">Deep Reinforcement Learning Algorithm</td>
                     <td style="padding: 8px;">
                       <a href="https://www.nature.com/articles/nature14236">1. DQN: Human-level control through deep reinforcement learning</a><br>
                       <a href="https://arxiv.org/abs/1509.02971">2. DDPG: Continuous control with deep reinforcement learning</a><br>
