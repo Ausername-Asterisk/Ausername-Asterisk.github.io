@@ -771,6 +771,15 @@ content:
                     <a href="https://gymnasium.farama.org/environments/box2d/">Gymnasium-Box2D</a> & <a  href="https://ale.farama.org/environments/">Atari</a> <br>
                 <a href="https://aws.amazon.com/deepracer/">AWS DeepRacer</a>
                 </td></tr>
+                <tr><td style="padding: 8px;">DQN<br>DDPG<br>TD3<br>A3C</td>
+                    <td style="padding: 8px;">
+                      <a href="https://www.nature.com/articles/nature14236">1. DQN: Human-level control through deep reinforcement learning</a><br>
+                      <a href="https://arxiv.org/abs/1509.02971">2. DDPG: Continuous control with deep reinforcement learning</a><br>
+                      <a href="https://arxiv.org/abs/1802.09477">3. TD3: Addressing function approximation error in actor-critic methods</a><br>
+                      <a href="https://arxiv.org/abs/1602.01783">4. A3C: Asynchronous methods for deep reinforcement learning</a>
+                    </td>  
+                <td style="padding: 8px;">-</td></tr>
+                <tr>
                 <tr><td style="padding: 8px;">Exploration</td>
                     <td style="padding: 8px;">
                       <a href="http://www.incompleteideas.net/book/the-book.html">1. S&B : Ch 2</a><br>
