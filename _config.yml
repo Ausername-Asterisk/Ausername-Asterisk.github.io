@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
     - **High-Dimensional Statistics:** Methods for extracting meaningful patterns from high-dimensional, limited-sample datasets, including regularization, feature selection, tensor analysis, and image and signal processing.
 
-    - **Deep Learning:** Advanced deep learning for large-scale, complex data tasks, including computer vision (CNNs), natural language processing (LSTMs and attention-based models), and generative tasks (diffusion models).
+    - **Deep Learning:** Advanced deep learning for large-scale, complex data tasks, including computer vision (CNNs) for image analysis, natural language processing (LSTMs and attention-based models) for text understanding, and generative tasks (diffusion models) for creative AI applications.
 
     - **Reinforcement Learning:** Policy learning through trial-and-error in diverse environments, including dynamic programming, temporal-difference and Monte Carlo methods, function approximation, exploration strategies, deep reinforcement learning, policy-gradient and actor-critic methods, and multi-agent scenarios.
     
