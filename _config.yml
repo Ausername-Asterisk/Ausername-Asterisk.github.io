@@ -50,7 +50,7 @@ linkedin_username: kkhong42
 about_title: Data Touches Everything
 about_profile_image: assets/images/profilekkh.jpg 
 about_content: | # this will include new lines to allow paragraphs
-    This repository provides a comprehensive record of academic progress and a platform for organizing knowledge and objectives in AI and Data Science while pursuing a Master’s in Data Analytics and Data Science at Georgia Tech, guided by the [Artificial Intelligence Expert Roadmap](https://i.am.ai/roadmap/). With a strong foundation in essential components of data science and AI, including:
+    This repository provides a comprehensive record of academic progress and a platform for organizing knowledge and objectives in AI and Data Science while pursuing a Master’s in Data Analytics and Data Science at Georgia Tech, guided by the [Artificial Intelligence Expert Roadmap](https://i.am.ai/roadmap/). With a strong foundation in essential components of data science and AI, this repository covers:
 
     - **Optimization:** Core techniques for designing machine learning algorithms, including gradient-based, stochastic, and adaptive methods, with practical implementation in Python.
 
