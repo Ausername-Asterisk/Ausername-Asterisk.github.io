@@ -52,13 +52,13 @@ about_profile_image: assets/images/profilekkh.jpg
 about_content: | # this will include new lines to allow paragraphs
     This repository serves as a comprehensive record of academic progress and a platform for organizing my knowledge and objectives in AI and Data Science. It was developed during my Master’s in Data Analytics and Data Science at Georgia Tech and is continuously evolving, guided by the [Artificial Intelligence Expert Roadmap](https://i.am.ai/roadmap/). Built upon a strong foundation in essential components of data science and AI, this repository covers:
 
-    - **Optimization:** Core techniques for designing machine learning algorithms, including gradient-based, stochastic, and adaptive methods, with practical implementation in Python.
+    - **Optimization:** Core techniques for designing machine learning algorithms, including gradient-based, stochastic, and adaptive methods, with focus on improving performance and convergence.
 
     - **Machine Learning:** Algorithms for regression, classification, clustering, and dimensionality reduction, with ensemble methods such as boosting and bagging to improve performance.
 
     - **High-Dimensional Statistics:** Methods for extracting meaningful patterns from high-dimensional, limited-sample datasets, including regularization, feature selection, tensor analysis, and image and signal processing.
 
-    - **Deep Learning:** Advanced models for large-scale, complex data, including multilayer perceptrons (MLP), convolutional neural networks (CNN), recurrent networks (LSTM), attention-based architectures, and generative models such as GANs and diffusion models, with implementation in Python and PyTorch.
+    - **Deep Learning:** Advanced models for large-scale, complex data, including multilayer perceptrons (MLPs), convolutional neural networks (CNNs), recurrent networks (LSTMs), attention-based architectures, natural language processing (NLP), and generative models such as GANs and diffusion models.
 
     - **Reinforcement Learning:** Policy learning through trial-and-error in diverse environments, including dynamic programming, temporal-difference and Monte Carlo methods, function approximation, exploration strategies, deep reinforcement learning, policy-gradient and actor-critic methods, and multi-agent scenarios.
     
