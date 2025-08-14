@@ -322,7 +322,7 @@ content:
         caption: 
         sub_title: Georgia Tech
         quote: > 
-          "In God we trust, all others bring data."
+          "Without data, you’re just another person with an opinion."
         description: | # this will include new lines to allow paragraphs
           <div style="font-size: 14px;">
           This graduate-level machine learning course explored essential methodologies, theories, and algorithms across diverse domains. The curriculum began with foundational concepts in clustering, dimensionality reduction, and statistical modeling, and advanced to techniques such as Gaussian mixture models, support vector machines, and ensemble methods including AdaBoost and random forests. Practical application was emphasized through hands-on projects using Python for algorithm implementation and analysis of real-world datasets. The course provided a comprehensive understanding of machine learning principles, strengthening the ability to tackle complex analytical problems, optimize model performance, and extract meaningful insights from data.
