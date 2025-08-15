@@ -788,7 +788,11 @@ content:
                 <tr>
                     <td style="padding: 8px;">Offline Reinforcement Learning<br>Direct Preference Optimization (DPO)<br> Value Alignment</td>
                     <td style="padding: 8px;">
-                      <a href="https://arxiv.org/abs/2305.18290">1. Direct Preference Optimization ★</a>
+                      <a href="https://arxiv.org/abs/2203.02155">1. Training language models to follow instructions with human feedback ★</a>
+                      <a href="https://arxiv.org/abs/2305.18290">2. Direct Preference Optimization ★</a><br>
+                      <a href="https://docs.unsloth.ai/basics/reinforcement-learning-rl-guide">3. DeepSeek-R1 Reasoning ★</a><br>
+
+                      
                     </td>
                     <td style="padding: 8px;">-</td>
                   </tr>
