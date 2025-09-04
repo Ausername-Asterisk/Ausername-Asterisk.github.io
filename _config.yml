@@ -228,7 +228,7 @@ content:
                 <div style="margin-left: 125px; font-size: 15px;"><a id="work_in_progress"></a>
 
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
-                    Working on something interesting with LLMs (Azure OpenAI) + Data (Non-public): 
+                    Working on something interesting with LLMs (Azure OpenAI) + Data (Cloud Databases): 
                     <ul style="margin-left: 60px;">
                       <li>Letting users talk to their data in natural language</li>
                       <li><a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank"> Azure OpenAI in Foundry Models </a></li>
