@@ -233,6 +233,7 @@ content:
                       <li>Letting users talk to their data in natural language</li>
                       <li><a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank"> Azure OpenAI in Foundry Models </a></li>
                       <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/fine-tuning?tabs=azure-openai&pivots=programming-language-python#safety-evaluation-gpt-4-fine-tuning---public-preview" target="_blank"> Customize a model with fine-tuning </a></li>
+                      <li><a href="https://azure.microsoft.com/en-us/products/dev-box" target="_blank"> Microsoft Dev Box </a></li>
                       <li><a href="https://www.langchain.com/" target="_blank"> LangChain </a></li>
                       
                     </ul>
