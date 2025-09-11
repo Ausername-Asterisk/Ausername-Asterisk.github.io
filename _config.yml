@@ -228,7 +228,7 @@ content:
                 <div style="margin-left: 125px; font-size: 15px;"><a id="work_in_progress"></a>
 
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
-                    Working on something interesting with LLMs (<a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank"> Azure OpenAI </a>) + Data (<a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank"> Azure Blob Storage </a>): 
+                    Working on something interesting with LLMs (<a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" target="_blank">Azure OpenAI</a>) + Data (<a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank">Azure Blob Storage</a>): 
                     <ul style="margin-left: 60px;">
                       <li>Letting users talk to their data in natural language</li>
                       <li><a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank"> Azure Blob Storage </a></li>                      
