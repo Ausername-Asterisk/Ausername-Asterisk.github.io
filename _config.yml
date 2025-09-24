@@ -229,6 +229,7 @@ content:
 
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
                     Working on something interesting with LLMs (<a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank">Azure AI Foundry</a>) + Data (<a href="https://azure.microsoft.com/en-us/products/storage/blobs" target="_blank">Azure Blob Storage</a>): 
+                    - Microsoft Azure Services, LLM, Data Lake, Retrieval Augmented Generation (RAG)
                     <ul style="margin-left: 60px;">
                       <li>Letting users talk to their data in natural language</li>
                       <li><a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank"> Azure Blob Storage documentation</a></li>                      
