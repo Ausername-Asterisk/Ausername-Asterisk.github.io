@@ -236,6 +236,7 @@ content:
                       <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/" target="_blank"> Azure AI Foundry documentation</a></li>
                       <li><a href="https://azure.microsoft.com/en-us/products/ai-foundry/models/" target="_blank"> Azure AI Foundry Models</a></li>
                       <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/fine-tuning?tabs=azure-openai&pivots=programming-language-python#safety-evaluation-gpt-4-fine-tuning---public-preview" target="_blank"> Customize a model with fine-tuning</a></li>
+                      <li><a href="https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html" target="_blank">Develop generative AI solutions in Azure</a></li>
                       <li><a href="https://azure.microsoft.com/en-us/products/dev-box" target="_blank">Microsoft Dev Box</a></li>
                       
                     </ul>
