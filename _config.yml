@@ -232,6 +232,7 @@ content:
                     <ul style="margin-left: 5px; list-style-type: circle;"> <li>Microsoft Azure Services, LLM, Data Lake, Retrieval Augmented Generation (RAG)</li> </ul>
                     <ul style="margin-left: 60px;">
                       <li>Letting users talk to their data in natural language</li>
+                      <li><a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank"> Azure Databricks</a></li>                      
                       <li><a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank"> Azure Blob Storage documentation</a></li>                      
                       <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/" target="_blank"> Azure AI Foundry documentation</a></li>
                       <li><a href="https://azure.microsoft.com/en-us/products/ai-foundry/models/" target="_blank"> Azure AI Foundry Models</a></li>
