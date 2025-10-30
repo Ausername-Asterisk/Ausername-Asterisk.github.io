@@ -231,16 +231,47 @@ content:
                     Working on something interesting with LLMs (<a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank">Azure AI Foundry</a>) + Data (<a href="https://azure.microsoft.com/en-us/products/storage/blobs" target="_blank">Azure Blob Storage</a>): 
                     <ul style="margin-left: 5px; list-style-type: circle;"> <li>Microsoft Azure Services, LLM, Data Lake, Retrieval Augmented Generation (RAG)</li> </ul>
                     <ul style="margin-left: 60px;">
-                      <li>Letting users talk to their data in natural language</li>
-                      <li><a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank"> Azure Blob Storage documentation</a></li> 
-                      <li><a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank"> Azure Databricks</a></li>                      
-                      <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/" target="_blank"> Azure AI Foundry documentation</a></li>
-                      <li><a href="https://azure.microsoft.com/en-us/products/ai-foundry/models/" target="_blank"> Azure AI Foundry Models</a></li>
-                      <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/fine-tuning?tabs=azure-openai&pivots=programming-language-python#safety-evaluation-gpt-4-fine-tuning---public-preview" target="_blank"> Customize a model with fine-tuning</a></li>
-                      <li><a href="https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html" target="_blank">Develop generative AI solutions in Azure</a></li>
-                      <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/overview" target="_blank">What are tools in Azure AI Foundry Agent Service?</a></li>
-                      <li><a href="https://azure.microsoft.com/en-us/products/dev-box" target="_blank">Microsoft Dev Box</a></li>
-                      
+                      <li><strong>Letting users talk to their data in natural language</strong></li>
+                    
+                      <!-- Azure Core Services -->
+                      <li><strong>Azure Core Services</strong></li>
+                      <ul>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank">Azure Blob Storage documentation</a></li>
+                        <li><a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank">Azure Databricks</a></li>
+                        <li><a href="https://azure.microsoft.com/en-us/products/dev-box" target="_blank">Microsoft Dev Box</a></li>
+                      </ul>
+                    
+                      <!-- Azure AI Foundry -->
+                      <li><strong>Azure AI Foundry</strong></li>
+                      <ul>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/" target="_blank">Azure AI Foundry documentation</a></li>
+                        <li><a href="https://azure.microsoft.com/en-us/products/ai-foundry/models/" target="_blank">Azure AI Foundry Models</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/fine-tuning?tabs=azure-openai&pivots=programming-language-python#safety-evaluation-gpt-4-fine-tuning---public-preview" target="_blank">Customize a model with fine-tuning</a></li>
+                        <li><a href="https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html" target="_blank">Develop generative AI solutions in Azure</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/overview" target="_blank">What are tools in Azure AI Foundry Agent Service?</a></li>
+                      </ul>
+                    
+                      <!-- Azure Databricks: Generative AI and RAG -->
+                      <li><strong>Azure Databricks: Generative AI & RAG</strong></li>
+                      <ul>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-serving/query-chat-models" target="_blank">Query a chat model</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/pretrained-models" target="_blank">Get generative AI and LLM models from Unity Catalog and Marketplace</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/marketplace/get-started-consumer" target="_blank">Access data products in Databricks Marketplace</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/retrieval-augmented-generation" target="_blank">RAG on Azure Databricks</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/vector-search" target="_blank">Mosaic AI Vector Search</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/create-query-vector-search" target="_blank">How to create and query a vector search index</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/large-language-models/langchain" target="_blank">LangChain on Azure Databricks for LLM development</a></li>
+                        <li><a href="https://docs.databricks.com/_extras/notebooks/source/generative-ai/vector-search-python-sdk-example.html" target="_blank">vector-search-python-sdk-example</a></li>
+                      </ul>
+                    
+                      <!-- Azure Databricks: RAG Evaluation and Quality -->
+                      <li><strong>Azure Databricks: RAG Evaluation & Quality</strong></li>
+                      <ul>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/ai-cookbook/fundamentals-inference-chain-rag" target="_blank">RAG chain for inference</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/ai-cookbook/fundamentals-evaluation-monitoring-rag" target="_blank">Introduction to evaluation & monitoring RAG applications</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/ai-cookbook/quality-overview" target="_blank">Improve RAG application quality</a></li>
+                        <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/ai-cookbook/quality-rag-chain" target="_blank">Improve RAG chain quality</a></li>
+                      </ul>
                     </ul>
                     Reinforcement Learning: 
                     <ul style="margin-left: 60px;">
