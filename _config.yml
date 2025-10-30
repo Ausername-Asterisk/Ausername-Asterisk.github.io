@@ -261,7 +261,7 @@ content:
                         <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/vector-search" target="_blank">Mosaic AI Vector Search</a></li>
                         <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/create-query-vector-search" target="_blank">How to create and query a vector search index</a></li>
                         <li><a href="https://learn.microsoft.com/en-us/azure/databricks/large-language-models/langchain" target="_blank">LangChain on Azure Databricks for LLM development</a></li>
-                        <li><a href="https://docs.databricks.com/_extras/notebooks/source/generative-ai/vector-search-python-sdk-example.html" target="_blank">vector-search-python-sdk-example</a></li>
+                        <li><a href="https://docs.databricks.com/_extras/notebooks/source/generative-ai/vector-search-python-sdk-example.html" target="_blank">Vector Search Python SDK example</a></li>
                       </ul>
                     
                       <!-- Azure Databricks: RAG Evaluation and Quality -->
