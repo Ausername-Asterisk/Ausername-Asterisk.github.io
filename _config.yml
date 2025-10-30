@@ -228,13 +228,13 @@ content:
                 <div style="margin-left: 125px; font-size: 15px;"><a id="work_in_progress"></a>
 
                   <blockquote style="font-size: 15px; border-left: 5px solid #939597;">
-                    Working on something interesting with LLMs (<a href="https://azure.microsoft.com/en-us/products/ai-foundry" target="_blank">Azure AI Foundry</a>) + Data (<a href="https://azure.microsoft.com/en-us/products/storage/blobs" target="_blank">Azure Blob Storage</a>): 
+                    Working on something interesting with LLMs (<a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank">Azure Databricks</a>) + Data (<a href="https://azure.microsoft.com/en-us/products/storage/blobs" target="_blank">Azure Blob Storage</a>): 
                     <ul style="margin-left: 5px; list-style-type: circle;"> <li>Microsoft Azure Services, LLM, Data Lake, Retrieval Augmented Generation (RAG)</li> </ul>
                     <ul style="margin-left: 60px;">
-                      <li><strong>Letting users talk to their data in natural language</strong></li>
+                      <li>Letting users talk to their data in natural language</li>
                     
                       <!-- Azure Core Services -->
-                      <li><strong>Azure Core Services</strong></li>
+                      <li>Azure Core Services</li>
                       <ul>
                         <li><a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank">Azure Blob Storage documentation</a></li>
                         <li><a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank">Azure Databricks</a></li>
@@ -242,7 +242,7 @@ content:
                       </ul>
                     
                       <!-- Azure AI Foundry -->
-                      <li><strong>Azure AI Foundry</strong></li>
+                      <li>Azure AI Foundry</li>
                       <ul>
                         <li><a href="https://learn.microsoft.com/en-us/azure/ai-foundry/" target="_blank">Azure AI Foundry documentation</a></li>
                         <li><a href="https://azure.microsoft.com/en-us/products/ai-foundry/models/" target="_blank">Azure AI Foundry Models</a></li>
@@ -252,7 +252,7 @@ content:
                       </ul>
                     
                       <!-- Azure Databricks: Generative AI and RAG -->
-                      <li><strong>Azure Databricks: Generative AI & RAG</strong></li>
+                      <li>Azure Databricks: Generative AI & RAG</li>
                       <ul>
                         <li><a href="https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-serving/query-chat-models" target="_blank">Query a chat model</a></li>
                         <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/pretrained-models" target="_blank">Get generative AI and LLM models from Unity Catalog and Marketplace</a></li>
@@ -265,7 +265,7 @@ content:
                       </ul>
                     
                       <!-- Azure Databricks: RAG Evaluation and Quality -->
-                      <li><strong>Azure Databricks: RAG Evaluation & Quality</strong></li>
+                      <li>Azure Databricks: RAG Evaluation & Quality</li>
                       <ul>
                         <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/ai-cookbook/fundamentals-inference-chain-rag" target="_blank">RAG chain for inference</a></li>
                         <li><a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/ai-cookbook/fundamentals-evaluation-monitoring-rag" target="_blank">Introduction to evaluation & monitoring RAG applications</a></li>
