@@ -217,7 +217,7 @@ content:
               **Project Description:**
             
               <div style="margin-left: 85px; font-size: 15px;">
-                This project develops a Retrieval-Augmented LLM system to streamline the analysis of large, high-frequency telemetry datasets (37 million records). The system unifies heterogeneous sensor data through timestamp standardization, schema harmonization, and synchronized alignment. A deterministic KPI engine computes key metrics to reveal operational efficiency, trends, and anomalies, while retrieval-augmented language model reasoning enables natural-language queries with grounded, context-aware explanations. Together, these capabilities convert complex telemetry into actionable insights for faster and informed decision-making.
+                This project develops a Retrieval-Augmented LLM system to streamline analysis of large, high-frequency telemetry datasets (37 million records). It unifies heterogeneous sensor data through timestamp standardization, schema harmonization, and alignment. A KPI engine computes metrics to reveal efficiency, trends, and anomalies, while retrieval-augmented language reasoning enables natural-language queries with context-aware explanations. Together, these capabilities turn complex telemetry into actionable insights for faster, informed decision-making.
 
                         <blockquote style="font-size: 15px; border-left: 5px solid #be3455; ">
                           Azure Core Services:
