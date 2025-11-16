@@ -211,27 +211,20 @@ content:
                 </div>
                 
             <br> 
-             - **Built AI/LLM solutions with <a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank">Azure Databricks</a> and <a href="https://azure.microsoft.com/en-us/products/storage/blobs" target="_blank">Azure Blob Storage</a> for a Fortune 200 enterprise 📚**  
-              - Microsoft Azure Services, LLM, Data Lake, Retrieval Augmented Generation (RAG)
+            - **Built AI/LLM solutions with <a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank">Azure Databricks</a> and <a href="https://azure.microsoft.com/en-us/products/storage/blobs" target="_blank">Azure Blob Storage</a> for a Fortune 200 enterprise 📚**  
+              - Microsoft Azure Services, LLM, Data Lake, Retrieval-Augmented Generation (RAG)  
             <br>
               **Project Description:**
-
-                <div style="margin-left: 45px; font-size: 15px;">
-                  This project develops a Retrieval-Augmented LLM system that streamlines the interpretation of large, high-frequency telemetry datasets (37 million records) by unifying heterogeneous sensor data through timestamp standardization, schema harmonization, and synchronized alignment. A deterministic KPI engine computes key performance metrics to reveal operational efficiency, trends, and anomalies, while retrieval-augmented language model reasoning enables natural-language queries with grounded, context-aware explanations. Together, these capabilities transform complex telemetry into consistent, actionable insights that support faster and more informed decision-making.
-                
-                    <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
+            
+              <div style="margin-left: 45px; font-size: 15px;">
+                This project develops a Retrieval-Augmented LLM system to streamline the analysis of large, high-frequency telemetry datasets (37 million records). The system unifies heterogeneous sensor data through timestamp standardization, schema harmonization, and synchronized alignment. A deterministic KPI engine computes key metrics to reveal operational efficiency, trends, and anomalies, while retrieval-augmented language model reasoning enables natural-language queries with grounded, context-aware explanations. Together, these capabilities convert complex telemetry into actionable insights for faster and informed decision-making.
+            
+                <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                         <strong>Azure Core Services:</strong><br>
                         <a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank">Azure Blob Storage documentation</a><br>
                         <a href="https://azure.microsoft.com/en-us/products/databricks" target="_blank">Azure Databricks</a><br>
                         <a href="https://azure.microsoft.com/en-us/products/dev-box" target="_blank">Microsoft Dev Box</a><br><br>
-                    
-                        <strong>Azure AI Foundry:</strong><br>
-                        <a href="https://learn.microsoft.com/en-us/azure/ai-foundry/" target="_blank">Azure AI Foundry documentation</a><br>
-                        <a href="https://azure.microsoft.com/en-us/products/ai-foundry/models/" target="_blank">Azure AI Foundry Models</a><br>
-                        <a href="https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/fine-tuning?tabs=azure-openai&pivots=programming-language-python#safety-evaluation-gpt-4-fine-tuning---public-preview" target="_blank">Customize a model with fine-tuning</a><br>
-                        <a href="https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/04-Use-own-data.html" target="_blank">Develop generative AI solutions in Azure</a><br>
-                        <a href="https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/overview" target="_blank">Azure AI Foundry Agent tools overview</a><br><br>
-                    
+                
                         <strong>Azure Databricks: Generative AI & RAG:</strong><br>
                         <a href="https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-serving/query-chat-models" target="_blank">Query a chat model</a><br>
                         <a href="https://learn.microsoft.com/en-us/azure/databricks/generative-ai/pretrained-models" target="_blank">Get generative AI and LLM models</a><br>
