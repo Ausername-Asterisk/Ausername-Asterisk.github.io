@@ -218,8 +218,8 @@ content:
             
               <div style="margin-left: 45px; font-size: 15px;">
                 This project develops a Retrieval-Augmented LLM system to streamline the analysis of large, high-frequency telemetry datasets (37 million records). The system unifies heterogeneous sensor data through timestamp standardization, schema harmonization, and synchronized alignment. A deterministic KPI engine computes key metrics to reveal operational efficiency, trends, and anomalies, while retrieval-augmented language model reasoning enables natural-language queries with grounded, context-aware explanations. Together, these capabilities convert complex telemetry into actionable insights for faster and informed decision-making.
-            
-                <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
+                
+                  <blockquote style="font-size: 15px; border-left: 5px solid #be3455;">
                   <strong>Azure Core Services:</strong>
                   <ul>
                     <li><a href="https://learn.microsoft.com/en-us/azure/storage/blobs/" target="_blank">Azure Blob Storage documentation</a></li>
