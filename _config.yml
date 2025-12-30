@@ -274,6 +274,10 @@ content:
                       <li><a href="https://www.gdeltproject.org" target="_blank"> Watching Our World Unfold </a></li>
                     </ul>
                     
+                   Our World in Data: 
+                    <ul style="margin-left: 60px;">
+                      <li><a href="https://ourworldindata.org/" target="_blank"> Research and Data to Make Progress Against the World’s Largest Problems </a></li>
+                    </ul>           
     
                     Reinforcement Learning: 
                     <ul style="margin-left: 60px;">
